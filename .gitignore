@@ -1,5 +1,6 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+.DS_Store
+node_modules
+/dist
+uploads
+.idea
+/history

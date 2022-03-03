@@ -1,0 +1,33 @@
+{
+  "name": "finalprojectserver",
+  "version": "1.0.0",
+  "description": "毕业设计后端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderTCL/finalProjectServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoderTCL/finalProjectServer/issues"
+  },
+  "homepage": "https://github.com/CoderTCL/finalProjectServer#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "jimp": "^0.16.1",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^10.1.1",
+    "koa2-cors": "^2.0.6",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15"
+  }
+}
