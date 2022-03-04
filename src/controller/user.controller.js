@@ -1,5 +1,10 @@
 const fs = require('fs')
 const userService = require('../service/user.service')
+const jwt = require('jsonwebtoken')
+const {
+    PRIVATE_KEY
+} = require("../app/config");
+
 // const fileService = require('../service/file.service')
 
 
@@ -23,6 +28,31 @@ class userController {
             }
         }
     }
+
+
+    // 2:用户登录
+    async login(ctx, next) {
+        // 获取用户请求传递的参数
+        // console.log(ctx.user);
+        const {
+            id,
+            name
+        } = ctx.user
+        // 私钥加密 公钥解密 生成token
+        const token = jwt.sign({
+            id,
+            name
+        }, PRIVATE_KEY, {
+            expiresIn: 60 * 60 * 24,
+            algorithm: 'RS256'
+        })
+        ctx.body = {
+            status: 200,
+            message: '登录成功~',
+            info: ctx.user,
+            token
+        }
+    }
 }
 
-module.exports=new userController()
+module.exports = new userController()

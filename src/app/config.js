@@ -2,7 +2,7 @@ const fs = require("fs")
 const path = require("path")
 const dotenv = require("dotenv")
 
-dotenv.config()
+dotenv.config() //默认读取项目根目录下的.env文件
 
 const private_key_url = path.resolve(__dirname, "./keys/private.key")
 const public_key_url = path.resolve(__dirname, "./keys/public.key")

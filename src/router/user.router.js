@@ -9,14 +9,15 @@ const {
 const {
     // verifyAuth,
     // verifyPermission,
-    // verifyLogin
+    verifyLogin
 } = require('../middleware/auth.middleware')
 const {
-    register
+    register,
+    login
 } = require('../controller/user.controller')
 
 // 1:注册用户
 userRouter.post('/register', handlePassword, register)
-// 2:注册用户
-// userRouter.post('/login', handlePassword, login)
+// 2:登录用户
+userRouter.post('/login', verifyLogin, login)
 module.exports = userRouter

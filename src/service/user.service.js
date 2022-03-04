@@ -1,7 +1,7 @@
 const connection = require('../app/database')
 
 class userService {
-    // //插入数据到user中
+    // //1:插入数据到user中
     async create(user) {
         //执行SQL语句,返回结果
         const {
@@ -24,6 +24,13 @@ class userService {
         const result = await connection.execute(statement, [username, password]);
         console.log(result);
         return result
+    }
+
+    ////2:通过username查询用户信息
+    async getUserByName(username) {
+        const statement = 'SELECT * FROM user WHERE username= ?;';
+        const result = await connection.execute(statement, [username]);
+        return result[0]; //第一个元素为查询到的用户信息
     }
 }
 
