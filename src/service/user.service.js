@@ -50,6 +50,13 @@ class userService {
         const result = await connection.execute(statement, [username, name, phone, email, professor, zip_code, avatar_url, id]);
         return true;
     }
+
+     ////4:通过id更新user表中用户密码
+     async updatePassword(password, id) {
+         const statement = 'update user set password=? WHERE id= ?;';
+         const result = await connection.execute(statement, [password, id]);
+         return result;
+     }
 }
 
 

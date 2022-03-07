@@ -12,7 +12,7 @@ class userController {
     //1:创建用户
     async register(ctx, next) {
         // 获取用户请求传递的参数
-        const user = ctx.request.body        
+        const user = ctx.request.body
         // 获取SQL语句执行结果,设置到ctx.body中
         const res = await userService.create(user)
         // 返回数据
@@ -54,28 +54,48 @@ class userController {
         }
     }
 
-     //3:更新用户信息
-     async updateUserInfo(ctx, next) {
-         //1:获取用户id
-         const {
-             id
-         } = ctx.params
+    //3:更新用户信息
+    async updateUserInfo(ctx, next) {
+        //1:获取用户id
+        const {
+            id
+        } = ctx.params
 
-         //2:将信息存储到user表中
-         const res = await userService.updateUserInfo(ctx.request.body, id)
-         
-         if (res) {
-             ctx.body = {
-                 status: 200,
-                 message: '更新用户信息成功'
-             }
-         } else {
-             ctx.body = {
-                 status: 400,
-                 message: '该用户名已存在'
-             }
-         }
-     }
+        //2:将信息存储到user表中
+        const res = await userService.updateUserInfo(ctx.request.body, id)
+
+        if (res) {
+            ctx.body = {
+                status: 200,
+                message: '更新用户信息成功'
+            }
+        } else {
+            ctx.body = {
+                status: 400,
+                message: '该用户名已存在'
+            }
+        }
+    }
+
+    //4:更新用户密码
+    async updatePassword(ctx, next) {
+        //1:获取用户id
+        const {
+            id
+        } = ctx.params
+        const {
+            password
+        } = ctx.request.body
+
+        //2:将信息存储到user表中
+        const res = await userService.updatePassword(password, id)
+        if (res) {
+            ctx.body = {
+                status: 200,
+                message: '更新用户密码成功'
+            }
+        }
+    }
 }
 
 module.exports = new userController()

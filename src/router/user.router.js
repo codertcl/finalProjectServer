@@ -7,14 +7,15 @@ const {
 } = require('../middleware/user.middleware')
 
 const {
-    // verifyAuth,
+    verifyAuth,
     // verifyPermission,
     verifyLogin
 } = require('../middleware/auth.middleware')
 const {
     register,
     login,
-    updateUserInfo
+    updateUserInfo,
+    updatePassword
 } = require('../controller/user.controller')
 
 // 1:用户注册
@@ -22,5 +23,7 @@ userRouter.post('/register', verifyUser, handlePassword, register)
 // 2:用户登录
 userRouter.post('/login', verifyLogin, login)
 // 3:用户信息修改
-userRouter.patch('/:id/userInfo', verifyLogin, updateUserInfo)
+userRouter.post('/:id/updateUserInfo', verifyAuth, updateUserInfo)
+//4:更新用户密码
+userRouter.patch('/:id/updatePassword', verifyAuth, handlePassword, updatePassword)
 module.exports = userRouter
