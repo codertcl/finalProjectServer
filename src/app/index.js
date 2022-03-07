@@ -9,13 +9,13 @@ app.use(bodyParser());
 //注册使用路由 useRoutes函数中this绑定到了app
 app.useRoutes = useRoutes;
 app.useRoutes()
-// app.use(async (ctx, next) => {
-//     ctx.set('Access-Control-Allow-Origin', "http://localhost:8888");
-//     // ctx.set("Access-Control-Allow-Credentials", true);
-//     // // ctx.set('Access-Control-Allow-Headers', 'Content-Type');
-//     // ctx.set('Access-Control-Allow-Methods', "OPTIONS, GET, PUT, POST, DELETE")
-//     await next();
-// });
+app.use(async (ctx, next) => {
+    ctx.set('Access-Control-Allow-Origin', "http://localhost:8888");
+    ctx.set("Access-Control-Allow-Credentials", true);
+    ctx.set('Access-Control-Allow-Headers', 'Content-Type');
+    ctx.set('Access-Control-Allow-Methods', "OPTIONS, GET, PUT, POST, DELETE")
+    await next();
+});
 //错误处理
 app.on('error', errorHandler)
 module.exports = app
