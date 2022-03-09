@@ -4,10 +4,8 @@ const dotenv = require("dotenv")
 
 dotenv.config() //默认读取项目根目录下的.env文件
 
-const private_key_url = path.resolve(__dirname, "./keys/private.key")
-const public_key_url = path.resolve(__dirname, "./keys/public.key")
-const PRIVATE_KEY = fs.readFileSync(private_key_url)
-const PUBLIC_KEY = fs.readFileSync(public_key_url)
+const PRIVATE_KEY = fs.readFileSync(path.resolve(__dirname, './keys/private.key'));
+const PUBLIC_KEY = fs.readFileSync(path.resolve(__dirname, './keys/public.key'));
 
 // 等价于
 // const { APP_PORT } = process.env

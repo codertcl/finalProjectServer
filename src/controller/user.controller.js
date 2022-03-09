@@ -33,15 +33,14 @@ class userController {
     // 2:用户登录
     async login(ctx, next) {
         // 获取用户请求传递的参数
-        // console.log(ctx.user);
         const {
             id,
-            name
+            username
         } = ctx.user
         // 私钥加密 公钥解密 生成token
         const token = jwt.sign({
             id,
-            name
+            username
         }, PRIVATE_KEY, {
             expiresIn: 60 * 60 * 24,
             algorithm: 'RS256'

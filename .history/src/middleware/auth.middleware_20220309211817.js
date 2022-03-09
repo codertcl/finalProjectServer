@@ -22,7 +22,6 @@ const verifyLogin = async (ctx, next) => {
     //3:判断本次注册用户是否已经存在
     const result = await userService.getUserByName(username); ////存储查询到的信息
     const user = result[0] //查询到用户信息
-    
     if (!user) { //用户不存在
         const error = new Error(errorType.USER_NOT_EXISTS)
         return ctx.app.emit('error', error, ctx)
