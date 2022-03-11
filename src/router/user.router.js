@@ -15,7 +15,8 @@ const {
     register,
     login,
     updateUserInfo,
-    updatePassword
+    updatePassword,
+    updateProfileEducation
 } = require('../controller/user.controller')
 
 // 1:用户注册
@@ -26,4 +27,6 @@ userRouter.post('/login', verifyLogin, login)
 userRouter.post('/:id/updateUserInfo', verifyAuth, updateUserInfo)
 //4:更新用户密码
 userRouter.patch('/:id/updatePassword', verifyAuth, handlePassword, updatePassword)
+//:5更新用户学术信息
+userRouter.patch('/:id/updateProfileEducation', verifyAuth, updateProfileEducation)
 module.exports = userRouter

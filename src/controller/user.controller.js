@@ -95,6 +95,29 @@ class userController {
             }
         }
     }
+
+    //5:更新用户教育信息
+    async updateProfileEducation(ctx, next) {
+        //1:获取用户id
+        const {
+            id
+        } = ctx.params
+
+        //2:将信息存储到user表中
+        const res = await userService.updateProfileEducation(ctx.request.body, id)
+
+        if (res) {
+            ctx.body = {
+                status: 200,
+                message: '更新用户信息成功'
+            }
+        } else {
+            ctx.body = {
+                status: 400,
+                message: '更新失败'
+            }
+        }
+    }
 }
 
 module.exports = new userController()

@@ -28,7 +28,7 @@ class userService {
         return result[0]; //第一个元素为查询到的用户信息
     }
 
-    ////3:通过id更新user表中用户的信息
+    ////3:通过id更新user表中用户的基本信息
     async updateUserInfo(info, id) {
         const {
             username,
@@ -51,12 +51,36 @@ class userService {
         return true;
     }
 
-     ////4:通过id更新user表中用户密码
-     async updatePassword(password, id) {
-         const statement = 'update user set password=? WHERE id= ?;';
-         const result = await connection.execute(statement, [password, id]);
-         return result;
-     }
+    ////4:通过id更新user表中用户密码
+    async updatePassword(password, id) {
+        const statement = 'update user set password=? WHERE id= ?;';
+        const result = await connection.execute(statement, [password, id]);
+        return result;
+    }
+
+
+    ////5:通过id更新user表中用户的教育信息
+    async updateProfileEducation(info, id) {
+        const {
+            self_introduction,
+            research_fields,
+            academic_duties,
+            prize,
+            education_experience,
+            //  articles,
+        } = info
+
+        const statement = `update user set self_introduction=?,research_fields=?,academic_duties=?,
+         prize = ? , education_experience = ? WHERE id = ?;`;
+        await connection.execute(statement, [self_introduction,
+            research_fields,
+            academic_duties,
+            prize,
+            education_experience,
+            id
+        ]);
+        return true;
+    }
 }
 
 
