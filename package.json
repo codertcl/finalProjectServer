@@ -19,8 +19,10 @@
   },
   "homepage": "https://github.com/CoderTCL/finalProjectServer#readme",
   "dependencies": {
+    "axios": "^0.26.1",
     "dotenv": "^16.0.0",
     "jimp": "^0.16.1",
+    "js": "^0.1.0",
     "jsonwebtoken": "^8.5.1",
     "koa": "^2.13.4",
     "koa-bodyparser": "^4.3.0",
@@ -28,6 +30,7 @@
     "koa-router": "^10.1.1",
     "koa2-cors": "^2.0.6",
     "mysql2": "^2.3.3",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "python-shell": "^3.0.1"
   }
 }

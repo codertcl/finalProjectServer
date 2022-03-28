@@ -1,9 +1,15 @@
 const fs = require('fs')
+const path = require('path');
+const axios = require('axios')
+const {
+    PythonShell
+} = require('python-shell');
 const userService = require('../service/user.service')
 const jwt = require('jsonwebtoken')
 const {
     PRIVATE_KEY
 } = require("../app/config");
+
 
 // const fileService = require('../service/file.service')
 
@@ -118,6 +124,55 @@ class userController {
             }
         }
     }
+
+    //6:获取用户论文信息
+    async getArticleInfo(ctx, next) {
+        //1:获取用户名
+        const {
+            username
+        } = ctx.params
+
+        //2:将信息存储到user表中
+        const res = axios.get(`https://dblp.org/search/publ/api?q=${username}&h=1000&format=xml`)
+            .then(re => {
+                // let options = {
+                //     mode: 'text',
+                //     pythonPath: 'path/to/python',
+                //     pythonOptions: ['-u'], // get print results in real-time
+                //     scriptPath: 'path/to/my/scripts',
+                //     args: path.resolve('src/py/data', `${username}.xml`)
+                // };
+                let filename = path.resolve('src/py/data', `${username}.xml`)
+                fs.writeFile(filename, re.data, {
+                    flag: 'w'
+                }, (err) => {
+                    if (err) {
+                        console.log(err)
+                    }
+                })
+                PythonShell.run('./src/py/main.py', null, function (err) {
+                    if (err) throw err;
+                    console.log('finished ');
+                });
+            }).catch(err => {
+                console.log(err);
+            })
+
+        // if (res) {
+        //     ctx.body = {
+        //         status: 200,
+        //         message: '更新用户信息成功'
+        //     }
+        // } else {
+        //     ctx.body = {
+        //         status: 400,
+        //         message: '更新失败'
+        //     }
+        // }
+    }
+
+
+
 }
 
 module.exports = new userController()

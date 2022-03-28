@@ -16,7 +16,8 @@ const {
     login,
     updateUserInfo,
     updatePassword,
-    updateProfileEducation
+    updateProfileEducation,
+    getArticleInfo
 } = require('../controller/user.controller')
 
 // 1:用户注册
@@ -29,4 +30,6 @@ userRouter.post('/:id/updateUserInfo', verifyAuth, updateUserInfo)
 userRouter.patch('/:id/updatePassword', verifyAuth, handlePassword, updatePassword)
 //:5更新用户学术信息
 userRouter.patch('/:id/updateProfileEducation', verifyAuth, updateProfileEducation)
+//:6获取用户论文信息
+userRouter.get('/:username/getArticleInfo', verifyAuth, getArticleInfo)
 module.exports = userRouter
