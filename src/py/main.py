@@ -1,6 +1,6 @@
 import xml.sax
 import pymysql.cursors
-
+import  sys
 connection = pymysql.connect(
         host='localhost',
         user='root',
@@ -89,8 +89,10 @@ class InfoHandler(xml.sax.ContentHandler):
             self.url = content
 
 if (__name__ == "__main__"):
+    #获取js代码传递的论文文件名 
+    filename= sys.argv[1]
     parser = xml.sax.make_parser()
     parser.setFeature(xml.sax.handler.feature_namespaces, 0)
     Handler = InfoHandler()
     parser.setContentHandler(Handler)
-    parser.parse("F:\\bs\\my\\code\\finalProjectServer\\src\\py\\data\\deze zeng.xml")
+    parser.parse(filename)

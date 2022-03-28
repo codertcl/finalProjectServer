@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="224910">deze* zeng*</query>
+<query id="262366">deze* zeng*</query>
 <status code="200">OK</status>
-<time unit="msecs">9.58</time>
+<time unit="msecs">8.61</time>
 <completions total="1" computed="1" sent="1">
 <c sc="157" dc="157" oc="157" id="45799961">zeng</c>
 </completions>

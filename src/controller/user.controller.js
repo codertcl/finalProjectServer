@@ -135,13 +135,10 @@ class userController {
         //2:将信息存储到user表中
         const res = axios.get(`https://dblp.org/search/publ/api?q=${username}&h=1000&format=xml`)
             .then(re => {
-                // let options = {
-                //     mode: 'text',
-                //     pythonPath: 'path/to/python',
-                //     pythonOptions: ['-u'], // get print results in real-time
-                //     scriptPath: 'path/to/my/scripts',
-                //     args: path.resolve('src/py/data', `${username}.xml`)
-                // };
+                let options = {
+                    mode: 'text',
+                    args: path.resolve('src/py/data', `${username}.xml`)
+                }
                 let filename = path.resolve('src/py/data', `${username}.xml`)
                 fs.writeFile(filename, re.data, {
                     flag: 'w'
@@ -150,7 +147,7 @@ class userController {
                         console.log(err)
                     }
                 })
-                PythonShell.run('./src/py/main.py', null, function (err) {
+                PythonShell.run('./src/py/main.py', options, function (err) {
                     if (err) throw err;
                     console.log('finished ');
                 });
