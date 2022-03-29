@@ -81,6 +81,13 @@ class userService {
         ]);
         return true;
     }
+
+    ////6:通过username获取dblp表中用户的论文信息
+    async getArticleInfo(username) {
+        const statement = `select * from dblp where authors LIKE '%${username}%';`;
+        let res = await connection.execute(statement);
+        return res[0]
+    }
 }
 
 

@@ -132,44 +132,50 @@ class userController {
             username
         } = ctx.params
 
-        //2:将信息存储到user表中
-        const res = axios.get(`https://dblp.org/search/publ/api?q=${username}&h=1000&format=xml`)
-            .then(re => {
-                let options = {
-                    mode: 'text',
-                    args: path.resolve('src/py/data', `${username}.xml`)
-                }
-                let filename = path.resolve('src/py/data', `${username}.xml`)
-                fs.writeFile(filename, re.data, {
-                    flag: 'w'
-                }, (err) => {
-                    if (err) {
-                        console.log(err)
+        //2:将信息存储到dblp表中
+        let res = await userService.getArticleInfo(username)
+        // 返回的数组为空，即用户信息还没有插入到mysql
+        if (!res.length) {
+            axios.get(`https://dblp.org/search/publ/api?q=${username}&h=1000&format=xml`)
+                .then(async re => {
+                    let options = {
+                        mode: 'text',
+                        args: path.resolve('src/py/data', `${username}.xml`)
+                    }
+                    let filename = path.resolve('src/py/data', `${username}.xml`)
+                    fs.writeFile(filename, re.data, {
+                        flag: 'w'
+                    }, (err) => {
+                        if (err) {
+                            console.log(err)
+                        }
+                    })
+                    PythonShell.run('./src/py/main.py', options, function (err) {
+                        if (err) throw err;
+                        console.log('finished ');
+                    });
+
+                    // 3:获取dblp表中该作者的论文数据
+                    const articleInfo = await userService.getArticleInfo(username)
+                    ctx.body = {
+                        status: 200,
+                        message: '获取论文信息成功',
+                        info: articleInfo
+                    }
+                }).catch(err => {
+                    ctx.body = {
+                        status: 500,
+                        message: '获取论文信息失败',
                     }
                 })
-                PythonShell.run('./src/py/main.py', options, function (err) {
-                    if (err) throw err;
-                    console.log('finished ');
-                });
-            }).catch(err => {
-                console.log(err);
-            })
-
-        // if (res) {
-        //     ctx.body = {
-        //         status: 200,
-        //         message: '更新用户信息成功'
-        //     }
-        // } else {
-        //     ctx.body = {
-        //         status: 400,
-        //         message: '更新失败'
-        //     }
-        // }
+        } else {
+            ctx.body = {
+                status: 200,
+                message: '获取论文信息成功',
+                info: res
+            }
+        }   
     }
-
-
-
 }
 
 module.exports = new userController()
