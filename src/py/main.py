@@ -35,12 +35,13 @@ class InfoHandler(xml.sax.ContentHandler):
             # 构造SQL语句
             with connection.cursor() as cursor:
                 sqlStr = "INSERT INTO `dblp` "
-                sqlStr += "(`authors`,`title`,`venue`,`volume`,`number`,`pages`,`year`,`type`,`key`,`doi`,`ee`,`url`) "
+                sqlStr += "(`authors`,`author`,`title`,`venue`,`volume`,`number`,`pages`,`year`,`type`,`key`,`doi`,`ee`,`url`) "
                 sqlStr += "VALUES ("
                 auStr = ""
                 for au in self.authors:
                     auStr += au + ","
                 sqlStr += "'" + auStr[:auStr.__len__()-1] + "',"
+                sqlStr += "'" + author + "',"
                 sqlStr += "'" + self.title + "',"
                 sqlStr += "'" + self.venue + "',"
                 sqlStr += "'" + self.volume + "',"
@@ -53,7 +54,7 @@ class InfoHandler(xml.sax.ContentHandler):
                 sqlStr += "'" + self.ee + "',"
                 sqlStr += "'" + self.url + "'"
                 sqlStr += ")"
-                print(sqlStr)
+                # print(sqlStr)
                 cursor.execute(sqlStr)
             # 创建的connection是非自动提交，需要手动commit
             connection.commit()
@@ -89,8 +90,15 @@ class InfoHandler(xml.sax.ContentHandler):
             self.url = content
 
 if (__name__ == "__main__"):
-    #获取js代码传递的论文文件名 
+    # 写入参数到文件
+    # filename = '1.txt'
+    # with open(filename, 'w') as file_object:
+    #  for a in sys.argv:
+    #     file_object.write(a)
+    #     file_object.write('\n')
+    # 获取js代码传递的论文文件名 
     filename= sys.argv[1]
+    author= sys.argv[2] #当前查询的用户的名称
     parser = xml.sax.make_parser()
     parser.setFeature(xml.sax.handler.feature_namespaces, 0)
     Handler = InfoHandler()

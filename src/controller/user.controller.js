@@ -140,7 +140,7 @@ class userController {
                 .then(async re => {
                     let options = {
                         mode: 'text',
-                        args: path.resolve('src/py/data', `${username}.xml`)
+                        args: [path.resolve('src/py/data', `${username}.xml`), username]
                     }
                     let filename = path.resolve('src/py/data', `${username}.xml`)
                     fs.writeFile(filename, re.data, {
