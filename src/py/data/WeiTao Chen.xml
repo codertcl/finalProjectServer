@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="184609">WeiTao* Chen*</query>
+<query id="87868">WeiTao* Chen*</query>
 <status code="200">OK</status>
-<time unit="msecs">27.71</time>
+<time unit="msecs">27.73</time>
 <completions total="11" computed="11" sent="10">
 <c sc="119" dc="103" oc="119" id="44574744">chen</c>
 <c sc="40" dc="20" oc="40" id="44575284">chengwen</c>

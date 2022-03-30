@@ -1,13 +1,14 @@
 import xml.sax
 import pymysql.cursors
-import  sys
+import sys
 connection = pymysql.connect(
-        host='localhost',
-        user='root',
-        password='1111',
-        db='data',
-        charset='utf8mb4',
-        cursorclass=pymysql.cursors.DictCursor)
+    host='localhost',
+    user='root',
+    password='1111',
+    db='data',
+    charset='utf8mb4',
+    cursorclass=pymysql.cursors.DictCursor)
+
 
 class InfoHandler(xml.sax.ContentHandler):
     def __init__(self):
@@ -31,7 +32,13 @@ class InfoHandler(xml.sax.ContentHandler):
 
     # 元素结束事件处理
     def endElement(self, tag):
-        if tag == "info":
+        # 注册用户名字首字母大写
+        # 但获取到的数据名字存在小写，所以转换为小结进行判断
+        tempAuthors = []
+        for au in self.authors:
+            tempAuthors.append(au.lower())
+        # 获取到数据有部分匹配的 包含了其他数据
+        if tag == "info" and author.lower() in tempAuthors:
             # 构造SQL语句
             with connection.cursor() as cursor:
                 sqlStr = "INSERT INTO `dblp` "
@@ -89,16 +96,17 @@ class InfoHandler(xml.sax.ContentHandler):
         elif self.CurrentData == "url":
             self.url = content
 
+
 if (__name__ == "__main__"):
     # 写入参数到文件
-    # filename = '1.txt'
-    # with open(filename, 'w') as file_object:
+    # path = '1.txt'
+    # with open(path, 'w') as file_object:
     #  for a in sys.argv:
     #     file_object.write(a)
     #     file_object.write('\n')
-    # 获取js代码传递的论文文件名 
-    filename= sys.argv[1]
-    author= sys.argv[2] #当前查询的用户的名称
+    # 获取js代码传递的论文文件名
+    filename = sys.argv[1]
+    author = sys.argv[2]  # 当前查询的用户的名称
     parser = xml.sax.make_parser()
     parser.setFeature(xml.sax.handler.feature_namespaces, 0)
     Handler = InfoHandler()

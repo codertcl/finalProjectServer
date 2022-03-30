@@ -152,7 +152,7 @@ class userController {
                     })
                     PythonShell.run('./src/py/main.py', options, function (err) {
                         if (err) throw err;
-                        console.log('finished ');
+                        console.log('finished');
                     });
 
                     // 3:获取dblp表中该作者的论文数据
@@ -174,7 +174,7 @@ class userController {
                 message: '获取论文信息成功',
                 info: res
             }
-        }   
+        }
     }
 }
 
