@@ -1,639 +1,639 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="199366">Deze* Zeng*</query>
+<query id="255781">Deze* Zeng*</query>
 <status code="200">OK</status>
-<time unit="msecs">8.20</time>
+<time unit="msecs">5.10</time>
 <completions total="1" computed="1" sent="1">
-<c sc="157" dc="157" oc="157" id="45821200">zeng</c>
+<c sc="157" dc="157" oc="157" id="45837988">zeng</c>
 </completions>
 <hits total="157" computed="157" sent="157" first="0">
-<hit score="2" id="41172">
+<hit score="2" id="41797">
 <info><authors><author pid="47/5523-6">Lei Cui 0006</author><author pid="192/6131">Youyang Qu</author><author pid="47/2158-1">Gang Xie 0001</author><author pid="08/5937">Deze Zeng</author><author pid="06/7035">Ruidong Li</author><author pid="66/800">Shigen Shen</author><author pid="90/3575">Shui Yu</author></authors><title>Security and Privacy-Enhanced Federated Learning for Anomaly Detection in IoT Infrastructures.</title><venue>IEEE Trans. Ind. Informatics</venue><volume>18</volume><number>5</number><pages>3492-3500</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/tii/CuiQXZLSY22</key><doi>10.1109/TII.2021.3107783</doi><ee>https://doi.org/10.1109/TII.2021.3107783</ee><url>https://dblp.org/rec/journals/tii/CuiQXZLSY22</url></info>
-<url>URL#41172</url>
+<url>URL#41797</url>
 </hit>
-<hit score="2" id="44323">
+<hit score="2" id="44965">
 <info><authors><author pid="42/9897">Kaihua Fu</author><author pid="10/4661-149">Wei Zhang 0149</author><author pid="40/3858-2">Quan Chen 0002</author><author pid="08/5937">Deze Zeng</author><author pid="99/6797">Minyi Guo</author></authors><title>Adaptive Resource Efficient Microservice Deployment in Cloud-Edge Continuum.</title><venue>IEEE Trans. Parallel Distributed Syst.</venue><volume>33</volume><number>8</number><pages>1825-1840</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/tpds/FuZCZG22</key><doi>10.1109/TPDS.2021.3128037</doi><ee>https://doi.org/10.1109/TPDS.2021.3128037</ee><url>https://dblp.org/rec/journals/tpds/FuZCZG22</url></info>
-<url>URL#44323</url>
+<url>URL#44965</url>
 </hit>
-<hit score="2" id="107683">
+<hit score="2" id="108936">
 <info><authors><author pid="141/7544">Guanglin Xing</author><author pid="27/4364">Jing Chen</author><author pid="79/3631">Rui Hou</author><author pid="69/442">Lingyun Zhou</author><author pid="62/6234">Mianxiong Dong</author><author pid="08/5937">Deze Zeng</author><author pid="51/376">Jiangtao Luo</author><author pid="74/1079">Maode Ma</author></authors><title>Isolation Forest-Based Mechanism to Defend against Interest Flooding Attacks in Named Data Networking.</title><venue>IEEE Commun. Mag.</venue><volume>59</volume><number>3</number><pages>98-103</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/cm/XingCHZDZLM21</key><doi>10.1109/MCOM.001.2000368</doi><ee>https://doi.org/10.1109/MCOM.001.2000368</ee><url>https://dblp.org/rec/journals/cm/XingCHZDZLM21</url></info>
-<url>URL#107683</url>
+<url>URL#108936</url>
 </hit>
-<hit score="2" id="114210">
+<hit score="2" id="115463">
 <info><authors><author pid="233/9199">Yuepeng Li</author><author pid="08/5937">Deze Zeng</author><author pid="68/6274-1">Long Zheng 0001</author></authors><title>On communication efficient dataflow computing in software defined networking enabled cloud.</title><venue>Concurr. Comput. Pract. Exp.</venue><volume>33</volume><number>7</number><pages>1</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/concurrency/LiZZ21</key><doi>10.1002/CPE.5176</doi><ee>https://doi.org/10.1002/cpe.5176</ee><url>https://dblp.org/rec/journals/concurrency/LiZZ21</url></info>
-<url>URL#114210</url>
+<url>URL#115463</url>
 </hit>
-<hit score="2" id="128834">
+<hit score="2" id="130087">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="06/7035">Ruidong Li</author><author pid="04/2090-6">Zhi Zhou 0006</author><author pid="41/10471">Ruiting Zhou</author><author pid="82/2229">Rami Langar</author><author pid="88/7649">Md. Zakirul Alam Bhuiyan</author></authors><title>Editorial for Special Issue on Flexible Cloud and Edge for Internet-of-Things.</title><venue>Trans. Emerg. Telecommun. Technol.</venue><volume>32</volume><number>8</number><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/ett/ZengLZZLB21</key><doi>10.1002/ETT.4266</doi><ee>https://doi.org/10.1002/ett.4266</ee><url>https://dblp.org/rec/journals/ett/ZengLZZLB21</url></info>
-<url>URL#128834</url>
+<url>URL#130087</url>
 </hit>
-<hit score="2" id="154228">
+<hit score="2" id="155481">
 <info><authors><author pid="141/7544">Guanglin Xing</author><author pid="220/9911">Yumeng Chen</author><author pid="79/3631">Rui Hou</author><author pid="62/6234">Mianxiong Dong</author><author pid="08/5937">Deze Zeng</author><author pid="51/376">Jiangtao Luo</author><author pid="74/1079">Maode Ma</author></authors><title>Game-Theory-Based Clustering Scheme for Energy Balancing in Underwater Acoustic Sensor Networks.</title><venue>IEEE Internet Things J.</venue><volume>8</volume><number>11</number><pages>9005-9013</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/iotj/XingCHDZLM21</key><doi>10.1109/JIOT.2021.3055857</doi><ee>https://doi.org/10.1109/JIOT.2021.3055857</ee><url>https://dblp.org/rec/journals/iotj/XingCHDZLM21</url></info>
-<url>URL#154228</url>
+<url>URL#155481</url>
 </hit>
-<hit score="2" id="182947">
+<hit score="2" id="184200">
 <info><authors><author pid="73/1539">Muzhou Xiong</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="68/7127">Haixin Liu</author><author pid="08/5937">Deze Zeng</author><author pid="98/914">Hong Yao</author><author pid="96/2572">Zhuzhong Qian</author></authors><title>A Network Calculus Based Delay and Backlog Analysis for Cloud Radio Access Networks.</title><venue>Mob. Networks Appl.</venue><volume>26</volume><number>3</number><pages>1172-1181</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/monet/XiongGLZYQ21</key><doi>10.1007/S11036-019-01349-W</doi><ee>https://doi.org/10.1007/s11036-019-01349-w</ee><url>https://dblp.org/rec/journals/monet/XiongGLZYQ21</url></info>
-<url>URL#182947</url>
+<url>URL#184200</url>
 </hit>
-<hit score="2" id="182993">
+<hit score="2" id="184246">
 <info><authors><author pid="07/10127">Zhangbing Zhou</author><author pid="40/2808">Takahiro Hara</author><author pid="08/5937">Deze Zeng</author><author pid="50/671">Yu Zhang</author><author pid="02/8276">Chunsheng Zhu</author></authors><title>Editorial - Collaborative Next Generation Networking.</title><venue>Mob. Networks Appl.</venue><volume>26</volume><number>2</number><pages>794-796</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/monet/ZhouHZZZ21</key><doi>10.1007/S11036-021-01767-9</doi><ee>https://doi.org/10.1007/s11036-021-01767-9</ee><url>https://dblp.org/rec/journals/monet/ZhouHZZZ21</url></info>
-<url>URL#182993</url>
+<url>URL#184246</url>
 </hit>
-<hit score="2" id="187608">
+<hit score="2" id="188861">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="a/NirwanAnsari">Nirwan Ansari</author><author pid="47/5554">Marie-José Montpetit</author><author pid="72/2163">Eve M. Schooler</author><author pid="23/3388">Daniele Tarchi</author></authors><title>Guest Editorial - In-Network Computing - Emerging Trends for the Edge-Cloud Continuum.</title><venue>IEEE Netw.</venue><volume>35</volume><number>5</number><pages>12-13</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/network/ZengAMST21</key><doi>10.1109/MNET.2021.9606835</doi><ee>https://doi.org/10.1109/MNET.2021.9606835</ee><url>https://dblp.org/rec/journals/network/ZengAMST21</url></info>
-<url>URL#187608</url>
+<url>URL#188861</url>
 </hit>
-<hit score="2" id="195301">
+<hit score="2" id="196554">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="96/3727">Geyong Min</author><author pid="97/6589">Qiang He</author><author pid="01/267-1">Song Guo 0001</author></authors><title>Convergence of Edge Computing and Next Generation Networking.</title><venue>Peer-to-Peer Netw. Appl.</venue><volume>14</volume><number>6</number><pages>3891-3894</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/ppna/ZengMHG21</key><doi>10.1007/S12083-021-01239-7</doi><ee>https://doi.org/10.1007/s12083-021-01239-7</ee><url>https://dblp.org/rec/journals/ppna/ZengMHG21</url></info>
-<url>URL#195301</url>
+<url>URL#196554</url>
 </hit>
-<hit score="2" id="245389">
+<hit score="2" id="246642">
 <info><authors><author pid="126/5636-1">Shengli Pan 0001</author><author pid="83/6353-17">Peng Li 0017</author><author pid="69/710">Changsheng Yi</author><author pid="08/5937">Deze Zeng</author><author pid="98/153">Ying-Chang Liang</author><author pid="06/1031">Guangmin Hu</author></authors><title>Edge Intelligence Empowered Urban Traffic Monitoring - A Network Tomography Perspective.</title><venue>IEEE Trans. Intell. Transp. Syst.</venue><volume>22</volume><number>4</number><pages>2198-2211</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/tits/00010YZLH21</key><doi>10.1109/TITS.2020.3024824</doi><ee>https://doi.org/10.1109/TITS.2020.3024824</ee><url>https://dblp.org/rec/journals/tits/00010YZLH21</url></info>
-<url>URL#245389</url>
+<url>URL#246642</url>
 </hit>
-<hit score="2" id="248756">
+<hit score="2" id="250009">
 <info><authors><author pid="79/3631">Rui Hou</author><author pid="96/539">Shuo Zhou</author><author pid="97/8630">Yong Zheng</author><author pid="62/6234">Mianxiong Dong</author><author pid="18/4822">Kaoru Ota</author><author pid="08/5937">Deze Zeng</author><author pid="51/376">Jiangtao Luo</author><author pid="74/1079">Maode Ma</author></authors><title>Cluster Routing-Based Data Packet Backhaul Prediction Method in Vehicular Named Data Networking.</title><venue>IEEE Trans. Netw. Sci. Eng.</venue><volume>8</volume><number>3</number><pages>2639-2650</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/tnse/HouZZDOZLM21</key><doi>10.1109/TNSE.2021.3102969</doi><ee>https://doi.org/10.1109/TNSE.2021.3102969</ee><url>https://dblp.org/rec/journals/tnse/HouZZDOZLM21</url></info>
-<url>URL#248756</url>
+<url>URL#250009</url>
 </hit>
-<hit score="2" id="250848">
+<hit score="2" id="252101">
 <info><authors><author pid="172/4558">Pu Pang</author><author pid="40/3858-2">Quan Chen 0002</author><author pid="08/5937">Deze Zeng</author><author pid="99/6797">Minyi Guo</author></authors><title>Adaptive Preference-Aware Co-Location for Improving Resource Utilization of Power Constrained Datacenters.</title><venue>IEEE Trans. Parallel Distributed Syst.</venue><volume>32</volume><number>2</number><pages>441-456</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/tpds/Pang0ZG21</key><doi>10.1109/TPDS.2020.3023997</doi><ee>https://doi.org/10.1109/TPDS.2020.3023997</ee><url>https://dblp.org/rec/journals/tpds/Pang0ZG21</url></info>
-<url>URL#250848</url>
+<url>URL#252101</url>
 </hit>
-<hit score="2" id="254288">
+<hit score="2" id="255541">
 <info><authors><author pid="79/3631">Rui Hou</author><author pid="96/539">Shuo Zhou</author><author pid="171/0932">Mengtian Cui</author><author pid="69/442">Lingyun Zhou</author><author pid="08/5937">Deze Zeng</author><author pid="51/376">Jiangtao Luo</author><author pid="74/1079">Maode Ma</author></authors><title>Data Forwarding Scheme for Vehicle Tracking in Named Data Networking.</title><venue>IEEE Trans. Veh. Technol.</venue><volume>70</volume><number>7</number><pages>6684-6695</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/tvt/HouZCZZLM21</key><doi>10.1109/TVT.2021.3081448</doi><ee>https://doi.org/10.1109/TVT.2021.3081448</ee><url>https://dblp.org/rec/journals/tvt/HouZCZZLM21</url></info>
-<url>URL#254288</url>
+<url>URL#255541</url>
 </hit>
-<hit score="2" id="289736">
+<hit score="2" id="291012">
 <info><authors><author pid="233/9199">Yuepeng Li</author><author pid="08/5937">Deze Zeng</author><author pid="70/3413">Lin Gu</author><author pid="40/3858-2">Quan Chen 0002</author><author pid="01/267-1">Song Guo 0001</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author><author pid="99/6797">Minyi Guo</author></authors><title>Lasagna - Accelerating Secure Deep Learning Inference in SGX-enabled Edge Cloud.</title><venue>SoCC</venue><pages>533-545</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/cloud/LiZGC0ZG21</key><doi>10.1145/3472883.3486988</doi><ee>https://doi.org/10.1145/3472883.3486988</ee><url>https://dblp.org/rec/conf/cloud/LiZGC0ZG21</url></info>
-<url>URL#289736</url>
+<url>URL#291012</url>
 </hit>
-<hit score="2" id="320690">
+<hit score="2" id="321966">
 <info><authors><author pid="314/6452">Jiebin Luo</author><author pid="38/1670">Weijie Zhang</author><author pid="40/99">Dingding Li</author><author pid="156/8997">Haoyu Luo</author><author pid="08/5937">Deze Zeng</author></authors><title>A Lightweight Asynchronous I/O System for Non-volatile Memory.</title><venue>ICA3PP</venue><pages>108-122</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ica3pp/LuoZLLZ21</key><doi>10.1007/978-3-030-95388-1_8</doi><ee>https://doi.org/10.1007/978-3-030-95388-1_8</ee><url>https://dblp.org/rec/conf/ica3pp/LuoZLLZ21</url></info>
-<url>URL#320690</url>
+<url>URL#321966</url>
 </hit>
-<hit score="2" id="356892">
+<hit score="2" id="358201">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="90/5064">Jie Hu</author><author pid="50/3402-1">Bo Li 0001</author><author pid="98/4156">Hai Jin 0001</author></authors><title>Layer Aware Microservice Placement and Request Scheduling at the Edge.</title><venue>INFOCOM</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/0002ZHL021</key><doi>10.1109/INFOCOM42981.2021.9488779</doi><ee>https://doi.org/10.1109/INFOCOM42981.2021.9488779</ee><url>https://dblp.org/rec/conf/infocom/0002ZHL021</url></info>
-<url>URL#356892</url>
+<url>URL#358201</url>
 </hit>
-<hit score="2" id="357031">
+<hit score="2" id="358340">
 <info><authors><author pid="70/3413">Lin Gu</author><author pid="08/5937">Deze Zeng</author><author pid="90/5064">Jie Hu</author><author pid="98/4156">Hai Jin 0001</author><author pid="01/267-1">Song Guo 0001</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author></authors><title>Exploring Layered Container Structure for Cost Efficient Microservice Deployment.</title><venue>INFOCOM</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/GuZH00Z21</key><doi>10.1109/INFOCOM42981.2021.9488918</doi><ee>https://doi.org/10.1109/INFOCOM42981.2021.9488918</ee><url>https://dblp.org/rec/conf/infocom/GuZH00Z21</url></info>
-<url>URL#357031</url>
+<url>URL#358340</url>
 </hit>
-<hit score="2" id="359869">
-<info><authors><author pid="42/9897">Kaihua Fu</author><author pid="10/4661-149">Wei Zhang 0149</author><author pid="40/3858-2">Quan Chen 0002</author><author pid="08/5937">Deze Zeng</author><author pid="14/6370">Xin Peng</author><author pid="147/1003">Wenli Zheng</author><author pid="99/6797">Minyi Guo</author></authors><title>QoS-Aware and Resource Efficient Microservice Deployment in Cloud-Edge Continuum.</title><venue>IPDPS</venue><pages>932-941</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipps/FuZCZPZG21</key><doi>10.1109/IPDPS49936.2021.00102</doi><ee>https://doi.org/10.1109/IPDPS49936.2021.00102</ee><url>https://dblp.org/rec/conf/ipps/FuZCZPZG21</url></info>
-<url>URL#359869</url>
+<hit score="2" id="361178">
+<info><authors><author pid="42/9897">Kaihua Fu</author><author pid="10/4661-149">Wei Zhang 0149</author><author pid="40/3858-2">Quan Chen 0002</author><author pid="08/5937">Deze Zeng</author><author pid="14/6370-1">Xin Peng 0001</author><author pid="147/1003">Wenli Zheng</author><author pid="99/6797">Minyi Guo</author></authors><title>QoS-Aware and Resource Efficient Microservice Deployment in Cloud-Edge Continuum.</title><venue>IPDPS</venue><pages>932-941</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipps/FuZCZPZG21</key><doi>10.1109/IPDPS49936.2021.00102</doi><ee>https://doi.org/10.1109/IPDPS49936.2021.00102</ee><url>https://dblp.org/rec/conf/ipps/FuZCZPZG21</url></info>
+<url>URL#361178</url>
 </hit>
-<hit score="2" id="371148">
+<hit score="2" id="372589">
 <info><authors><author pid="286/6658">Andong Zhu</author><author pid="08/5937">Deze Zeng</author><author pid="70/3413">Lin Gu</author><author pid="83/6353-17">Peng Li 0017</author><author pid="40/3858">Quan Chen</author></authors><title>Gost - Enabling Efficient Spatio-Temporal GPU Sharing for Network Function Virtualization.</title><venue>IWQoS</venue><pages>1-10</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhuZGLC21</key><doi>10.1109/IWQOS52092.2021.9521266</doi><ee>https://doi.org/10.1109/IWQOS52092.2021.9521266</ee><url>https://dblp.org/rec/conf/iwqos/ZhuZGLC21</url></info>
-<url>URL#371148</url>
+<url>URL#372589</url>
 </hit>
-<hit score="2" id="497450">
+<hit score="2" id="498952">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="126/5636-1">Shengli Pan 0001</author><author pid="01/267-1">Song Guo 0001</author></authors><title>Software Defined Systems - Sensing, Communication and Computation</title><venue>Springer Briefs in Computer Science</venue><pages>1-103</pages><publisher>Springer</publisher><year>2020</year><type>Books and Theses</type><access>closed</access><key>series/sbcs/ZengGPG20</key><doi>10.1007/978-3-030-32942-6</doi><ee>https://doi.org/10.1007/978-3-030-32942-6</ee><url>https://dblp.org/rec/series/sbcs/ZengGPG20</url></info>
-<url>URL#497450</url>
+<url>URL#498952</url>
 </hit>
-<hit score="2" id="540548">
+<hit score="2" id="542050">
 <info><authors><author pid="15/5923-7">Chao Liu 0007</author><author pid="08/5937">Deze Zeng</author><author pid="98/914">Hong Yao</author><author pid="54/1896">Xuesong Yan</author><author pid="04/7638">Linchen Yu</author><author pid="83/10000">Zhangjie Fu</author></authors><title>An efficient iterative graph data processing framework based on bulk synchronous parallel model.</title><venue>Concurr. Comput. Pract. Exp.</venue><volume>32</volume><number>3</number><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/concurrency/LiuZYYYF20</key><doi>10.1002/CPE.4432</doi><ee>https://doi.org/10.1002/cpe.4432</ee><url>https://dblp.org/rec/journals/concurrency/LiuZYYYF20</url></info>
-<url>URL#540548</url>
+<url>URL#542050</url>
 </hit>
-<hit score="2" id="554686">
+<hit score="2" id="556188">
 <info><authors><author pid="98/914">Hong Yao</author><author pid="73/1539">Muzhou Xiong</author><author pid="66/3387">Hui Li</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author></authors><title>Joint optimization of function mapping and preemptive scheduling for service chains in network function virtualization.</title><venue>Future Gener. Comput. Syst.</venue><volume>108</volume><pages>1112-1118</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/fgcs/YaoXLGZ20</key><doi>10.1016/J.FUTURE.2017.12.021</doi><ee>https://doi.org/10.1016/j.future.2017.12.021</ee><url>https://dblp.org/rec/journals/fgcs/YaoXLGZ20</url></info>
-<url>URL#554686</url>
+<url>URL#556188</url>
 </hit>
-<hit score="2" id="554712">
+<hit score="2" id="556214">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="98/914">Hong Yao</author></authors><title>Towards energy efficient service composition in green energy powered Cyber-Physical Fog Systems.</title><venue>Future Gener. Comput. Syst.</venue><volume>105</volume><pages>757-765</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/fgcs/ZengGY20</key><doi>10.1016/J.FUTURE.2018.01.060</doi><ee>https://doi.org/10.1016/j.future.2018.01.060</ee><url>https://dblp.org/rec/journals/fgcs/ZengGY20</url></info>
-<url>URL#554712</url>
+<url>URL#556214</url>
 </hit>
-<hit score="2" id="579892">
+<hit score="2" id="581394">
 <info><authors><author pid="173/1777">Yufeng Zhan</author><author pid="83/6353-17">Peng Li 0017</author><author pid="173/0285">Zhihao Qu</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author></authors><title>A Learning-Based Incentive Mechanism for Federated Learning.</title><venue>IEEE Internet Things J.</venue><volume>7</volume><number>7</number><pages>6360-6368</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/iotj/ZhanLQZG20</key><doi>10.1109/JIOT.2020.2967772</doi><ee>https://doi.org/10.1109/JIOT.2020.2967772</ee><url>https://dblp.org/rec/journals/iotj/ZhanLQZG20</url></info>
-<url>URL#579892</url>
+<url>URL#581394</url>
 </hit>
-<hit score="2" id="598575">
+<hit score="2" id="600077">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="64/6025-58">Wei Li 0058</author><author pid="01/267-1">Song Guo 0001</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author><author pid="98/4156">Hai Jin 0001</author></authors><title>Intelligent VNF Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>38</volume><number>2</number><pages>279-291</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/GuZLGZJ20</key><doi>10.1109/JSAC.2019.2959182</doi><ee>https://doi.org/10.1109/JSAC.2019.2959182</ee><url>https://dblp.org/rec/journals/jsac/GuZLGZJ20</url></info>
-<url>URL#598575</url>
+<url>URL#600077</url>
 </hit>
-<hit score="2" id="611198">
+<hit score="2" id="612700">
 <info><authors><author pid="73/1539">Muzhou Xiong</author><author pid="233/9199">Yuepeng Li</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="126/5636-1">Shengli Pan 0001</author><author pid="08/5937">Deze Zeng</author><author pid="83/6353-17">Peng Li 0017</author></authors><title>Reinforcement Learning Empowered IDPS for Vehicular Networks in Edge Computing.</title><venue>IEEE Netw.</venue><volume>34</volume><number>3</number><pages>57-63</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/network/XiongLGPZL20</key><doi>10.1109/MNET.011.1900321</doi><ee>https://doi.org/10.1109/MNET.011.1900321</ee><url>https://dblp.org/rec/journals/network/XiongLGPZL20</url></info>
-<url>URL#611198</url>
+<url>URL#612700</url>
 </hit>
-<hit score="2" id="642053">
+<hit score="2" id="643555">
 <info><authors><author pid="10/901">Chengyu Hu</author><author pid="23/4309">Xin Shu</author><author pid="54/1896">Xuesong Yan</author><author pid="08/5937">Deze Zeng</author><author pid="42/3729">Wenyin Gong</author><author pid="181/2817">Lei Wang</author></authors><title>Inline wireless mobile sensors and fog nodes placement for leakage detection in water distribution systems.</title><venue>Softw. Pract. Exp.</venue><volume>50</volume><number>7</number><pages>1152-1167</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/spe/HuSYZGW20</key><doi>10.1002/SPE.2631</doi><ee>https://doi.org/10.1002/spe.2631</ee><url>https://dblp.org/rec/journals/spe/HuSYZGW20</url></info>
-<url>URL#642053</url>
+<url>URL#643555</url>
 </hit>
-<hit score="2" id="664183">
+<hit score="2" id="665685">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="90/5064">Jie Hu</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/4156">Hai Jin 0001</author></authors><title>Service Function Chain Deployment and Network Flow Scheduling in Geo-Distributed Data Centers.</title><venue>IEEE Trans. Netw. Sci. Eng.</venue><volume>7</volume><number>4</number><pages>2587-2597</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tnse/GuHZGJ20</key><doi>10.1109/TNSE.2020.2997376</doi><ee>https://doi.org/10.1109/TNSE.2020.2997376</ee><url>https://dblp.org/rec/journals/tnse/GuHZGJ20</url></info>
-<url>URL#664183</url>
+<url>URL#665685</url>
 </hit>
-<hit score="2" id="733682">
+<hit score="2" id="735200">
 <info><authors><author pid="126/5636-1">Shengli Pan 0001</author><author pid="83/6353-17">Peng Li 0017</author><author pid="08/5937">Deze Zeng</author><author pid="03/5274">Zhiyong Zhang</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/153">Ying-Chang Liang</author></authors><title>Learning-Based Network Boolean Tomography for Identifying Congested Links with Correlations.</title><venue>GLOBECOM</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/globecom/PanLZZGL20</key><doi>10.1109/GLOBECOM42002.2020.9348038</doi><ee>https://doi.org/10.1109/GLOBECOM42002.2020.9348038</ee><url>https://dblp.org/rec/conf/globecom/PanLZZGL20</url></info>
-<url>URL#733682</url>
+<url>URL#735200</url>
 </hit>
-<hit score="2" id="733909">
+<hit score="2" id="735427">
 <info><authors><author pid="63/10406">Zitong Wang</author><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="01/267-1">Song Guo 0001</author></authors><title>A Game-based Network Slicing and Resource Scheduling for Compute First Networking.</title><venue>GLOBECOM</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/globecom/WangZ0G20</key><doi>10.1109/GLOBECOM42002.2020.9348177</doi><ee>https://doi.org/10.1109/GLOBECOM42002.2020.9348177</ee><url>https://dblp.org/rec/conf/globecom/WangZ0G20</url></info>
-<url>URL#733909</url>
+<url>URL#735427</url>
 </hit>
-<hit score="2" id="745282">
+<hit score="2" id="746838">
 <info><authors><author pid="116/8318">Xiaojing Gao</author><author pid="96/11202">Mengfan Cheng</author><author pid="15/1152">Shan Li</author><author pid="08/5937">Deze Zeng</author></authors><title>Unveil the Time Delay Signature in Delayed Chaotic Communication System via CNN.</title><venue>ICC</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icc/GaoCLZ20</key><doi>10.1109/ICC40277.2020.9149379</doi><ee>https://doi.org/10.1109/ICC40277.2020.9149379</ee><url>https://dblp.org/rec/conf/icc/GaoCLZ20</url></info>
-<url>URL#745282</url>
+<url>URL#746838</url>
 </hit>
-<hit score="2" id="751240">
+<hit score="2" id="752796">
 <info><authors><author pid="03/3520-5">Han Zhao 0005</author><author pid="243/1639">Weihao Cui</author><author pid="40/3858-2">Quan Chen 0002</author><author pid="131/5131">Jingwen Leng</author><author pid="197/1322">Kai Yu</author><author pid="08/5937">Deze Zeng</author><author pid="66/190-9">Chao Li 0009</author><author pid="99/6797">Minyi Guo</author></authors><title>CODA - Improving Resource Utilization by Slimming and Co-locating DNN and CPU Jobs.</title><venue>ICDCS</venue><pages>853-863</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icdcs/0005CCLYZ0G20</key><doi>10.1109/ICDCS47774.2020.00069</doi><ee>https://doi.org/10.1109/ICDCS47774.2020.00069</ee><url>https://dblp.org/rec/conf/icdcs/0005CCLYZ0G20</url></info>
-<url>URL#751240</url>
+<url>URL#752796</url>
 </hit>
-<hit score="2" id="753472">
+<hit score="2" id="755028">
 <info><authors><author pid="01/267-1">Song Guo 0001</author><author pid="08/5937">Deze Zeng</author></authors><title>Pedagogical Data Federation toward Education 4.0.</title><venue>ICFET</venue><pages>51-55</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icfet/0001Z20</key><doi>10.1145/3404709.3404751</doi><ee>https://doi.org/10.1145/3404709.3404751</ee><url>https://dblp.org/rec/conf/icfet/0001Z20</url></info>
-<url>URL#753472</url>
+<url>URL#755028</url>
 </hit>
-<hit score="2" id="761690">
+<hit score="2" id="763246">
 <info><authors><author pid="233/9199">Yuepeng Li</author><author pid="258/9855">Lvhao Chen</author><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author></authors><title>A Customized Reinforcement Learning based Binary Offloading in Edge Cloud.</title><venue>ICPADS</venue><pages>356-362</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icpads/LiCZ020</key><doi>10.1109/ICPADS51040.2020.00055</doi><ee>https://doi.org/10.1109/ICPADS51040.2020.00055</ee><url>https://dblp.org/rec/conf/icpads/LiCZ020</url></info>
-<url>URL#761690</url>
+<url>URL#763246</url>
 </hit>
-<hit score="2" id="761694">
+<hit score="2" id="763250">
 <info><authors><author pid="233/9199">Yuepeng Li</author><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="286/6658">Andong Zhu</author><author pid="40/3858">Quan Chen</author></authors><title>Task Offloading in Trusted Execution Environment empowered Edge Computing.</title><venue>ICPADS</venue><pages>316-323</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icpads/LiZ0ZC20</key><doi>10.1109/ICPADS51040.2020.00050</doi><ee>https://doi.org/10.1109/ICPADS51040.2020.00050</ee><url>https://dblp.org/rec/conf/icpads/LiZ0ZC20</url></info>
-<url>URL#761694</url>
+<url>URL#763250</url>
 </hit>
-<hit score="2" id="761727">
+<hit score="2" id="763283">
 <info><authors><author pid="75/5056">Tong Wu</author><author pid="120/1631-1">Xuxun Liu 0001</author><author pid="08/5937">Deze Zeng</author><author pid="78/6138-2">Huan Zhou 0002</author><author pid="56/6655">Shouzhi Xu</author></authors><title>Incentive-driven Data Offloading and Caching Replacement Scheme in Opportunistic Mobile Networks.</title><venue>ICPADS</venue><pages>679-684</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icpads/WuLZ0X20</key><doi>10.1109/ICPADS51040.2020.00096</doi><ee>https://doi.org/10.1109/ICPADS51040.2020.00096</ee><url>https://dblp.org/rec/conf/icpads/WuLZ0X20</url></info>
-<url>URL#761727</url>
+<url>URL#763283</url>
 </hit>
-<hit score="2" id="780255">
+<hit score="2" id="781811">
 <info><authors><author pid="172/4558">Pu Pang</author><author pid="40/3858-2">Quan Chen 0002</author><author pid="08/5937">Deze Zeng</author><author pid="66/190-9">Chao Li 0009</author><author pid="131/5131">Jingwen Leng</author><author pid="147/1003">Wenli Zheng</author><author pid="99/6797">Minyi Guo</author></authors><title>Sturgeon - Preference-aware Co-location for Improving Utilization of Power Constrained Computers.</title><venue>IPDPS</venue><pages>718-727</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipps/PangCZLLZG20</key><doi>10.1109/IPDPS47924.2020.00079</doi><ee>https://doi.org/10.1109/IPDPS47924.2020.00079</ee><url>https://dblp.org/rec/conf/ipps/PangCZLLZG20</url></info>
-<url>URL#780255</url>
+<url>URL#781811</url>
 </hit>
-<hit score="2" id="796390">
+<hit score="2" id="797946">
 <info><authors><author pid="286/8831">Shifu Dong</author><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="01/267-1">Song Guo 0001</author></authors><title>Offloading Federated Learning Task to Edge Computing with Trust Execution Environment.</title><venue>MASS</venue><pages>491-496</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mass/DongZ0G20</key><doi>10.1109/MASS50613.2020.00066</doi><ee>https://doi.org/10.1109/MASS50613.2020.00066</ee><url>https://dblp.org/rec/conf/mass/DongZ0G20</url></info>
-<url>URL#796390</url>
+<url>URL#797946</url>
 </hit>
-<hit score="2" id="796404">
+<hit score="2" id="797960">
 <info><authors><author pid="22/2361">Kai Jiang</author><author pid="78/6138-2">Huan Zhou 0002</author><author pid="08/5937">Deze Zeng</author><author pid="w/JieWu1">Jie Wu 0001</author></authors><title>Multi-Agent Reinforcement Learning for Cooperative Edge Caching in Internet of Vehicles.</title><venue>MASS</venue><pages>455-463</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mass/Jiang0Z020</key><doi>10.1109/MASS50613.2020.00062</doi><ee>https://doi.org/10.1109/MASS50613.2020.00062</ee><url>https://dblp.org/rec/conf/mass/Jiang0Z020</url></info>
-<url>URL#796404</url>
+<url>URL#797960</url>
 </hit>
-<hit score="2" id="929847">
+<hit score="2" id="931416">
 <info><authors><author pid="126/5636-1">Shengli Pan 0001</author><author pid="03/5274">Zhiyong Zhang</author><author pid="232/8210">Zongwang Zhang</author><author pid="08/5937">Deze Zeng</author></authors><title>Dependency-Aware Computation Offloading in Mobile Edge Computing - A Reinforcement Learning Approach.</title><venue>IEEE Access</venue><volume>7</volume><pages>134742-134753</pages><year>2019</year><type>Journal Articles</type><access>open</access><key>journals/access/PanZZZ19</key><doi>10.1109/ACCESS.2019.2942052</doi><ee>https://doi.org/10.1109/ACCESS.2019.2942052</ee><url>https://dblp.org/rec/journals/access/PanZZZ19</url></info>
-<url>URL#929847</url>
+<url>URL#931416</url>
 </hit>
-<hit score="2" id="973152">
+<hit score="2" id="974721">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="71/9660">Jingjing Cai</author><author pid="08/5937">Deze Zeng</author><author pid="50/671-27">Yu Zhang 0027</author><author pid="98/4156">Hai Jin 0001</author><author pid="43/8735">Weiqi Dai</author></authors><title>Energy efficient task allocation and energy scheduling in green energy powered edge computing.</title><venue>Future Gener. Comput. Syst.</venue><volume>95</volume><pages>89-99</pages><year>2019</year><type>Journal Articles</type><access>closed</access><key>journals/fgcs/GuCZ00D19</key><doi>10.1016/J.FUTURE.2018.12.062</doi><ee>https://doi.org/10.1016/j.future.2018.12.062</ee><url>https://dblp.org/rec/journals/fgcs/GuCZ00D19</url></info>
-<url>URL#973152</url>
+<url>URL#974721</url>
 </hit>
-<hit score="2" id="996692">
+<hit score="2" id="998261">
 <info><authors><author pid="126/5636-1">Shengli Pan 0001</author><author pid="83/6353-17">Peng Li 0017</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="06/1031">Guangmin Hu</author></authors><title>A Q-Learning Based Framework for Congested Link Identification.</title><venue>IEEE Internet Things J.</venue><volume>6</volume><number>6</number><pages>9668-9678</pages><year>2019</year><type>Journal Articles</type><access>closed</access><key>journals/iotj/PanLZGH19</key><doi>10.1109/JIOT.2019.2930459</doi><ee>https://doi.org/10.1109/JIOT.2019.2930459</ee><url>https://dblp.org/rec/journals/iotj/PanLZGH19</url></info>
-<url>URL#996692</url>
+<url>URL#998261</url>
 </hit>
-<hit score="2" id="1015267">
+<hit score="2" id="1016836">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="185/5720">Sheng Tao</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/4156">Hai Jin 0001</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author><author pid="z/WeihuaZhuang">Weihua Zhuang</author></authors><title>Fairness-Aware Dynamic Rate Control and Flow Scheduling for Network Utility Maximization in Network Service Chain.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>37</volume><number>5</number><pages>1059-1071</pages><year>2019</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/GuZTGJZZ19</key><doi>10.1109/JSAC.2019.2906746</doi><ee>https://doi.org/10.1109/JSAC.2019.2906746</ee><url>https://dblp.org/rec/journals/jsac/GuZTGJZZ19</url></info>
-<url>URL#1015267</url>
+<url>URL#1016836</url>
 </hit>
-<hit score="2" id="1023378">
+<hit score="2" id="1024947">
 <info><authors><author pid="01/267-1">Song Guo 0001</author><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="51/376">Jiangtao Luo</author></authors><title>When Green Energy Meets Cloud Radio Access Network - Joint Optimization Towards Brown Energy Minimization.</title><venue>Mob. Networks Appl.</venue><volume>24</volume><number>3</number><pages>962-970</pages><year>2019</year><type>Journal Articles</type><access>closed</access><key>journals/monet/GuoZGL19</key><doi>10.1007/S11036-018-1028-9</doi><ee>https://doi.org/10.1007/s11036-018-1028-9</ee><url>https://dblp.org/rec/journals/monet/GuoZGL19</url></info>
-<url>URL#1023378</url>
+<url>URL#1024947</url>
 </hit>
-<hit score="2" id="1027714">
+<hit score="2" id="1029283">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="126/5636-1">Shengli Pan 0001</author><author pid="71/9660">Jingjing Cai</author><author pid="01/267-1">Song Guo 0001</author></authors><title>Resource Management at the Network Edge - A Deep Reinforcement Learning Approach.</title><venue>IEEE Netw.</venue><volume>33</volume><number>3</number><pages>26-33</pages><year>2019</year><type>Journal Articles</type><access>closed</access><key>journals/network/ZengGPCG19</key><doi>10.1109/MNET.2019.1800386</doi><ee>https://doi.org/10.1109/MNET.2019.1800386</ee><url>https://dblp.org/rec/journals/network/ZengGPCG19</url></info>
-<url>URL#1027714</url>
+<url>URL#1029283</url>
 </hit>
-<hit score="2" id="1027716">
+<hit score="2" id="1029285">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="126/5636-1">Shengli Pan 0001</author><author pid="223/6128">Zhuoling Chen</author><author pid="70/3413-2">Lin Gu 0002</author></authors><title>An MDP-Based Wireless Energy Harvesting Decision Strategy for Mobile Device in Edge Computing.</title><venue>IEEE Netw.</venue><volume>33</volume><number>6</number><pages>109-115</pages><year>2019</year><type>Journal Articles</type><access>closed</access><key>journals/network/ZengPCG19</key><doi>10.1109/MNET.001.1800534</doi><ee>https://doi.org/10.1109/MNET.001.1800534</ee><url>https://dblp.org/rec/journals/network/ZengPCG19</url></info>
-<url>URL#1027716</url>
+<url>URL#1029285</url>
 </hit>
-<hit score="2" id="1045733">
+<hit score="2" id="1047302">
 <info><authors><author pid="126/5636-1">Shengli Pan 0001</author><author pid="232/8210">Zongwang Zhang</author><author pid="03/5274">Zhiyong Zhang</author><author pid="08/5937">Deze Zeng</author><author pid="00/4859">Rui Xu</author><author pid="75/4671">Zhihong Rao</author></authors><title>General Identifiability Condition for Network Topology Monitoring with Network Tomography.</title><venue>Sensors</venue><volume>19</volume><number>19</number><pages>4125</pages><year>2019</year><type>Journal Articles</type><access>open</access><key>journals/sensors/PanZZZXR19</key><doi>10.3390/S19194125</doi><ee>https://doi.org/10.3390/s19194125</ee><url>https://dblp.org/rec/journals/sensors/PanZZZXR19</url></info>
-<url>URL#1045733</url>
+<url>URL#1047302</url>
 </hit>
-<hit score="2" id="1047803">
+<hit score="2" id="1049372">
 <info><authors><author pid="97/3432">Kun Zheng</author><author pid="150/4204">Kang Zheng</author><author pid="209/2001">Falin Fang</author><author pid="98/914">Hong Yao</author><author pid="243/8734">Yunlei Yi</author><author pid="08/5937">Deze Zeng</author></authors><title>Real-Time Massive Vector Field Data Processing in Edge Computing.</title><venue>Sensors</venue><volume>19</volume><number>11</number><pages>2602</pages><year>2019</year><type>Journal Articles</type><access>open</access><key>journals/sensors/ZhengZFYYZ19</key><doi>10.3390/S19112602</doi><ee>https://doi.org/10.3390/s19112602</ee><url>https://dblp.org/rec/journals/sensors/ZhengZFYYZ19</url></info>
-<url>URL#1047803</url>
+<url>URL#1049372</url>
 </hit>
-<hit score="2" id="1054137">
+<hit score="2" id="1055706">
 <info><authors><author pid="54/1896">Xuesong Yan</author><author pid="69/5882">Jing Zhao</author><author pid="10/901">Chengyu Hu</author><author pid="08/5937">Deze Zeng</author></authors><title>Multimodal optimization problem in contamination source determination of water supply networks.</title><venue>Swarm Evol. Comput.</venue><volume>47</volume><pages>66-71</pages><year>2019</year><type>Journal Articles</type><access>closed</access><key>journals/swevo/YanZHZ19</key><doi>10.1016/J.SWEVO.2017.05.010</doi><ee>https://doi.org/10.1016/j.swevo.2017.05.010</ee><url>https://dblp.org/rec/journals/swevo/YanZHZ19</url></info>
-<url>URL#1054137</url>
+<url>URL#1055706</url>
 </hit>
-<hit score="2" id="1058600">
+<hit score="2" id="1060169">
 <info><authors><author pid="213/0984">Qihua Zhou</author><author pid="05/1958-5">Kun Wang 0005</author><author pid="83/6353-17">Peng Li 0017</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="69/5116">Baoliu Ye</author><author pid="99/6797">Minyi Guo</author></authors><title>Fast Coflow Scheduling via Traffic Compression and Stage Pipelining in Datacenter Networks.</title><venue>IEEE Trans. Computers</venue><volume>68</volume><number>12</number><pages>1755-1771</pages><year>2019</year><type>Journal Articles</type><access>closed</access><key>journals/tc/ZhouWLZGYG19</key><doi>10.1109/TC.2019.2931716</doi><ee>https://doi.org/10.1109/TC.2019.2931716</ee><url>https://dblp.org/rec/journals/tc/ZhouWLZGYG19</url></info>
-<url>URL#1058600</url>
+<url>URL#1060169</url>
 </hit>
-<hit score="2" id="1061034">
+<hit score="2" id="1062603">
 <info><authors><author pid="185/1060">Jiahui Yu</author><author pid="05/1958-5">Kun Wang 0005</author><author pid="08/5937">Deze Zeng</author><author pid="02/8276">Chunsheng Zhu</author><author pid="01/267-1">Song Guo 0001</author></authors><title>Privacy-preserving Data Aggregation Computing in Cyber-Physical Social Systems.</title><venue>ACM Trans. Cyber Phys. Syst.</venue><volume>3</volume><number>1</number><pages>8:1-8:23</pages><year>2019</year><type>Journal Articles</type><access>closed</access><key>journals/tcps/YuWZZG19</key><doi>10.1145/3145625</doi><ee>https://doi.org/10.1145/3145625</ee><url>https://dblp.org/rec/journals/tcps/YuWZZG19</url></info>
-<url>URL#1061034</url>
+<url>URL#1062603</url>
 </hit>
-<hit score="2" id="1063675">
+<hit score="2" id="1065244">
 <info><authors><author pid="17/8494">Xiaoxuan Hu</author><author pid="83/6353-17">Peng Li 0017</author><author pid="05/1958-5">Kun Wang 0005</author><author pid="46/6959">Yanfei Sun</author><author pid="08/5937">Deze Zeng</author><author pid="47/5358-3">Xiaoyan Wang 0003</author><author pid="01/267-1">Song Guo 0001</author></authors><title>Joint Workload Scheduling and Energy Management for Green Data Centers Powered by Fuel Cells.</title><venue>IEEE Trans. Green Commun. Netw.</venue><volume>3</volume><number>2</number><pages>397-406</pages><year>2019</year><type>Journal Articles</type><access>closed</access><key>journals/tgcn/HuLWSZWG19</key><doi>10.1109/TGCN.2019.2893712</doi><ee>https://doi.org/10.1109/TGCN.2019.2893712</ee><url>https://dblp.org/rec/journals/tgcn/HuLWSZWG19</url></info>
-<url>URL#1063675</url>
+<url>URL#1065244</url>
 </hit>
-<hit score="2" id="1145359">
+<hit score="2" id="1146928">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="240/9682">Junjian Guan</author><author pid="23/1092-1">Song Wu 0001</author><author pid="98/4156">Hai Jin 0001</author><author pid="38/618">Jia Rao</author><author pid="184/5707">Kun Suo</author><author pid="08/5937">Deze Zeng</author></authors><title>CNTC - A Container Aware Network Traffic Control Framework.</title><venue>GPC</venue><pages>208-222</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/gpc/GuGW0RSZ19</key><doi>10.1007/978-3-030-19223-5_15</doi><ee>https://doi.org/10.1007/978-3-030-19223-5_15</ee><url>https://dblp.org/rec/conf/gpc/GuGW0RSZ19</url></info>
-<url>URL#1145359</url>
+<url>URL#1146928</url>
 </hit>
-<hit score="2" id="1164738">
+<hit score="2" id="1166307">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="64/6025-58">Wei Li 0058</author><author pid="01/267-1">Song Guo 0001</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author><author pid="98/4156">Hai Jin 0001</author></authors><title>Deep Reinforcement Learning Based VNF Management in Geo-distributed Edge Computing.</title><venue>ICDCS</venue><pages>934-943</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icdcs/0002ZL0Z019</key><doi>10.1109/ICDCS.2019.00097</doi><ee>https://doi.org/10.1109/ICDCS.2019.00097</ee><url>https://dblp.org/rec/conf/icdcs/0002ZL0Z019</url></info>
-<url>URL#1164738</url>
+<url>URL#1166307</url>
 </hit>
-<hit score="2" id="1176734">
+<hit score="2" id="1178303">
 <info><authors><author pid="84/6889">Jie Zhang</author><author pid="01/267-1">Song Guo 0001</author><author pid="08/5937">Deze Zeng</author><author pid="173/0285">Zhihao Qu</author></authors><title>Multi-Path Routing Oriented Flow Statistics Collection in Software Defined Networks.</title><venue>ICPADS</venue><pages>101-108</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icpads/Zhang0ZQ19</key><doi>10.1109/ICPADS47876.2019.00022</doi><ee>https://doi.org/10.1109/ICPADS47876.2019.00022</ee><url>https://dblp.org/rec/conf/icpads/Zhang0ZQ19</url></info>
-<url>URL#1176734</url>
+<url>URL#1178303</url>
 </hit>
-<hit score="2" id="1372170">
+<hit score="2" id="1373741">
 <info><authors><author pid="98/914">Hong Yao</author><author pid="73/1539">Muzhou Xiong</author><author pid="08/5937">Deze Zeng</author><author pid="60/1145">Junfang Gong</author></authors><title>Mining multiple spatial-temporal paths from social media data.</title><venue>Future Gener. Comput. Syst.</venue><volume>87</volume><pages>782-791</pages><year>2018</year><type>Journal Articles</type><access>closed</access><key>journals/fgcs/YaoXZG18</key><doi>10.1016/J.FUTURE.2017.08.003</doi><ee>https://doi.org/10.1016/j.future.2017.08.003</ee><url>https://dblp.org/rec/journals/fgcs/YaoXZG18</url></info>
-<url>URL#1372170</url>
+<url>URL#1373741</url>
 </hit>
-<hit score="2" id="1408750">
+<hit score="2" id="1410321">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="213/2777">Shiyan Zhang</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="90/3575">Shui Yu</author><author pid="83/10000">Zhangjie Fu</author></authors><title>Quality-of-sensing aware budget constrained contaminant detection sensor deployment in water distribution system.</title><venue>J. Netw. Comput. Appl.</venue><volume>103</volume><pages>274-279</pages><year>2018</year><type>Journal Articles</type><access>closed</access><key>journals/jnca/ZengZGYF18</key><doi>10.1016/J.JNCA.2017.10.018</doi><ee>https://doi.org/10.1016/j.jnca.2017.10.018</ee><url>https://dblp.org/rec/journals/jnca/ZengZGYF18</url></info>
-<url>URL#1408750</url>
+<url>URL#1410321</url>
 </hit>
-<hit score="2" id="1428725">
+<hit score="2" id="1430296">
 <info><authors><author pid="56/4402">Xiaofei Liao</author><author pid="01/267-1">Song Guo 0001</author><author pid="08/5937">Deze Zeng</author><author pid="05/1958-5">Kun Wang 0005</author></authors><title>Guest editorial - Special issue on big data networking.</title><venue>Peer-to-Peer Netw. Appl.</venue><volume>11</volume><number>5</number><pages>989-991</pages><year>2018</year><type>Journal Articles</type><access>open</access><key>journals/ppna/LiaoGZW18</key><doi>10.1007/S12083-018-0634-4</doi><ee>https://doi.org/10.1007/s12083-018-0634-4</ee><url>https://dblp.org/rec/journals/ppna/LiaoGZW18</url></info>
-<url>URL#1428725</url>
+<url>URL#1430296</url>
 </hit>
-<hit score="2" id="1444139">
+<hit score="2" id="1445710">
 <info><authors><author pid="05/1958-5">Kun Wang 0005</author><author pid="50/5754">Jun Yu</author><author pid="67/6201">Yan Yu</author><author pid="225/6784">Yirou Qian</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/2912-1">Yong Xiang 0001</author><author pid="84/1733-1">Jinsong Wu 0001</author></authors><title>A Survey on Energy Internet - Architecture, Approach, and Emerging Technologies.</title><venue>IEEE Syst. J.</venue><volume>12</volume><number>3</number><pages>2403-2416</pages><year>2018</year><type>Journal Articles</type><access>closed</access><key>journals/sj/WangYYQZGXW18</key><doi>10.1109/JSYST.2016.2639820</doi><ee>https://doi.org/10.1109/JSYST.2016.2639820</ee><url>https://dblp.org/rec/journals/sj/WangYYQZGXW18</url></info>
-<url>URL#1444139</url>
+<url>URL#1445710</url>
 </hit>
-<hit score="2" id="1467474">
+<hit score="2" id="1469045">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="84/6889">Jie Zhang</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="01/267-1">Song Guo 0001</author><author pid="51/376">Jiangtao Luo</author></authors><title>Energy-Efficient Coordinated Multipoint Scheduling in Green Cloud Radio Access Network.</title><venue>IEEE Trans. Veh. Technol.</venue><volume>67</volume><number>10</number><pages>9922-9930</pages><year>2018</year><type>Journal Articles</type><access>closed</access><key>journals/tvt/ZengZGGL18</key><doi>10.1109/TVT.2018.2863246</doi><ee>https://doi.org/10.1109/TVT.2018.2863246</ee><url>https://dblp.org/rec/journals/tvt/ZengZGGL18</url></info>
-<url>URL#1467474</url>
+<url>URL#1469045</url>
 </hit>
-<hit score="2" id="1470207">
+<hit score="2" id="1471778">
 <info><authors><author pid="10/901">Chengyu Hu</author><author pid="l/MingLi7">Ming Li 0007</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author></authors><title>A survey on sensor placement for contamination detection in water distribution systems.</title><venue>Wirel. Networks</venue><volume>24</volume><number>2</number><pages>647-661</pages><year>2018</year><type>Journal Articles</type><access>closed</access><key>journals/winet/HuLZG18</key><doi>10.1007/S11276-016-1358-0</doi><ee>https://doi.org/10.1007/s11276-016-1358-0</ee><url>https://dblp.org/rec/journals/winet/HuLZG18</url></info>
-<url>URL#1470207</url>
+<url>URL#1471778</url>
 </hit>
-<hit score="2" id="1542935">
+<hit score="2" id="1544506">
 <info><authors><author pid="17/8494">Xiaoxuan Hu</author><author pid="83/6353-17">Peng Li 0017</author><author pid="05/1958-5">Kun Wang 0005</author><author pid="46/6959">Yanfei Sun</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author></authors><title>Energy Management of Data Centers Powered by Fuel Cells and Heterogeneous Energy Storage.</title><venue>ICC</venue><pages>1-6</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icc/Hu0WSZ018</key><doi>10.1109/ICC.2018.8422876</doi><ee>https://doi.org/10.1109/ICC.2018.8422876</ee><url>https://dblp.org/rec/conf/icc/Hu0WSZ018</url></info>
-<url>URL#1542935</url>
+<url>URL#1544506</url>
 </hit>
-<hit score="2" id="1544983">
+<hit score="2" id="1546554">
 <info><authors><author pid="227/7255">Shiyan Chen</author><author pid="63/5667">Dagang Li</author><author pid="64/3168">Xiaogang Chen</author><author pid="181/4866">Wenbing Han</author><author pid="08/5937">Deze Zeng</author></authors><title>Storage-Aware Network Stack for NVM-Assisted Key-Value Store.</title><venue>ICCCN</venue><pages>1-9</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icccn/ChenLCHZ18</key><doi>10.1109/ICCCN.2018.8487330</doi><ee>https://doi.org/10.1109/ICCCN.2018.8487330</ee><url>https://dblp.org/rec/conf/icccn/ChenLCHZ18</url></info>
-<url>URL#1544983</url>
+<url>URL#1546554</url>
 </hit>
-<hit score="2" id="1578197">
+<hit score="2" id="1579768">
 <info><authors><author pid="213/0984">Qihua Zhou</author><author pid="83/6353-17">Peng Li 0017</author><author pid="05/1958-5">Kun Wang 0005</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="99/6797">Minyi Guo</author></authors><title>Swallow - Joint Online Scheduling and Coflow Compression in Datacenter Networks.</title><venue>IPDPS</venue><pages>505-514</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipps/ZhouLWZ0G18</key><doi>10.1109/IPDPS.2018.00060</doi><ee>https://doi.org/10.1109/IPDPS.2018.00060</ee><url>https://dblp.org/rec/conf/ipps/ZhouLWZ0G18</url></info>
-<url>URL#1578197</url>
+<url>URL#1579768</url>
 </hit>
-<hit score="2" id="1618907">
+<hit score="2" id="1620478">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="84/6889">Jie Zhang</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="01/267-1">Song Guo 0001</author></authors><title>Stochastic Scheduling Towards Cost Efficient Network Function Virtualization in Edge Cloud.</title><venue>SECON</venue><pages>397-405</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZengZGG18</key><doi>10.1109/SAHCN.2018.8397140</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397140</ee><url>https://dblp.org/rec/conf/secon/ZengZGG18</url></info>
-<url>URL#1618907</url>
+<url>URL#1620478</url>
 </hit>
-<hit score="2" id="1632776">
+<hit score="2" id="1634347">
 <info><authors><author pid="33/9704">Haixiang Hou</author><author pid="98/4156">Hai Jin 0001</author><author pid="56/4402">Xiaofei Liao</author><author pid="08/5937">Deze Zeng</author></authors><title>Stochastic Analysis on Fog Computing Empowered Mobile Crowdsensing with D2D Communications.</title><venue>SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI</venue><pages>656-663</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/uic/Hou0LZ18</key><doi>10.1109/SMARTWORLD.2018.00131</doi><ee>https://doi.org/10.1109/SmartWorld.2018.00131</ee><url>https://dblp.org/rec/conf/uic/Hou0LZ18</url></info>
-<url>URL#1632776</url>
+<url>URL#1634347</url>
 </hit>
-<hit score="2" id="1632872">
+<hit score="2" id="1634443">
 <info><authors><author pid="126/5636-1">Shengli Pan 0001</author><author pid="67/1749">Chun Liu</author><author pid="08/5937">Deze Zeng</author><author pid="98/914">Hong Yao</author><author pid="96/2572">Zhuzhong Qian</author></authors><title>Fine-Grained Task-Dependency Offloading in Mobile Cloud Computing.</title><venue>SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI</venue><pages>977-982</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/uic/PanLZYQ18</key><doi>10.1109/SMARTWORLD.2018.00173</doi><ee>https://doi.org/10.1109/SmartWorld.2018.00173</ee><url>https://dblp.org/rec/conf/uic/PanLZYQ18</url></info>
-<url>URL#1632872</url>
+<url>URL#1634443</url>
 </hit>
-<hit score="2" id="1632983">
+<hit score="2" id="1634554">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="177/5149">Yunsong Chen</author><author pid="126/5636-1">Shengli Pan 0001</author><author pid="96/2572">Zhuzhong Qian</author></authors><title>Cost Efficient State-Aware Function Placement and Flow Scheduling for NFV Networks.</title><venue>SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI</venue><pages>1352-1357</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/uic/ZengGCPQ18</key><doi>10.1109/SMARTWORLD.2018.00235</doi><ee>https://doi.org/10.1109/SmartWorld.2018.00235</ee><url>https://dblp.org/rec/conf/uic/ZengGCPQ18</url></info>
-<url>URL#1632983</url>
+<url>URL#1634554</url>
 </hit>
-<hit score="2" id="1644904">
+<hit score="2" id="1646475">
 <info><authors><author pid="50/3402-89">Bo Li 0089</author><author pid="19/2932-5">Lei Shu 0005</author><author pid="08/5937">Deze Zeng</author></authors><title>Communications and Networking - 12th International Conference, ChinaCom 2017, Xi&apos;an, China, October 10-12, 2017, Proceedings, Part I</title><venue>ChinaCom</venue><venue>Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering</venue><volume>236</volume><publisher>Springer</publisher><year>2018</year><type>Editorship</type><key>conf/chinacom/2017-1</key><doi>10.1007/978-3-319-78130-3</doi><ee>https://doi.org/10.1007/978-3-319-78130-3</ee><url>https://dblp.org/rec/conf/chinacom/2017-1</url></info>
-<url>URL#1644904</url>
+<url>URL#1646475</url>
 </hit>
-<hit score="2" id="1644905">
+<hit score="2" id="1646476">
 <info><authors><author pid="50/3402-89">Bo Li 0089</author><author pid="19/2932-5">Lei Shu 0005</author><author pid="08/5937">Deze Zeng</author></authors><title>Communications and Networking - 12th International Conference, ChinaCom 2017, Xi&apos;an, China, October 10-12, 2017, Proceedings, Part II</title><venue>ChinaCom</venue><venue>Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering</venue><volume>237</volume><publisher>Springer</publisher><year>2018</year><type>Editorship</type><key>conf/chinacom/2017-2</key><doi>10.1007/978-3-319-78139-6</doi><ee>https://doi.org/10.1007/978-3-319-78139-6</ee><url>https://dblp.org/rec/conf/chinacom/2017-2</url></info>
-<url>URL#1644905</url>
+<url>URL#1646476</url>
 </hit>
-<hit score="2" id="1644973">
+<hit score="2" id="1646544">
 <info><authors><author pid="23/3594">Imed Romdhani</author><author pid="19/2932-5">Lei Shu 0005</author><author pid="40/2808">Takahiro Hara</author><author pid="07/10127">Zhangbing Zhou</author><author pid="124/4944">Timothy J. Gordon</author><author pid="08/5937">Deze Zeng</author></authors><title>Collaborative Computing - Networking, Applications and Worksharing - 13th International Conference, CollaborateCom 2017, Edinburgh, UK, December 11-13, 2017, Proceedings</title><venue>CollaborateCom</venue><venue>Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering</venue><volume>252</volume><publisher>Springer</publisher><year>2018</year><type>Editorship</type><key>conf/colcom/2017</key><doi>10.1007/978-3-030-00916-8</doi><ee>https://doi.org/10.1007/978-3-030-00916-8</ee><url>https://dblp.org/rec/conf/colcom/2017</url></info>
-<url>URL#1644973</url>
+<url>URL#1646544</url>
 </hit>
-<hit score="2" id="1720921">
+<hit score="2" id="1722496">
 <info><authors><author pid="98/914">Hong Yao</author><author pid="171/1195">Changmin Bai</author><author pid="73/1539">Muzhou Xiong</author><author pid="08/5937">Deze Zeng</author><author pid="83/10000">Zhangjie Fu</author></authors><title>Heterogeneous cloudlet deployment and user-cloudlet association toward cost effective fog computing.</title><venue>Concurr. Comput. Pract. Exp.</venue><volume>29</volume><number>16</number><year>2017</year><type>Journal Articles</type><access>closed</access><key>journals/concurrency/YaoBXZF17</key><doi>10.1002/CPE.3975</doi><ee>https://doi.org/10.1002/cpe.3975</ee><url>https://dblp.org/rec/journals/concurrency/YaoBXZF17</url></info>
-<url>URL#1720921</url>
+<url>URL#1722496</url>
 </hit>
-<hit score="2" id="1743372">
+<hit score="2" id="1744947">
 <info><authors><author pid="98/914">Hong Yao</author><author pid="26/4189">Han Zhang</author><author pid="175/0195">Changkai Zhang</author><author pid="08/5937">Deze Zeng</author><author pid="w/JieWu1">Jie Wu 0001</author><author pid="134/9388">Huanyang Zheng</author></authors><title>Data or index - a trade-off in mobile delay tolerant networks.</title><venue>Int. J. Comput. Sci. Eng.</venue><volume>14</volume><number>4</number><pages>330-340</pages><year>2017</year><type>Journal Articles</type><access>closed</access><key>journals/ijcse/YaoZZZWZ17</key><doi>10.1504/IJCSE.2017.10005745</doi><ee>https://doi.org/10.1504/IJCSE.2017.10005745</ee><url>https://dblp.org/rec/journals/ijcse/YaoZZZWZ17</url></info>
-<url>URL#1743372</url>
+<url>URL#1744947</url>
 </hit>
-<hit score="2" id="1778043">
+<hit score="2" id="1779618">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="50/3402-1">Bo Li 0001</author></authors><title>Editorial for Special Issue on Social Computing.</title><venue>Mob. Networks Appl.</venue><volume>22</volume><number>2</number><pages>151-152</pages><year>2017</year><type>Journal Articles</type><access>open</access><key>journals/monet/ZengGL17</key><doi>10.1007/S11036-016-0761-1</doi><ee>https://doi.org/10.1007/s11036-016-0761-1</ee><url>https://dblp.org/rec/journals/monet/ZengGL17</url></info>
-<url>URL#1778043</url>
+<url>URL#1779618</url>
 </hit>
-<hit score="2" id="1781691">
+<hit score="2" id="1783266">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="84/6889">Jie Zhang</author><author pid="01/267-1">Song Guo 0001</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="05/1958-5">Kun Wang 0005</author></authors><title>Take Renewable Energy into CRAN toward Green Wireless Access Networks.</title><venue>IEEE Netw.</venue><volume>31</volume><number>4</number><pages>62-68</pages><year>2017</year><type>Journal Articles</type><access>closed</access><key>journals/network/ZengZGGW17</key><doi>10.1109/MNET.2017.1600333</doi><ee>https://doi.org/10.1109/MNET.2017.1600333</ee><url>https://dblp.org/rec/journals/network/ZengZGGW17</url></info>
-<url>URL#1781691</url>
+<url>URL#1783266</url>
 </hit>
-<hit score="2" id="1781692">
+<hit score="2" id="1783267">
 <info><authors><author pid="50/671-27">Yu Zhang 0027</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="56/4402">Xiaofei Liao</author><author pid="98/4156">Hai Jin 0001</author><author pid="08/5937">Deze Zeng</author><author pid="60/6545">Bing Bing Zhou</author></authors><title>FRANK - A Fast Node Ranking Approach in Large-Scale Networks.</title><venue>IEEE Netw.</venue><volume>31</volume><number>1</number><pages>36-43</pages><year>2017</year><type>Journal Articles</type><access>closed</access><key>journals/network/ZhangGLJZZ17</key><doi>10.1109/MNET.2017.1500138NM</doi><ee>https://doi.org/10.1109/MNET.2017.1500138NM</ee><url>https://dblp.org/rec/journals/network/ZhangGLJZZ17</url></info>
-<url>URL#1781692</url>
+<url>URL#1783267</url>
 </hit>
-<hit score="2" id="1808902">
+<hit score="2" id="1810477">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="61/4132">Ahmed Barnawi</author><author pid="98/2912-1">Yong Xiang 0001</author></authors><title>Cost Efficient Resource Management in Fog Computing Supported Medical Cyber-Physical System.</title><venue>IEEE Trans. Emerg. Top. Comput.</venue><volume>5</volume><number>1</number><pages>108-119</pages><year>2017</year><type>Journal Articles</type><access>closed</access><key>journals/tetc/GuZGBX17</key><doi>10.1109/TETC.2015.2508382</doi><ee>https://doi.org/10.1109/TETC.2015.2508382</ee><url>https://dblp.org/rec/journals/tetc/GuZGBX17</url></info>
-<url>URL#1808902</url>
+<url>URL#1810477</url>
 </hit>
-<hit score="2" id="1818430">
+<hit score="2" id="1820005">
 <info><authors><author pid="05/1958-5">Kun Wang 0005</author><author pid="17/8494">Xiaoxuan Hu</author><author pid="204/1605">Huining Li</author><author pid="83/6353-17">Peng Li 0017</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author></authors><title>A Survey on Energy Internet Communications for Sustainability.</title><venue>IEEE Trans. Sustain. Comput.</venue><volume>2</volume><number>3</number><pages>231-254</pages><year>2017</year><type>Journal Articles</type><access>closed</access><key>journals/tsusc/WangHLLZG17</key><doi>10.1109/TSUSC.2017.2707122</doi><ee>https://doi.org/10.1109/TSUSC.2017.2707122</ee><url>https://dblp.org/rec/journals/tsusc/WangHLLZG17</url></info>
-<url>URL#1818430</url>
+<url>URL#1820005</url>
 </hit>
-<hit score="2" id="1819798">
+<hit score="2" id="1821373">
 <info><authors><author pid="05/1958-5">Kun Wang 0005</author><author pid="98/4583">Li Yuan</author><author pid="48/366">Toshiaki Miyazaki</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="46/6959">Yanfei Sun</author></authors><title>Strategic Antieavesdropping Game for Physical Layer Security in Wireless Cooperative Networks.</title><venue>IEEE Trans. Veh. Technol.</venue><volume>66</volume><number>10</number><pages>9448-9457</pages><year>2017</year><type>Journal Articles</type><access>closed</access><key>journals/tvt/WangYMZGS17</key><doi>10.1109/TVT.2017.2703305</doi><ee>https://doi.org/10.1109/TVT.2017.2703305</ee><url>https://dblp.org/rec/journals/tvt/WangYMZGS17</url></info>
-<url>URL#1819798</url>
+<url>URL#1821373</url>
 </hit>
-<hit score="2" id="1821559">
+<hit score="2" id="1823134">
 <info><authors><author pid="05/1958-5">Kun Wang 0005</author><author pid="30/7591">Yihui Wang</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author></authors><title>An SDN-Based Architecture for Next-Generation Wireless Networks.</title><venue>IEEE Wirel. Commun.</venue><volume>24</volume><number>1</number><pages>25-31</pages><year>2017</year><type>Journal Articles</type><access>closed</access><key>journals/wc/WangWZG17</key><doi>10.1109/MWC.2017.1600187WC</doi><ee>https://doi.org/10.1109/MWC.2017.1600187WC</ee><url>https://dblp.org/rec/journals/wc/WangWZG17</url></info>
-<url>URL#1821559</url>
+<url>URL#1823134</url>
 </hit>
-<hit score="2" id="1856084">
+<hit score="2" id="1857659">
 <info><authors><author pid="29/5889">Yating Zhang</author><author pid="233/9199">Yuepeng Li</author><author pid="68/6274-1">Long Zheng 0001</author><author pid="08/5937">Deze Zeng</author></authors><title>On Cost Efficient Dataflow Computing Program Deployment in SDN Managed Distributed Computing Environment.</title><venue>CollaborateCom</venue><pages>27-36</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/colcom/ZhangL0Z17</key><doi>10.1007/978-3-030-00916-8_3</doi><ee>https://doi.org/10.1007/978-3-030-00916-8_3</ee><url>https://dblp.org/rec/conf/colcom/ZhangL0Z17</url></info>
-<url>URL#1856084</url>
+<url>URL#1857659</url>
 </hit>
-<hit score="2" id="1882038">
+<hit score="2" id="1883613">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="84/6889">Jie Zhang</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="83/6353-17">Peng Li 0017</author><author pid="98/914">Hong Yao</author></authors><title>Minimize Coflow Completion Time via Joint Optimization of Flow Scheduling and Processor Placement.</title><venue>GLOBECOM</venue><pages>1-5</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/globecom/ZengZGLY17</key><doi>10.1109/GLOCOM.2017.8254984</doi><ee>https://doi.org/10.1109/GLOCOM.2017.8254984</ee><url>https://dblp.org/rec/conf/globecom/ZengZGLY17</url></info>
-<url>URL#1882038</url>
+<url>URL#1883613</url>
 </hit>
-<hit score="2" id="1882089">
+<hit score="2" id="1883664">
 <info><authors><author pid="84/6889">Jie Zhang</author><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="98/914">Hong Yao</author><author pid="73/1539">Muzhou Xiong</author></authors><title>Joint Optimization of Virtual Function Migration and Rule Update in Software Defined NFV Networks.</title><venue>GLOBECOM</venue><pages>1-5</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/globecom/ZhangZGYX17</key><doi>10.1109/GLOCOM.2017.8254083</doi><ee>https://doi.org/10.1109/GLOCOM.2017.8254083</ee><url>https://dblp.org/rec/conf/globecom/ZhangZGYX17</url></info>
-<url>URL#1882089</url>
+<url>URL#1883664</url>
 </hit>
-<hit score="2" id="1895154">
+<hit score="2" id="1896729">
 <info><authors><author pid="73/1539">Muzhou Xiong</author><author pid="68/7127">Haixin Liu</author><author pid="08/5937">Deze Zeng</author></authors><title>A Network Calculus Analysis for the Baseband Processing Capacity in Cloud Radio Access Network.</title><venue>ICCCS</venue><pages>239-250</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icccsec/XiongLZ17</key><doi>10.1007/978-3-319-68505-2_21</doi><ee>https://doi.org/10.1007/978-3-319-68505-2_21</ee><url>https://dblp.org/rec/conf/icccsec/XiongLZ17</url></info>
-<url>URL#1895154</url>
+<url>URL#1896729</url>
 </hit>
-<hit score="2" id="1915737">
+<hit score="2" id="1917312">
 <info><authors><author pid="223/6128">Zhuoling Chen</author><author pid="98/914">Hong Yao</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="97/3432">Kun Zheng</author></authors><title>Dynamic Service Migration via Approximate Markov Decision Process in Mobile Edge-Clouds.</title><venue>IDCS</venue><pages>13-24</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/idcs/ChenYGZZ17</key><doi>10.1007/978-3-319-97795-9_2</doi><ee>https://doi.org/10.1007/978-3-319-97795-9_2</ee><url>https://dblp.org/rec/conf/idcs/ChenYGZZ17</url></info>
-<url>URL#1915737</url>
+<url>URL#1917312</url>
 </hit>
-<hit score="2" id="1933540">
+<hit score="2" id="1935115">
 <info><authors><author pid="33/9704">Haixiang Hou</author><author pid="98/4156">Hai Jin 0001</author><author pid="56/4402">Xiaofei Liao</author><author pid="08/5937">Deze Zeng</author></authors><title>Multi-Path Routing for Energy Efficient Mobile Offloading in Software Defined Networks.</title><venue>ISPA/IUCC</venue><pages>360-367</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ispa/Hou0LZ17</key><doi>10.1109/ISPA/IUCC.2017.00058</doi><ee>https://doi.org/10.1109/ISPA/IUCC.2017.00058</ee><url>https://dblp.org/rec/conf/ispa/Hou0LZ17</url></info>
-<url>URL#1933540</url>
+<url>URL#1935115</url>
 </hit>
-<hit score="2" id="1933568">
+<hit score="2" id="1935143">
 <info><authors><author pid="40/99">Dingding Li</author><author pid="221/4713">Xiaojia Tian</author><author pid="221/4638">Sihua Huang</author><author pid="46/2375-6">Hai Liu 0006</author><author pid="01/2880-1">Yong Tang 0001</author><author pid="08/5937">Deze Zeng</author></authors><title>Persisting Memcached with VM Memory Snapshot.</title><venue>ISPA/IUCC</venue><pages>58-65</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ispa/LiTHLTZ17</key><doi>10.1109/ISPA/IUCC.2017.00018</doi><ee>https://doi.org/10.1109/ISPA/IUCC.2017.00018</ee><url>https://dblp.org/rec/conf/ispa/LiTHLTZ17</url></info>
-<url>URL#1933568</url>
+<url>URL#1935143</url>
 </hit>
-<hit score="2" id="1939138">
+<hit score="2" id="1940713">
 <info><authors><author pid="185/5720">Sheng Tao</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="98/4156">Hai Jin 0001</author><author pid="92/2627">Kan Hu</author></authors><title>Fairness-aware dynamic rate control and flow scheduling for network function virtualization.</title><venue>IWQoS</venue><pages>1-6</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/TaoGZJH17</key><doi>10.1109/IWQOS.2017.7969123</doi><ee>https://doi.org/10.1109/IWQoS.2017.7969123</ee><url>https://dblp.org/rec/conf/iwqos/TaoGZJH17</url></info>
-<url>URL#1939138</url>
+<url>URL#1940713</url>
 </hit>
-<hit score="2" id="1981723">
+<hit score="2" id="1983298">
 <info><authors><author pid="01/267-1">Song Guo 0001</author><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author></authors><title>Green C-RAN - A Joint Approach to the Design and Energy Optimization.</title><venue>VTC Fall</venue><pages>1-5</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vtc/GuoZG17</key><doi>10.1109/VTCFALL.2017.8288133</doi><ee>https://doi.org/10.1109/VTCFall.2017.8288133</ee><url>https://dblp.org/rec/conf/vtc/GuoZG17</url></info>
-<url>URL#1981723</url>
+<url>URL#1983298</url>
 </hit>
-<hit score="2" id="2053241">
+<hit score="2" id="2054817">
 <info><authors><author pid="98/914">Hong Yao</author><author pid="186/2257">Jinlai Xu</author><author pid="71/1281">Zhongwen Luo</author><author pid="08/5937">Deze Zeng</author></authors><title>MEMoMR - Accelerate MapReduce via reuse of intermediate results.</title><venue>Concurr. Comput. Pract. Exp.</venue><volume>28</volume><number>14</number><pages>3814-3829</pages><year>2016</year><type>Journal Articles</type><access>closed</access><key>journals/concurrency/YaoXLZ16</key><doi>10.1002/CPE.3702</doi><ee>https://doi.org/10.1002/cpe.3702</ee><url>https://dblp.org/rec/journals/concurrency/YaoXLZ16</url></info>
-<url>URL#2053241</url>
+<url>URL#2054817</url>
 </hit>
-<hit score="2" id="2114583">
+<hit score="2" id="2116159">
 <info><authors><author pid="21/10364">Kaimin Wei</author><author pid="01/267-1">Song Guo 0001</author><author pid="46/9391">Xiangli Li</author><author pid="08/5937">Deze Zeng</author><author pid="181/2626">Ke Xu</author></authors><title>Congestion control in social-based sensor networks - A social network perspective.</title><venue>Peer-to-Peer Netw. Appl.</venue><volume>9</volume><number>4</number><pages>681-691</pages><year>2016</year><type>Journal Articles</type><access>closed</access><key>journals/ppna/WeiGLZX16</key><doi>10.1007/S12083-015-0352-0</doi><ee>https://doi.org/10.1007/s12083-015-0352-0</ee><url>https://dblp.org/rec/journals/ppna/WeiGLZX16</url></info>
-<url>URL#2114583</url>
+<url>URL#2116159</url>
 </hit>
-<hit score="2" id="2125753">
+<hit score="2" id="2127329">
 <info><authors><author pid="84/1733-1">Jinsong Wu 0001</author><author pid="01/267-1">Song Guo 0001</author><author pid="17/2703-2">Jie Li 0002</author><author pid="08/5937">Deze Zeng</author></authors><title>Big Data Meet Green Challenges - Greening Big Data.</title><venue>IEEE Syst. J.</venue><volume>10</volume><number>3</number><pages>873-887</pages><year>2016</year><type>Journal Articles</type><access>closed</access><key>journals/sj/WuGLZ16</key><doi>10.1109/JSYST.2016.2550538</doi><ee>https://doi.org/10.1109/JSYST.2016.2550538</ee><url>https://dblp.org/rec/journals/sj/WuGLZ16</url></info>
-<url>URL#2125753</url>
+<url>URL#2127329</url>
 </hit>
-<hit score="2" id="2125754">
+<hit score="2" id="2127330">
 <info><authors><author pid="84/1733-1">Jinsong Wu 0001</author><author pid="01/267-1">Song Guo 0001</author><author pid="17/2703-2">Jie Li 0002</author><author pid="08/5937">Deze Zeng</author></authors><title>Big Data Meet Green Challenges - Big Data Toward Green Applications.</title><venue>IEEE Syst. J.</venue><volume>10</volume><number>3</number><pages>888-900</pages><year>2016</year><type>Journal Articles</type><access>closed</access><key>journals/sj/WuGLZ16a</key><doi>10.1109/JSYST.2016.2550530</doi><ee>https://doi.org/10.1109/JSYST.2016.2550530</ee><url>https://dblp.org/rec/journals/sj/WuGLZ16a</url></info>
-<url>URL#2125754</url>
+<url>URL#2127330</url>
 </hit>
-<hit score="2" id="2130935">
+<hit score="2" id="2132511">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/2912-1">Yong Xiang 0001</author><author pid="99/5144">Jiankun Hu</author></authors><title>A General Communication Cost Optimization Framework for Big Data Stream Processing in Geo-Distributed Data Centers.</title><venue>IEEE Trans. Computers</venue><volume>65</volume><number>1</number><pages>19-29</pages><year>2016</year><type>Journal Articles</type><access>closed</access><key>journals/tc/GuZGXH16</key><doi>10.1109/TC.2015.2417566</doi><ee>https://doi.org/10.1109/TC.2015.2417566</ee><url>https://dblp.org/rec/journals/tc/GuZGXH16</url></info>
-<url>URL#2130935</url>
+<url>URL#2132511</url>
 </hit>
-<hit score="2" id="2131141">
+<hit score="2" id="2132717">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="01/267-1">Song Guo 0001</author><author pid="54/4087">Zixue Cheng</author><author pid="90/3575">Shui Yu</author></authors><title>Joint Optimization of Task Scheduling and Image Placement in Fog Computing Supported Software-Defined Embedded System.</title><venue>IEEE Trans. Computers</venue><volume>65</volume><number>12</number><pages>3702-3712</pages><year>2016</year><type>Journal Articles</type><access>closed</access><key>journals/tc/ZengGGCY16</key><doi>10.1109/TC.2016.2536019</doi><ee>https://doi.org/10.1109/TC.2016.2536019</ee><url>https://dblp.org/rec/journals/tc/ZengGGCY16</url></info>
-<url>URL#2131141</url>
+<url>URL#2132717</url>
 </hit>
-<hit score="2" id="2136580">
+<hit score="2" id="2138156">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="140/8371">Lu Lian</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/914">Hong Yao</author><author pid="99/5144">Jiankun Hu</author></authors><title>On Cost-Efficient Sensor Placement for Contaminant Detection in Water Distribution Systems.</title><venue>IEEE Trans. Ind. Informatics</venue><volume>12</volume><number>6</number><pages>2177-2185</pages><year>2016</year><type>Journal Articles</type><access>closed</access><key>journals/tii/ZengGLGYH16</key><doi>10.1109/TII.2016.2569413</doi><ee>https://doi.org/10.1109/TII.2016.2569413</ee><url>https://dblp.org/rec/journals/tii/ZengGLGYH16</url></info>
-<url>URL#2136580</url>
+<url>URL#2138156</url>
 </hit>
-<hit score="2" id="2149123">
+<hit score="2" id="2150699">
 <info><authors><author pid="98/914">Hong Yao</author><author pid="66/3387">Hui Li</author><author pid="15/5923-7">Chao Liu 0007</author><author pid="73/1539">Muzhou Xiong</author><author pid="08/5937">Deze Zeng</author><author pid="05/10612">Guohui Li</author></authors><title>Joint Optimization of VM Placement and Rule Placement towards Energy Efficient Software-Defined Data Centers.</title><venue>CIT</venue><pages>204-209</pages><year>2016</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/IEEEcit/YaoLLXZL16</key><doi>10.1109/CIT.2016.83</doi><ee>https://doi.org/10.1109/CIT.2016.83</ee><url>https://dblp.org/rec/conf/IEEEcit/YaoLLXZL16</url></info>
-<url>URL#2149123</url>
+<url>URL#2150699</url>
 </hit>
-<hit score="2" id="2214837">
+<hit score="2" id="2216413">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="25/5712">Guang Yang</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/914">Hong Yao</author></authors><title>Joint optimization on switch activation and flow routing towards energy efficient software defined data center networks.</title><venue>ICC</venue><pages>1-6</pages><year>2016</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icc/ZengYGGY16</key><doi>10.1109/ICC.2016.7511463</doi><ee>https://doi.org/10.1109/ICC.2016.7511463</ee><url>https://dblp.org/rec/conf/icc/ZengYGGY16</url></info>
-<url>URL#2214837</url>
+<url>URL#2216413</url>
 </hit>
-<hit score="2" id="2241599">
+<hit score="2" id="2243175">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="185/5720">Sheng Tao</author><author pid="08/5937">Deze Zeng</author><author pid="98/4156">Hai Jin 0001</author></authors><title>Communication cost efficient virtualized network function placement for big data processing.</title><venue>INFOCOM Workshops</venue><pages>604-609</pages><year>2016</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/GuTZJ16</key><doi>10.1109/INFCOMW.2016.7562148</doi><ee>https://doi.org/10.1109/INFCOMW.2016.7562148</ee><url>https://dblp.org/rec/conf/infocom/GuTZJ16</url></info>
-<url>URL#2241599</url>
+<url>URL#2243175</url>
 </hit>
-<hit score="2" id="2300358">
+<hit score="2" id="2301934">
 <info><authors><author pid="73/1539">Muzhou Xiong</author><author pid="08/5937">Deze Zeng</author><author pid="98/914">Hong Yao</author><author pid="93/2334">Yong Li</author></authors><title>A Crowd Simulation Based UAV Control Architecture for Industrial Disaster Evacuation.</title><venue>VTC Spring</venue><pages>1-5</pages><year>2016</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vtc/XiongZYL16</key><doi>10.1109/VTCSPRING.2016.7504062</doi><ee>https://doi.org/10.1109/VTCSpring.2016.7504062</ee><url>https://dblp.org/rec/conf/vtc/XiongZYL16</url></info>
-<url>URL#2300358</url>
+<url>URL#2301934</url>
 </hit>
-<hit score="2" id="2342987">
+<hit score="2" id="2344564">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="01/267-1">Song Guo 0001</author></authors><title>Cloud Networking for Big Data</title><venue>Wireless Networks</venue><pages>3-102</pages><publisher>Springer</publisher><year>2015</year><type>Books and Theses</type><access>closed</access><key>series/wn/ZengGG15</key><doi>10.1007/978-3-319-24720-5</doi><ee>https://doi.org/10.1007/978-3-319-24720-5</ee><url>https://dblp.org/rec/series/wn/ZengGG15</url></info>
-<url>URL#2342987</url>
+<url>URL#2344564</url>
 </hit>
-<hit score="2" id="2344125">
+<hit score="2" id="2345702">
 <info><authors><author pid="10/901">Chengyu Hu</author><author pid="69/5882">Jing Zhao</author><author pid="54/1896">Xuesong Yan</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author></authors><title>A MapReduce based Parallel Niche Genetic Algorithm for contaminant source identification in water distribution network.</title><venue>Ad Hoc Networks</venue><volume>35</volume><pages>116-126</pages><year>2015</year><type>Journal Articles</type><access>closed</access><key>journals/adhoc/HuZYZG15</key><doi>10.1016/J.ADHOC.2015.07.011</doi><ee>https://doi.org/10.1016/j.adhoc.2015.07.011</ee><url>https://dblp.org/rec/journals/adhoc/HuZYZG15</url></info>
-<url>URL#2344125</url>
+<url>URL#2345702</url>
 </hit>
-<hit score="2" id="2362638">
+<hit score="2" id="2364215">
 <info><authors><author pid="98/914">Hong Yao</author><author pid="171/1195">Changmin Bai</author><author pid="08/5937">Deze Zeng</author><author pid="48/3685">Qingzhong Liang</author><author pid="51/2259">Yuanyuan Fan</author></authors><title>Migrate or not? Exploring virtual machine migration in roadside cloudlet-based vehicular cloud.</title><venue>Concurr. Comput. Pract. Exp.</venue><volume>27</volume><number>18</number><pages>5780-5792</pages><year>2015</year><type>Journal Articles</type><access>closed</access><key>journals/concurrency/YaoBZLF15</key><doi>10.1002/CPE.3642</doi><ee>https://doi.org/10.1002/cpe.3642</ee><url>https://dblp.org/rec/journals/concurrency/YaoBZLF15</url></info>
-<url>URL#2362638</url>
+<url>URL#2364215</url>
 </hit>
-<hit score="2" id="2379018">
+<hit score="2" id="2380595">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="83/179">Huawei Huang</author><author pid="90/3575">Shui Yu</author><author pid="36/4847">Victor C. M. Leung</author></authors><title>Optimal VM placement in data centres with architectural and resource constraints.</title><venue>Int. J. Auton. Adapt. Commun. Syst.</venue><volume>8</volume><number>4</number><pages>392-406</pages><year>2015</year><type>Journal Articles</type><access>closed</access><key>journals/ijaacs/ZengGHYL15</key><doi>10.1504/IJAACS.2015.073187</doi><ee>https://doi.org/10.1504/IJAACS.2015.073187</ee><url>https://dblp.org/rec/journals/ijaacs/ZengGHYL15</url></info>
-<url>URL#2379018</url>
+<url>URL#2380595</url>
 </hit>
-<hit score="2" id="2409019">
+<hit score="2" id="2410596">
 <info><authors><author pid="98/914">Hong Yao</author><author pid="25/5712">Guang Yang</author><author pid="08/5937">Deze Zeng</author><author pid="15/5923-7">Chao Liu 0007</author><author pid="48/3685">Qingzhong Liang</author><author pid="10/901">Chengyu Hu</author></authors><title>An Advertiser-Centric Cooperative Mechanism in Smartphone Advertising Based on Stackelberg Game Analysis.</title><venue>Int. J. Web Serv. Res.</venue><volume>12</volume><number>4</number><pages>1-15</pages><year>2015</year><type>Journal Articles</type><access>closed</access><key>journals/jwsr/YaoYZLLH15</key><doi>10.4018/IJWSR.2015100101</doi><ee>https://doi.org/10.4018/IJWSR.2015100101</ee><url>https://dblp.org/rec/journals/jwsr/YaoYZLLH15</url></info>
-<url>URL#2409019</url>
+<url>URL#2410596</url>
 </hit>
-<hit score="2" id="2412578">
+<hit score="2" id="2414155">
 <info><authors><author pid="33/1462">Wei-Lun Chang</author><author pid="08/5937">Deze Zeng</author><author pid="29/2680">Rung-Ching Chen</author><author pid="01/267-1">Song Guo 0001</author></authors><title>An artificial bee colony algorithm for data collection path planning in sparse wireless sensor networks.</title><venue>Int. J. Mach. Learn. Cybern.</venue><volume>6</volume><number>3</number><pages>375-383</pages><year>2015</year><type>Journal Articles</type><access>closed</access><key>journals/mlc/ChangZCG15</key><doi>10.1007/S13042-013-0195-Z</doi><ee>https://doi.org/10.1007/s13042-013-0195-z</ee><url>https://dblp.org/rec/journals/mlc/ChangZCG15</url></info>
-<url>URL#2412578</url>
+<url>URL#2414155</url>
 </hit>
-<hit score="2" id="2435308">
+<hit score="2" id="2436885">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="61/4132">Ahmed Barnawi</author><author pid="01/267-1">Song Guo 0001</author><author pid="s/IvanStojmenovic">Ivan Stojmenovic</author></authors><title>Optimal Task Placement with QoS Constraints in Geo-Distributed Data Centers Using DVFS.</title><venue>IEEE Trans. Computers</venue><volume>64</volume><number>7</number><pages>2049-2059</pages><year>2015</year><type>Journal Articles</type><access>closed</access><key>journals/tc/GuZBGS15</key><doi>10.1109/TC.2014.2349510</doi><ee>https://doi.org/10.1109/TC.2014.2349510</ee><url>https://dblp.org/rec/journals/tc/GuZBGS15</url></info>
-<url>URL#2435308</url>
+<url>URL#2436885</url>
 </hit>
-<hit score="2" id="2435466">
+<hit score="2" id="2437043">
 <info><authors><author pid="21/10364">Kaimin Wei</author><author pid="01/267-1">Song Guo 0001</author><author pid="08/5937">Deze Zeng</author><author pid="181/2626">Ke Xu</author><author pid="21/6280">Keqiu Li</author></authors><title>Exploiting Small World Properties for Message Forwarding in Delay Tolerant Networks.</title><venue>IEEE Trans. Computers</venue><volume>64</volume><number>10</number><pages>2809-2818</pages><year>2015</year><type>Journal Articles</type><access>closed</access><key>journals/tc/WeiGZXL15</key><doi>10.1109/TC.2015.2389807</doi><ee>https://doi.org/10.1109/TC.2015.2389807</ee><url>https://dblp.org/rec/journals/tc/WeiGZXL15</url></info>
-<url>URL#2435466</url>
+<url>URL#2437043</url>
 </hit>
-<hit score="2" id="2435486">
+<hit score="2" id="2437063">
 <info><authors><author pid="98/914">Hong Yao</author><author pid="08/5937">Deze Zeng</author><author pid="83/179">Huawei Huang</author><author pid="01/267-1">Song Guo 0001</author><author pid="61/4132">Ahmed Barnawi</author><author pid="s/IvanStojmenovic">Ivan Stojmenovic</author></authors><title>Opportunistic Offloading of Deadline-Constrained Bulk Cellular Traffic in Vehicular DTNs.</title><venue>IEEE Trans. Computers</venue><volume>64</volume><number>12</number><pages>3515-3527</pages><year>2015</year><type>Journal Articles</type><access>closed</access><key>journals/tc/YaoZHGBS15</key><doi>10.1109/TC.2015.2401012</doi><ee>https://doi.org/10.1109/TC.2015.2401012</ee><url>https://dblp.org/rec/journals/tc/YaoZHGBS15</url></info>
-<url>URL#2435486</url>
+<url>URL#2437063</url>
 </hit>
-<hit score="2" id="2435495">
+<hit score="2" id="2437072">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="61/4132">Ahmed Barnawi</author><author pid="90/3575">Shui Yu</author><author pid="s/IvanStojmenovic">Ivan Stojmenovic</author></authors><title>An Improved Stochastic Modeling of Opportunistic Routing in Vehicular CPS.</title><venue>IEEE Trans. Computers</venue><volume>64</volume><number>7</number><pages>1819-1829</pages><year>2015</year><type>Journal Articles</type><access>closed</access><key>journals/tc/ZengGBYS15</key><doi>10.1109/TC.2014.2349509</doi><ee>https://doi.org/10.1109/TC.2014.2349509</ee><url>https://dblp.org/rec/journals/tc/ZengGBYS15</url></info>
-<url>URL#2435495</url>
+<url>URL#2437072</url>
 </hit>
-<hit score="2" id="2435496">
+<hit score="2" id="2437073">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="83/6353-17">Peng Li 0017</author><author pid="01/267-1">Song Guo 0001</author><author pid="48/366">Toshiaki Miyazaki</author><author pid="99/5144">Jiankun Hu</author><author pid="98/2912-1">Yong Xiang 0001</author></authors><title>Energy Minimization in Multi-Task Software-Defined Sensor Networks.</title><venue>IEEE Trans. Computers</venue><volume>64</volume><number>11</number><pages>3128-3139</pages><year>2015</year><type>Journal Articles</type><access>closed</access><key>journals/tc/ZengLGMHX15</key><doi>10.1109/TC.2015.2389802</doi><ee>https://doi.org/10.1109/TC.2015.2389802</ee><url>https://dblp.org/rec/journals/tc/ZengLGMHX15</url></info>
-<url>URL#2435496</url>
+<url>URL#2437073</url>
 </hit>
-<hit score="2" id="2481563">
+<hit score="2" id="2483140">
 <info><authors><author pid="84/6889">Jie Zhang</author><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="98/914">Hong Yao</author><author pid="51/2259">Yuanyuan Fan</author></authors><title>On Rule Placement for Multi-path Routing in Software-Defined Networks.</title><venue>CollaborateCom</venue><pages>59-71</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/colcom/ZhangZGYF15</key><doi>10.1007/978-3-319-28910-6_6</doi><ee>https://doi.org/10.1007/978-3-319-28910-6_6</ee><url>https://dblp.org/rec/conf/colcom/ZhangZGYF15</url></info>
-<url>URL#2481563</url>
+<url>URL#2483140</url>
 </hit>
-<hit score="2" id="2515449">
+<hit score="2" id="2517026">
 <info><authors><author pid="15/5923-7">Chao Liu 0007</author><author pid="08/5937">Deze Zeng</author><author pid="98/914">Hong Yao</author><author pid="10/901">Chengyu Hu</author><author pid="54/1896">Xuesong Yan</author><author pid="51/2259">Yuanyuan Fan</author></authors><title>MR-COF - A Genetic MapReduce Configuration Optimization Framework.</title><venue>ICA3PP</venue><pages>344-357</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ica3pp/LiuZYHYF15</key><doi>10.1007/978-3-319-27140-8_24</doi><ee>https://doi.org/10.1007/978-3-319-27140-8_24</ee><url>https://dblp.org/rec/conf/ica3pp/LiuZYHYF15</url></info>
-<url>URL#2515449</url>
+<url>URL#2517026</url>
 </hit>
-<hit score="2" id="2522507">
+<hit score="2" id="2524084">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="69/5116">Baoliu Ye</author></authors><title>Joint optimization of VM placement and request distribution for electricity cost cut in geo-distributed data centers.</title><venue>ICNC</venue><pages>717-721</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iccnc/GuZGY15</key><doi>10.1109/ICCNC.2015.7069434</doi><ee>https://doi.org/10.1109/ICCNC.2015.7069434</ee><url>https://dblp.org/rec/conf/iccnc/GuZGY15</url></info>
-<url>URL#2522507</url>
+<url>URL#2524084</url>
 </hit>
-<hit score="2" id="2555005">
+<hit score="2" id="2556582">
 <info><authors><author pid="51/2259">Yuanyuan Fan</author><author pid="48/3685">Qingzhong Liang</author><author pid="177/5149">Yunsong Chen</author><author pid="54/1896">Xuesong Yan</author><author pid="10/901">Chengyu Hu</author><author pid="98/914">Hong Yao</author><author pid="15/5923-7">Chao Liu 0007</author><author pid="08/5937">Deze Zeng</author></authors><title>Executing Time and Cost-Aware Task Scheduling in Hybrid Cloud Using a Modified DE Algorithm.</title><venue>ISICA</venue><pages>74-83</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isica/FanLCYHYLZ15</key><doi>10.1007/978-981-10-0356-1_8</doi><ee>https://doi.org/10.1007/978-981-10-0356-1_8</ee><url>https://dblp.org/rec/conf/isica/FanLCYHYLZ15</url></info>
-<url>URL#2555005</url>
+<url>URL#2556582</url>
 </hit>
-<hit score="2" id="2582472">
+<hit score="2" id="2584049">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="155/6789">Chao Teng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="98/914">Hong Yao</author><author pid="48/3685">Qingzhong Liang</author></authors><title>Flow setup time aware minimum cost switch-controller association in Software-Defined Networks.</title><venue>QSHINE</venue><pages>259-264</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/qshine/ZengTGYL15</key><ee>https://ieeexplore.ieee.org/document/7332579/</ee><url>https://dblp.org/rec/conf/qshine/ZengTGYL15</url></info>
-<url>URL#2582472</url>
+<url>URL#2584049</url>
 </hit>
-<hit score="2" id="2734441">
+<hit score="2" id="2736048">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="83/6353-17">Peng Li 0017</author><author pid="01/267-1">Song Guo 0001</author></authors><title>Cost Minimization for Big Data Processing in Geo-Distributed Data Centers.</title><venue>IEEE Trans. Emerg. Top. Comput.</venue><volume>2</volume><number>3</number><pages>314-323</pages><year>2014</year><type>Journal Articles</type><access>closed</access><key>journals/tetc/GuZLG14</key><doi>10.1109/TETC.2014.2310456</doi><ee>https://doi.org/10.1109/TETC.2014.2310456</ee><url>https://dblp.org/rec/journals/tetc/GuZLG14</url></info>
-<url>URL#2734441</url>
+<url>URL#2736048</url>
 </hit>
-<hit score="2" id="2740993">
+<hit score="2" id="2742600">
 <info><authors><author pid="01/267-1">Song Guo 0001</author><author pid="08/5937">Deze Zeng</author><author pid="50/2192-1">Yang Xiang 0001</author></authors><title>Chameleon Hashing for Secure and Privacy-Preserving Vehicular Communications.</title><venue>IEEE Trans. Parallel Distributed Syst.</venue><volume>25</volume><number>11</number><pages>2794-2803</pages><year>2014</year><type>Journal Articles</type><access>closed</access><key>journals/tpds/GuoZX14</key><doi>10.1109/TPDS.2013.277</doi><ee>https://doi.org/10.1109/TPDS.2013.277</ee><url>https://dblp.org/rec/journals/tpds/GuoZX14</url></info>
-<url>URL#2740993</url>
+<url>URL#2742600</url>
 </hit>
-<hit score="2" id="2741164">
+<hit score="2" id="2742771">
 <info><authors><author pid="21/10364">Kaimin Wei</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="181/2626">Ke Xu</author></authors><title>On Social Delay-Tolerant Networking - Aggregation, Tie Detection, and Routing.</title><venue>IEEE Trans. Parallel Distributed Syst.</venue><volume>25</volume><number>6</number><pages>1563-1573</pages><year>2014</year><type>Journal Articles</type><access>closed</access><key>journals/tpds/WeiZGX14</key><doi>10.1109/TPDS.2013.264</doi><ee>https://doi.org/10.1109/TPDS.2013.264</ee><url>https://dblp.org/rec/journals/tpds/WeiZGX14</url></info>
-<url>URL#2741164</url>
+<url>URL#2742771</url>
 </hit>
-<hit score="2" id="2741201">
+<hit score="2" id="2742808">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="99/5144">Jiankun Hu</author></authors><title>Reliable Bulk-Data Dissemination in Delay Tolerant Networks.</title><venue>IEEE Trans. Parallel Distributed Syst.</venue><volume>25</volume><number>8</number><pages>2180-2189</pages><year>2014</year><type>Journal Articles</type><access>closed</access><key>journals/tpds/ZengGH14</key><doi>10.1109/TPDS.2013.221</doi><ee>https://doi.org/10.1109/TPDS.2013.221</ee><url>https://dblp.org/rec/journals/tpds/ZengGH14</url></info>
-<url>URL#2741201</url>
+<url>URL#2742808</url>
 </hit>
-<hit score="2" id="2741202">
+<hit score="2" id="2742809">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/2912-1">Yong Xiang 0001</author><author pid="98/4156">Hai Jin 0001</author></authors><title>On the Throughput of Two-Way Relay Networks Using Network Coding.</title><venue>IEEE Trans. Parallel Distributed Syst.</venue><volume>25</volume><number>1</number><pages>191-199</pages><year>2014</year><type>Journal Articles</type><access>closed</access><key>journals/tpds/ZengGXJ14</key><doi>10.1109/TPDS.2013.187</doi><ee>https://doi.org/10.1109/TPDS.2013.187</ee><url>https://dblp.org/rec/journals/tpds/ZengGXJ14</url></info>
-<url>URL#2741202</url>
+<url>URL#2742809</url>
 </hit>
-<hit score="2" id="2743384">
+<hit score="2" id="2744991">
 <info><authors><author pid="51/4015-3">Zhuo Li 0003</author><author pid="01/267-1">Song Guo 0001</author><author pid="08/5937">Deze Zeng</author><author pid="61/4132">Ahmed Barnawi</author><author pid="s/IvanStojmenovic">Ivan Stojmenovic</author></authors><title>Joint Resource Allocation for Max-Min Throughput in Multicell Networks.</title><venue>IEEE Trans. Veh. Technol.</venue><volume>63</volume><number>9</number><pages>4546-4559</pages><year>2014</year><type>Journal Articles</type><access>closed</access><key>journals/tvt/LiGZBS14</key><doi>10.1109/TVT.2014.2317235</doi><ee>https://doi.org/10.1109/TVT.2014.2317235</ee><url>https://dblp.org/rec/journals/tvt/LiGZBS14</url></info>
-<url>URL#2743384</url>
+<url>URL#2744991</url>
 </hit>
-<hit score="2" id="2745628">
+<hit score="2" id="2747235">
 <info><authors><author pid="98/914">Hong Yao</author><author pid="83/179">Huawei Huang</author><author pid="08/5937">Deze Zeng</author><author pid="50/3402-1">Bo Li 0001</author><author pid="01/267-1">Song Guo 0001</author></authors><title>An energy-aware deadline-constrained message delivery in delay-tolerant networks.</title><venue>Wirel. Networks</venue><volume>20</volume><number>7</number><pages>1981-1993</pages><year>2014</year><type>Journal Articles</type><access>closed</access><key>journals/winet/YaoHZ0G14</key><doi>10.1007/S11276-014-0720-3</doi><ee>https://doi.org/10.1007/s11276-014-0720-3</ee><url>https://dblp.org/rec/journals/winet/YaoHZ0G14</url></info>
-<url>URL#2745628</url>
+<url>URL#2747235</url>
 </hit>
-<hit score="2" id="2764709">
+<hit score="2" id="2766316">
 <info><authors><author pid="15/5923-7">Chao Liu 0007</author><author pid="98/914">Hong Yao</author><author pid="08/5937">Deze Zeng</author><author pid="48/3685">Qingzhong Liang</author><author pid="10/901">Chengyu Hu</author><author pid="54/1896">Xuesong Yan</author></authors><title>MyBSP - An Iterative Processing Framework Based on the Cloud Platform for Graph Data.</title><venue>CBD</venue><pages>128-135</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/cbd/LiuYZLHY14</key><doi>10.1109/CBD.2014.23</doi><ee>https://doi.org/10.1109/CBD.2014.23</ee><url>https://dblp.org/rec/conf/cbd/LiuYZLHY14</url></info>
-<url>URL#2764709</url>
+<url>URL#2766316</url>
 </hit>
-<hit score="2" id="2764970">
+<hit score="2" id="2766577">
 <info><authors><author pid="15/5923-7">Chao Liu 0007</author><author pid="98/914">Hong Yao</author><author pid="191/7169">Zhengwang Tang</author><author pid="08/5937">Deze Zeng</author><author pid="10/901">Chengyu Hu</author><author pid="48/3685">Qingzhong Liang</author></authors><title>A Comparison Study of Graph Data Processing Based on MyBSP and MapReduce.</title><venue>CCBD</venue><pages>70-74</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccbd/LiuYTZHL14</key><doi>10.1109/CCBD.2014.16</doi><ee>https://doi.org/10.1109/CCBD.2014.16</ee><url>https://dblp.org/rec/conf/ccbd/LiuYTZHL14</url></info>
-<url>URL#2764970</url>
+<url>URL#2766577</url>
 </hit>
-<hit score="2" id="2812595">
+<hit score="2" id="2814202">
 <info><authors><author pid="83/179">Huawei Huang</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/914">Hong Yao</author></authors><title>Joint optimization of task mapping and routing for service provisioning in distributed datacenters.</title><venue>ICC</venue><pages>4196-4201</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icc/HuangZGY14</key><doi>10.1109/ICC.2014.6883979</doi><ee>https://doi.org/10.1109/ICC.2014.6883979</ee><url>https://dblp.org/rec/conf/icc/HuangZGY14</url></info>
-<url>URL#2812595</url>
+<url>URL#2814202</url>
 </hit>
-<hit score="2" id="2812812">
+<hit score="2" id="2814419">
 <info><authors><author pid="71/1281">Zhongwen Luo</author><author pid="150/5705">Huanhuan Zhu</author><author pid="08/5937">Deze Zeng</author><author pid="98/914">Hong Yao</author></authors><title>A trace-driven analysis on the user behaviors in social e-commerce network.</title><venue>ICC</venue><pages>4108-4113</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icc/LuoZZY14</key><doi>10.1109/ICC.2014.6883964</doi><ee>https://doi.org/10.1109/ICC.2014.6883964</ee><url>https://dblp.org/rec/conf/icc/LuoZZY14</url></info>
-<url>URL#2812812</url>
+<url>URL#2814419</url>
 </hit>
-<hit score="2" id="2813190">
+<hit score="2" id="2814797">
 <info><authors><author pid="21/10364">Kaimin Wei</author><author pid="01/267-1">Song Guo 0001</author><author pid="08/5937">Deze Zeng</author><author pid="181/2626">Ke Xu</author></authors><title>A multi-attribute decision making approach to congestion control in delay tolerant networks.</title><venue>ICC</venue><pages>2742-2747</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icc/WeiGZX14</key><doi>10.1109/ICC.2014.6883739</doi><ee>https://doi.org/10.1109/ICC.2014.6883739</ee><url>https://dblp.org/rec/conf/icc/WeiGZX14</url></info>
-<url>URL#2813190</url>
+<url>URL#2814797</url>
 </hit>
-<hit score="2" id="2813299">
+<hit score="2" id="2814906">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="83/6353-17">Peng Li 0017</author><author pid="01/267-1">Song Guo 0001</author><author pid="48/366">Toshiaki Miyazaki</author></authors><title>Minimum-energy reprogramming with guaranteed quality-of-sensing in software-defined sensor networks.</title><venue>ICC</venue><pages>288-293</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icc/ZengLGM14</key><doi>10.1109/ICC.2014.6883333</doi><ee>https://doi.org/10.1109/ICC.2014.6883333</ee><url>https://dblp.org/rec/conf/icc/ZengLGM14</url></info>
-<url>URL#2813299</url>
+<url>URL#2814906</url>
 </hit>
-<hit score="2" id="2815449">
+<hit score="2" id="2817056">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="90/3575">Shui Yu</author></authors><title>Type-aware task placement in geo-distributed data centers with low OPEX using data center resizing.</title><venue>ICNC</venue><pages>211-215</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iccnc/GuZGY14</key><doi>10.1109/ICCNC.2014.6785333</doi><ee>https://doi.org/10.1109/ICCNC.2014.6785333</ee><url>https://dblp.org/rec/conf/iccnc/GuZGY14</url></info>
-<url>URL#2815449</url>
+<url>URL#2817056</url>
 </hit>
-<hit score="2" id="2822363">
+<hit score="2" id="2823970">
 <info><authors><author pid="15/5923-7">Chao Liu 0007</author><author pid="175/0195">Changkai Zhang</author><author pid="98/914">Hong Yao</author><author pid="08/5937">Deze Zeng</author><author pid="48/3685">Qingzhong Liang</author><author pid="10/901">Chengyu Hu</author></authors><title>A GPS Information Sharing System Based on Bluetooth Technology.</title><venue>ICITCS</venue><pages>1-2</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icitcs/LiuZYZLH14</key><doi>10.1109/ICITCS.2014.7021709</doi><ee>https://doi.org/10.1109/ICITCS.2014.7021709</ee><url>https://dblp.org/rec/conf/icitcs/LiuZYZLH14</url></info>
-<url>URL#2822363</url>
+<url>URL#2823970</url>
 </hit>
-<hit score="2" id="2831145">
+<hit score="2" id="2832752">
 <info><authors><author pid="48/366">Toshiaki Miyazaki</author><author pid="143/9364">Hiroki Iwata</author><author pid="60/1694">Koji Kobayashi</author><author pid="143/9489">Shoichi Yamaguchi</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="25/1608">Junji Kitamichi</author><author pid="55/2684">Takafumi Hayashi</author><author pid="31/4084">Tsuneo Tsukahara</author></authors><title>DASN - demand-addressable sensor network for active information acquisition.</title><venue>ICUIMC</venue><pages>1:1-1:7</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icuimc/MiyazakiIKYZGKHT14</key><doi>10.1145/2557977.2557995</doi><ee>https://doi.org/10.1145/2557977.2557995</ee><url>https://dblp.org/rec/conf/icuimc/MiyazakiIKYZGKHT14</url></info>
-<url>URL#2831145</url>
+<url>URL#2832752</url>
 </hit>
-<hit score="2" id="2857172">
+<hit score="2" id="2858779">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="155/6789">Chao Teng</author><author pid="98/914">Hong Yao</author><author pid="48/3685">Qingzhong Liang</author><author pid="10/901">Chengyu Hu</author><author pid="54/1896">Xuesong Yan</author></authors><title>Stochastic Analysis of Epidemic Routing Based Anycast in Throwbox-Equipped DTNs.</title><venue>MCSoC</venue><pages>77-81</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mcsoc/ZengTYLHY14</key><doi>10.1109/MCSOC.2014.20</doi><ee>https://doi.org/10.1109/MCSoC.2014.20</ee><url>https://dblp.org/rec/conf/mcsoc/ZengTYLHY14</url></info>
-<url>URL#2857172</url>
+<url>URL#2858779</url>
 </hit>
-<hit score="2" id="2871787">
+<hit score="2" id="2873394">
 <info><authors><author pid="48/3685">Qingzhong Liang</author><author pid="04/3028">Guangjun Wang</author><author pid="66/3387">Hui Li</author><author pid="08/5937">Deze Zeng</author><author pid="51/2259">Yuanyuan Fan</author><author pid="15/5923-7">Chao Liu 0007</author></authors><title>A Fast Vision-Based Localization Algorithm for Spacecraft in Deep Space.</title><venue>PSATS</venue><pages>22-33</pages><year>2014</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/psats/LiangWLZFL14</key><doi>10.1007/978-3-319-47081-8_3</doi><ee>https://doi.org/10.1007/978-3-319-47081-8_3</ee><url>https://dblp.org/rec/conf/psats/LiangWLZFL14</url></info>
-<url>URL#2871787</url>
+<url>URL#2873394</url>
 </hit>
-<hit score="2" id="3082861">
+<hit score="2" id="3084468">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author></authors><title>Vehicular cloud computing - A survey.</title><venue>GLOBECOM Workshops</venue><pages>403-407</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/globecom/GuZG13</key><doi>10.1109/GLOCOMW.2013.6825021</doi><ee>https://doi.org/10.1109/GLOCOMW.2013.6825021</ee><url>https://dblp.org/rec/conf/globecom/GuZG13</url></info>
-<url>URL#3082861</url>
+<url>URL#3084468</url>
 </hit>
-<hit score="2" id="3088467">
+<hit score="2" id="3090074">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author></authors><title>QoS-Aware Task Placement in Geo-distributed Data Centers with Low OPEX Using Dynamic Frequency Scaling.</title><venue>HPCC/EUC</venue><pages>80-84</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/hpcc/GuZG13</key><doi>10.1109/HPCC.AND.EUC.2013.21</doi><ee>https://doi.org/10.1109/HPCC.and.EUC.2013.21</ee><url>https://dblp.org/rec/conf/hpcc/GuZG13</url></info>
-<url>URL#3088467</url>
+<url>URL#3090074</url>
 </hit>
-<hit score="2" id="3097114">
+<hit score="2" id="3098721">
 <info><authors><author pid="21/10364">Kaimin Wei</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="181/2626">Ke Xu</author></authors><title>Social-Aware Relay Node Selection in Delay Tolerant Networks.</title><venue>ICCCN</venue><pages>1-7</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icccn/WeiZGX13</key><doi>10.1109/ICCCN.2013.6614195</doi><ee>https://doi.org/10.1109/ICCCN.2013.6614195</ee><url>https://dblp.org/rec/conf/icccn/WeiZGX13</url></info>
-<url>URL#3097114</url>
+<url>URL#3098721</url>
 </hit>
-<hit score="2" id="3134586">
+<hit score="2" id="3136193">
 <info><authors><author pid="83/179">Huawei Huang</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/914">Hong Yao</author><author pid="48/366">Toshiaki Miyazaki</author></authors><title>Stochastic analysis on epidemic dissemination of lifetime-controlled messages in DTNs.</title><venue>IWCMC</venue><pages>1578-1583</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwcmc/HuangZGYM13</key><doi>10.1109/IWCMC.2013.6583791</doi><ee>https://doi.org/10.1109/IWCMC.2013.6583791</ee><url>https://dblp.org/rec/conf/iwcmc/HuangZGYM13</url></info>
-<url>URL#3134586</url>
+<url>URL#3136193</url>
 </hit>
-<hit score="2" id="3144372">
+<hit score="2" id="3145979">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="48/366">Toshiaki Miyazaki</author><author pid="01/267-1">Song Guo 0001</author><author pid="31/4084">Tsuneo Tsukahara</author><author pid="25/1608">Junji Kitamichi</author><author pid="55/2684">Takafumi Hayashi</author></authors><title>Evolution of Software-Defined Sensor Networks.</title><venue>MSN</venue><pages>410-413</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/msn/ZengMGTKH13</key><doi>10.1109/MSN.2013.60</doi><ee>https://doi.org/10.1109/MSN.2013.60</ee><url>https://dblp.org/rec/conf/msn/ZengMGTKH13</url></info>
-<url>URL#3144372</url>
+<url>URL#3145979</url>
 </hit>
-<hit score="2" id="3175315">
+<hit score="2" id="3176922">
 <info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="69/5116">Baoliu Ye</author></authors><title>Leverage parking cars in a two-tier data center.</title><venue>WCNC</venue><pages>4665-4670</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wcnc/GuZGY13</key><doi>10.1109/WCNC.2013.6555330</doi><ee>https://doi.org/10.1109/WCNC.2013.6555330</ee><url>https://dblp.org/rec/conf/wcnc/GuZGY13</url></info>
-<url>URL#3175315</url>
+<url>URL#3176922</url>
 </hit>
-<hit score="2" id="3300486">
+<hit score="2" id="3302094">
 <info><authors><author pid="51/4015-3">Zhuo Li 0003</author><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="24/3318">Sanglu Lu</author><author pid="37/5760">Daoxu Chen</author><author pid="z/WeihuaZhuang">Weihua Zhuang</author></authors><title>On the Throughput of Feedbackless Segmented Network Coding in Delay Tolerant Networks.</title><venue>IEEE Wirel. Commun. Lett.</venue><volume>1</volume><number>2</number><pages>93-96</pages><year>2012</year><type>Journal Articles</type><access>closed</access><key>journals/wcl/LiZGLCZ12</key><doi>10.1109/WCL.2012.012712.120013</doi><ee>https://doi.org/10.1109/WCL.2012.012712.120013</ee><url>https://dblp.org/rec/journals/wcl/LiZGLCZ12</url></info>
-<url>URL#3300486</url>
+<url>URL#3302094</url>
 </hit>
-<hit score="2" id="3350725">
+<hit score="2" id="3352333">
 <info><authors><author pid="129/1110">Honglei Jiang</author><author pid="01/267-1">Song Guo 0001</author><author pid="08/5937">Deze Zeng</author><author pid="98/4156">Hai Jin 0001</author></authors><title>Improving content availability by request-adaptive incentive in private peer-to-peer communities.</title><venue>GLOBECOM</venue><pages>2708-2713</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/globecom/JiangGZJ12</key><doi>10.1109/GLOCOM.2012.6503526</doi><ee>https://doi.org/10.1109/GLOCOM.2012.6503526</ee><url>https://dblp.org/rec/conf/globecom/JiangGZJ12</url></info>
-<url>URL#3350725</url>
+<url>URL#3352333</url>
 </hit>
-<hit score="2" id="3351467">
+<hit score="2" id="3353075">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="15/1123">Mohsen Guizani</author><author pid="69/5116">Baoliu Ye</author></authors><title>All-to-all throughput maximization in wireless relay networks with multiple packet reception.</title><venue>GLOBECOM</venue><pages>5675-5680</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/globecom/ZengGGY12</key><doi>10.1109/GLOCOM.2012.6504025</doi><ee>https://doi.org/10.1109/GLOCOM.2012.6504025</ee><url>https://dblp.org/rec/conf/globecom/ZengGGY12</url></info>
-<url>URL#3351467</url>
+<url>URL#3353075</url>
 </hit>
-<hit score="2" id="3361069">
+<hit score="2" id="3362677">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/4156">Hai Jin 0001</author><author pid="36/4847">Victor C. M. Leung</author></authors><title>Dynamic segmented network coding for reliable data dissemination in delay tolerant networks.</title><venue>ICC</venue><pages>63-67</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icc/ZengGJL12</key><doi>10.1109/ICC.2012.6364530</doi><ee>https://doi.org/10.1109/ICC.2012.6364530</ee><url>https://dblp.org/rec/conf/icc/ZengGJL12</url></info>
-<url>URL#3361069</url>
+<url>URL#3362677</url>
 </hit>
-<hit score="2" id="3399781">
+<hit score="2" id="3401389">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="119/7769">Lei Cong</author><author pid="83/179">Huawei Huang</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/914">Hong Yao</author></authors><title>Deadline-constrained content distribution in vehicular delay tolerant networks.</title><venue>IWCMC</venue><pages>994-999</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwcmc/ZengCHGY12</key><doi>10.1109/IWCMC.2012.6314341</doi><ee>https://doi.org/10.1109/IWCMC.2012.6314341</ee><url>https://dblp.org/rec/conf/iwcmc/ZengCHGY12</url></info>
-<url>URL#3399781</url>
+<url>URL#3401389</url>
 </hit>
-<hit score="2" id="3439612">
+<hit score="2" id="3441220">
 <info><authors><author pid="93/7892">An-Ni Shen</author><author pid="01/267-1">Song Guo 0001</author><author pid="08/5937">Deze Zeng</author><author pid="15/1123">Mohsen Guizani</author></authors><title>A lightweight privacy-preserving protocol using chameleon hashing for secure vehicular communications.</title><venue>WCNC</venue><pages>2543-2548</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wcnc/ShenGZG12</key><doi>10.1109/WCNC.2012.6214227</doi><ee>https://doi.org/10.1109/WCNC.2012.6214227</ee><url>https://dblp.org/rec/conf/wcnc/ShenGZG12</url></info>
-<url>URL#3439612</url>
+<url>URL#3441220</url>
 </hit>
-<hit score="2" id="3502411">
+<hit score="2" id="3504019">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="36/4847">Victor C. M. Leung</author><author pid="99/5144">Jiankun Hu</author></authors><title>The Exploration of Network Coding in IEEE 802.15.4 Networks.</title><venue>Int. J. Digit. Multim. Broadcast.</venue><volume>2011</volume><pages>310647:1-310647:9</pages><year>2011</year><type>Journal Articles</type><access>open</access><key>journals/ijdmbc/ZengGLH11</key><doi>10.1155/2011/310647</doi><ee>https://doi.org/10.1155/2011/310647</ee><url>https://dblp.org/rec/journals/ijdmbc/ZengGLH11</url></info>
-<url>URL#3502411</url>
+<url>URL#3504019</url>
 </hit>
-<hit score="2" id="3514591">
+<hit score="2" id="3516199">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="54/4087">Zixue Cheng</author></authors><title>The Web of Things - A Survey (Invited Paper).</title><venue>J. Commun.</venue><volume>6</volume><number>6</number><pages>424-438</pages><year>2011</year><type>Journal Articles</type><access>unavailable</access><key>journals/jcm/ZengGC11</key><doi>10.4304/JCM.6.6.424-438</doi><ee>https://doi.org/10.4304/jcm.6.6.424-438</ee><url>https://dblp.org/rec/journals/jcm/ZengGC11</url></info>
-<url>URL#3514591</url>
+<url>URL#3516199</url>
 </hit>
-<hit score="2" id="3605765">
+<hit score="2" id="3607373">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/4156">Hai Jin 0001</author><author pid="36/4847">Victor C. M. Leung</author></authors><title>Segmented Network Coding for Stream-Like Applications in Delay Tolerant Networks.</title><venue>GLOBECOM</venue><pages>1-5</pages><year>2011</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/globecom/ZengGJL11</key><doi>10.1109/GLOCOM.2011.6133997</doi><ee>https://doi.org/10.1109/GLOCOM.2011.6133997</ee><url>https://dblp.org/rec/conf/globecom/ZengGJL11</url></info>
-<url>URL#3605765</url>
+<url>URL#3607373</url>
 </hit>
-<hit score="2" id="3614878">
+<hit score="2" id="3616486">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="54/4087">Zixue Cheng</author><author pid="25/4698-2">Anh T. Pham 0002</author></authors><title>IF-THEN in the Internet of Things.</title><venue>iCAST</venue><pages>503-507</pages><year>2011</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icawst/Zeng0C011</key><doi>10.1109/ICAWST.2011.6163180</doi><ee>https://doi.org/10.1109/ICAwST.2011.6163180</ee><url>https://dblp.org/rec/conf/icawst/Zeng0C011</url></info>
-<url>URL#3614878</url>
+<url>URL#3616486</url>
 </hit>
-<hit score="2" id="3687353">
+<hit score="2" id="3688961">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/4156">Hai Jin 0001</author><author pid="90/3575">Shui Yu</author></authors><title>On the maximum throughput of two-hop wireless network coding.</title><venue>WCNC</venue><pages>416-421</pages><year>2011</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wcnc/ZengGJY11</key><doi>10.1109/WCNC.2011.5779169</doi><ee>https://doi.org/10.1109/WCNC.2011.5779169</ee><url>https://dblp.org/rec/conf/wcnc/ZengGJY11</url></info>
-<url>URL#3687353</url>
+<url>URL#3688961</url>
 </hit>
-<hit score="2" id="3871793">
+<hit score="2" id="3873401">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="01/267-1">Song Guo 0001</author><author pid="51/4015-3">Zhuo Li 0003</author><author pid="24/3318">Sanglu Lu</author></authors><title>Performance evaluation of network coding in disruption tolerant networks.</title><venue>Internetware</venue><pages>12</pages><year>2010</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/internetware/ZengG0L10</key><doi>10.1145/2020723.2020735</doi><ee>https://doi.org/10.1145/2020723.2020735</ee><url>https://dblp.org/rec/conf/internetware/ZengG0L10</url></info>
-<url>URL#3871793</url>
+<url>URL#3873401</url>
 </hit>
-<hit score="2" id="4028926">
+<hit score="2" id="4030534">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="99/6797">Minyi Guo</author><author pid="01/267-1">Song Guo 0001</author><author pid="62/6234">Mianxiong Dong</author><author pid="98/4156">Hai Jin 0001</author></authors><title>The Design and Evaluation of a Selective Way Based Trace Cache.</title><venue>APPT</venue><pages>95-109</pages><year>2009</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/appt/ZengGGDJ09</key><doi>10.1007/978-3-642-03644-6_8</doi><ee>https://doi.org/10.1007/978-3-642-03644-6_8</ee><url>https://dblp.org/rec/conf/appt/ZengGGDJ09</url></info>
-<url>URL#4028926</url>
+<url>URL#4030534</url>
 </hit>
-<hit score="2" id="4085031">
+<hit score="2" id="4086639">
 <info><authors><author pid="08/5937">Deze Zeng</author><author pid="99/6797">Minyi Guo</author><author pid="76/1820">Xin Liu</author><author pid="01/267-1">Song Guo 0001</author><author pid="98/4156">Hai Jin 0001</author><author pid="62/6234">Mianxiong Dong</author></authors><title>An Accurate and Energy Efficient Fetch Direction Orientation Mechanism for Trace Cache.</title><venue>ICPP Workshops</venue><pages>566-573</pages><year>2009</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icppw/ZengGLGJD09</key><doi>10.1109/ICPPW.2009.71</doi><ee>https://doi.org/10.1109/ICPPW.2009.71</ee><url>https://dblp.org/rec/conf/icppw/ZengGLGJD09</url></info>
-<url>URL#4085031</url>
+<url>URL#4086639</url>
 </hit>
-<hit score="2" id="4238897">
+<hit score="2" id="4240507">
 <info><authors><author pid="13/950">Sanmin Liu</author><author pid="98/4156">Hai Jin 0001</author><author pid="56/4402">Xiaofei Liao</author><author pid="98/914">Hong Yao</author><author pid="08/5937">Deze Zeng</author></authors><title>TCPBridge - A software approach to establish direct communications for NAT hosts.</title><venue>AICCSA</venue><pages>247-252</pages><year>2008</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/aiccsa/LiuJLYZ08</key><doi>10.1109/AICCSA.2008.4493542</doi><ee>https://doi.org/10.1109/AICCSA.2008.4493542</ee><url>https://dblp.org/rec/conf/aiccsa/LiuJLYZ08</url></info>
-<url>URL#4238897</url>
+<url>URL#4240507</url>
 </hit>
-<hit score="2" id="4311382">
+<hit score="2" id="4312992">
 <info><authors><author pid="81/3290">Gongwei Zhang</author><author pid="62/6234">Mianxiong Dong</author><author pid="68/6274-1">Long Zheng 0001</author><author pid="08/5937">Deze Zeng</author><author pid="99/6797">Minyi Guo</author></authors><title>An Improved Design for UMP (Ubiquitous Multi-processor) System.</title><venue>ISPA</venue><pages>540-546</pages><year>2008</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ispa/ZhangDZZG08</key><doi>10.1109/ISPA.2008.53</doi><ee>https://doi.org/10.1109/ISPA.2008.53</ee><url>https://dblp.org/rec/conf/ispa/ZhangDZZG08</url></info>
-<url>URL#4311382</url>
+<url>URL#4312992</url>
 </hit>
 </hits>
 </result>

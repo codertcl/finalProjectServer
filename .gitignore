@@ -3,4 +3,4 @@ node_modules
 /dist
 uploads
 .idea
-/history
+.history

@@ -1,6 +1,7 @@
 import xml.sax
 import pymysql.cursors
 import sys
+
 connection = pymysql.connect(
     host='localhost',
     user='root',
@@ -32,39 +33,41 @@ class InfoHandler(xml.sax.ContentHandler):
 
     # 元素结束事件处理
     def endElement(self, tag):
-        # 注册用户名字首字母大写
-        # 但获取到的数据名字存在小写，所以转换为小结进行判断
-        tempAuthors = []
-        for au in self.authors:
-            tempAuthors.append(au.lower())
-        # 获取到数据有部分匹配的 包含了其他数据
-        if tag == "info" and author.lower() in tempAuthors:
-            # 构造SQL语句
-            with connection.cursor() as cursor:
-                sqlStr = "INSERT INTO `dblp` "
-                sqlStr += "(`authors`,`author`,`title`,`venue`,`volume`,`number`,`pages`,`year`,`type`,`key`,`doi`,`ee`,`url`) "
-                sqlStr += "VALUES ("
-                auStr = ""
-                for au in self.authors:
-                    auStr += au + ","
-                sqlStr += "'" + auStr[:auStr.__len__()-1] + "',"
-                sqlStr += "'" + author + "',"
-                sqlStr += "'" + self.title + "',"
-                sqlStr += "'" + self.venue + "',"
-                sqlStr += "'" + self.volume + "',"
-                sqlStr += "'" + self.number + "',"
-                sqlStr += "'" + self.pages + "',"
-                sqlStr += "'" + self.year + "',"
-                sqlStr += "'" + self.type + "',"
-                sqlStr += "'" + self.key + "',"
-                sqlStr += "'" + self.doi + "',"
-                sqlStr += "'" + self.ee + "',"
-                sqlStr += "'" + self.url + "'"
-                sqlStr += ")"
-                # print(sqlStr)
-                cursor.execute(sqlStr)
-            # 创建的connection是非自动提交，需要手动commit
-            connection.commit()
+        if tag == "info":
+            # 注册用户名字字母可能大写也可能小写，dblp都能获取到数据
+            # 但获取到的数据名字存在小写，所以转换为小写进行判断
+            tempAuthors = []
+            for au in self.authors:
+                tempAuthors.append(au.lower())
+            # 获取到数据有部分匹配的 包含了其他数据
+            # xml文件中* chen,weitao *也被匹配到所以需要精确匹配
+            if author.lower() in tempAuthors:
+                # 构造SQL语句
+                with connection.cursor() as cursor:
+                    sqlStr = "INSERT INTO `dblp` "
+                    sqlStr += "(`authors`,`author`,`title`,`venue`,`volume`,`number`,`pages`,`year`,`type`,`key`,`doi`,`ee`,`url`) "
+                    sqlStr += "VALUES ("
+                    auStr = ""
+                    for au in self.authors:
+                        auStr += au + ","
+                    sqlStr += "'" + auStr[:auStr.__len__() - 1] + "',"
+                    sqlStr += "'" + author + "',"
+                    sqlStr += "'" + self.title + "',"
+                    sqlStr += "'" + self.venue + "',"
+                    sqlStr += "'" + self.volume + "',"
+                    sqlStr += "'" + self.number + "',"
+                    sqlStr += "'" + self.pages + "',"
+                    sqlStr += "'" + self.year + "',"
+                    sqlStr += "'" + self.type + "',"
+                    sqlStr += "'" + self.key + "',"
+                    sqlStr += "'" + self.doi + "',"
+                    sqlStr += "'" + self.ee + "',"
+                    sqlStr += "'" + self.url + "'"
+                    sqlStr += ")"
+                    # print(sqlStr)
+                    cursor.execute(sqlStr)
+                    # 创建的connection是非自动提交，需要手动commit
+                connection.commit()
             self.authors.clear()
         else:
             self.CurrentData = ""
