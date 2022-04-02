@@ -1,564 +1,564 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="254924">Weitao* Chen*</query>
+<query id="69651">Weitao* Chen*</query>
 <status code="200">OK</status>
-<time unit="msecs">4.40</time>
+<time unit="msecs">47.61</time>
 <completions total="11" computed="11" sent="10">
-<c sc="119" dc="103" oc="119" id="44591139">chen</c>
-<c sc="40" dc="20" oc="40" id="44591679">chengwen</c>
-<c sc="37" dc="37" oc="37" id="44591296">cheng</c>
-<c sc="2" dc="1" oc="2" id="44591526">chenglin</c>
-<c sc="1" dc="1" oc="1" id="44592019">chenshu</c>
-<c sc="1" dc="1" oc="1" id="44592084">chenwei</c>
-<c sc="1" dc="1" oc="1" id="44592092">chenxi</c>
-<c sc="1" dc="1" oc="1" id="44592157">chenzhong</c>
-<c sc="1" dc="1" oc="1" id="44591860">chenliang</c>
-<c sc="1" dc="1" oc="1" id="44591516">chenglei</c>
+<c sc="119" dc="103" oc="119" id="44602208">chen</c>
+<c sc="40" dc="20" oc="40" id="44602748">chengwen</c>
+<c sc="37" dc="37" oc="37" id="44602365">cheng</c>
+<c sc="2" dc="1" oc="2" id="44602595">chenglin</c>
+<c sc="1" dc="1" oc="1" id="44603088">chenshu</c>
+<c sc="1" dc="1" oc="1" id="44603153">chenwei</c>
+<c sc="1" dc="1" oc="1" id="44603161">chenxi</c>
+<c sc="1" dc="1" oc="1" id="44603226">chenzhong</c>
+<c sc="1" dc="1" oc="1" id="44602929">chenliang</c>
+<c sc="1" dc="1" oc="1" id="44602585">chenglei</c>
 </completions>
 <hits total="136" computed="136" sent="136" first="0">
-<hit score="5" id="1194851">
+<hit score="5" id="1195922">
 <info><authors><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="242/7294">Xingyu Feng</author><author pid="63/6051">Junliang Chen</author><author pid="08/2185-1">Jianqiang Li 0001</author><author pid="98/7731">Weitao Xu</author><author pid="64/6025-58">Wei Li 0058</author><author pid="89/5992">Li Zhang</author><author pid="t/ZahirTari">Zahir Tari</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author></authors><title>Brush like a Dentist - Accurate Monitoring of Toothbrushing via Wrist-Worn Gesture Sensing.</title><venue>INFOCOM</venue><pages>1234-1242</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LuoFCLXLZTZ19</key><doi>10.1109/INFOCOM.2019.8737513</doi><ee>https://doi.org/10.1109/INFOCOM.2019.8737513</ee><url>https://dblp.org/rec/conf/infocom/LuoFCLXLZTZ19</url></info>
-<url>URL#1194851</url>
+<url>URL#1195922</url>
 </hit>
-<hit score="5" id="1781131">
+<hit score="5" id="1782210">
 <info><authors><author pid="196/9514">Xianju Li</author><author pid="76/6121">Weitao Chen</author><author pid="174/4652">Xinwen Cheng</author><author pid="198/2989">Yiwei Liao</author><author pid="67/6383">Gang Chen</author></authors><title>Comparison and integration of feature reduction methods for land cover classification with RapidEye imagery.</title><venue>Multim. Tools Appl.</venue><volume>76</volume><number>21</number><pages>23041-23057</pages><year>2017</year><type>Journal Articles</type><access>closed</access><key>journals/mta/LiCCLC17</key><doi>10.1007/S11042-016-4311-4</doi><ee>https://doi.org/10.1007/s11042-016-4311-4</ee><url>https://dblp.org/rec/journals/mta/LiCCLC17</url></info>
-<url>URL#1781131</url>
+<url>URL#1782210</url>
 </hit>
-<hit score="5" id="1863553">
+<hit score="5" id="1864632">
 <info><authors><author pid="212/7722">Jiake Ni</author><author pid="157/4422">WeiTao Weng</author><author pid="80/8422">Jiayu Chen</author><author pid="64/9060">Kai Lei</author></authors><title>Internet Traffic Analysis Using Community Detection and Apache Spark.</title><venue>CyberC</venue><pages>213-219</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/cyberc/NiWCL17</key><doi>10.1109/CYBERC.2017.85</doi><ee>https://doi.org/10.1109/CyberC.2017.85</ee><url>https://dblp.org/rec/conf/cyberc/NiWCL17</url></info>
-<url>URL#1863553</url>
+<url>URL#1864632</url>
 </hit>
-<hit score="5" id="2424347">
+<hit score="5" id="2425426">
 <info><authors><author pid="196/9514">Xianju Li</author><author pid="174/4652">Xinwen Cheng</author><author pid="76/6121">Weitao Chen</author><author pid="67/6383">Gang Chen</author><author pid="54/9906">Shengwei Liu</author></authors><title>Identification of Forested Landslides Using LiDar Data, Object-based Image Analysis, and Machine Learning Algorithms.</title><venue>Remote. Sens.</venue><volume>7</volume><number>8</number><pages>9705-9726</pages><year>2015</year><type>Journal Articles</type><access>open</access><key>journals/remotesensing/LiCCCL15</key><doi>10.3390/RS70809705</doi><ee>https://doi.org/10.3390/rs70809705</ee><url>https://dblp.org/rec/journals/remotesensing/LiCCCL15</url></info>
-<url>URL#2424347</url>
+<url>URL#2425426</url>
 </hit>
-<hit score="4" id="9478">
+<hit score="4" id="9645">
 <info><authors><author pid="153/8037">Wanli Xue</author><author pid="71/11188-1">Yiran Shen 0001</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="98/7731">Weitao Xu</author><author pid="01/6410">Wen Hu</author><author pid="55/6028">Aruna Seneviratne</author></authors><title>A differential privacy-based classification system for edge computing in IoT.</title><venue>Comput. Commun.</venue><volume>182</volume><pages>117-128</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/comcom/XueSLXHS22</key><doi>10.1016/J.COMCOM.2021.10.038</doi><ee>https://doi.org/10.1016/j.comcom.2021.10.038</ee><url>https://dblp.org/rec/journals/comcom/XueSLXHS22</url></info>
-<url>URL#9478</url>
+<url>URL#9645</url>
 </hit>
-<hit score="4" id="118574">
+<hit score="4" id="119253">
 <info><authors><author pid="98/7731">Weitao Xu</author><author pid="121/9031">Junqing Zhang</author><author pid="271/4436">Shunqi Huang</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="64/6025-58">Wei Li 0058</author></authors><title>Key Generation for Internet of Things - A Contemporary Survey.</title><venue>ACM Comput. Surv.</venue><volume>54</volume><number>1</number><pages>14:1-14:37</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/csur/XuZHLL21</key><doi>10.1145/3429740</doi><ee>https://doi.org/10.1145/3429740</ee><url>https://dblp.org/rec/journals/csur/XuZHLL21</url></info>
-<url>URL#118574</url>
+<url>URL#119253</url>
 </hit>
-<hit score="4" id="244891">
+<hit score="4" id="245602">
 <info><authors><author pid="15/3756">Bo Wei</author><author pid="181/2853">Kai Li</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="98/7731">Weitao Xu</author><author pid="43/6657-13">Jin Zhang 0013</author><author pid="50/7188">Kuan Zhang</author></authors><title>No Need of Data Pre-processing - A General Framework for Radio-based Device-free Context Awareness.</title><venue>ACM Trans. Internet Things</venue><volume>2</volume><number>4</number><pages>29:1-29:26</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/tiot/WeiLLXZZ21</key><doi>10.1145/3467980</doi><ee>https://doi.org/10.1145/3467980</ee><url>https://dblp.org/rec/journals/tiot/WeiLLXZZ21</url></info>
-<url>URL#244891</url>
+<url>URL#245602</url>
 </hit>
-<hit score="4" id="361379">
+<hit score="4" id="362169">
 <info><authors><author pid="98/7731">Weitao Xu</author><author pid="35/203">Zhenjiang Li</author><author pid="153/8037">Wanli Xue</author><author pid="241/2985">Xiaotong Yu</author><author pid="15/3756">Bo Wei</author><author pid="58/6299">Jia Wang</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="64/6025-58">Wei Li 0058</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author></authors><title>InaudibleKey - Generic Inaudible Acoustic Signal based Key Agreement Protocol for Mobile Devices.</title><venue>IPSN</venue><pages>106-118</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/XuLXYWW00Z21</key><doi>10.1145/3412382.3458260</doi><ee>https://doi.org/10.1145/3412382.3458260</ee><url>https://dblp.org/rec/conf/ipsn/XuLXYWW00Z21</url></info>
-<url>URL#361379</url>
+<url>URL#362169</url>
 </hit>
-<hit score="4" id="426230">
+<hit score="4" id="427220">
 <info><authors><author pid="98/7731">Weitao Xu</author><author pid="35/203">Zhenjiang Li</author><author pid="153/8037">Wanli Xue</author><author pid="241/2985">Xiaotong Yu</author><author pid="15/3756">Bo Wei</author><author pid="58/6299">Jia Wang</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="64/6025-58">Wei Li 0058</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author></authors><title>InaudibleKey - Generic Inaudible Acoustic Signal based Key Agreement Protocol for Mobile Devices.</title><venue>CoRR</venue><volume>abs/2102.10908</volume><year>2021</year><type>Informal Publications</type><access>open</access><key>journals/corr/abs-2102-10908</key><ee>https://arxiv.org/abs/2102.10908</ee><url>https://dblp.org/rec/journals/corr/abs-2102-10908</url></info>
-<url>URL#426230</url>
+<url>URL#427220</url>
 </hit>
-<hit score="4" id="518121">
+<hit score="4" id="519111">
 <info><authors><author pid="98/7731">Weitao Xu</author><author pid="71/11188-1">Yiran Shen 0001</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="08/2185-1">Jianqiang Li 0001</author><author pid="64/6025-58">Wei Li 0058</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author></authors><title>Gait-Watch - A Gait-based context-aware authentication system for smart watch via sparse coding.</title><venue>Ad Hoc Networks</venue><volume>107</volume><pages>102218</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/adhoc/XuSLLLZ20</key><doi>10.1016/J.ADHOC.2020.102218</doi><ee>https://doi.org/10.1016/j.adhoc.2020.102218</ee><url>https://dblp.org/rec/journals/adhoc/XuSLLLZ20</url></info>
-<url>URL#518121</url>
+<url>URL#519111</url>
 </hit>
-<hit score="4" id="661115">
+<hit score="4" id="662105">
 <info><authors><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="37/10763">Jiawei Wu</author><author pid="08/2185-1">Jianqiang Li 0001</author><author pid="58/6299">Jia Wang</author><author pid="98/7731">Weitao Xu</author><author pid="84/2082">Zhong Ming 0001</author><author pid="15/3756">Bo Wei</author><author pid="64/6025-58">Wei Li 0058</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author></authors><title>Gait Recognition as a Service for Unobtrusive User Identification in Smart Spaces.</title><venue>ACM Trans. Internet Things</venue><volume>1</volume><number>1</number><pages>5:1-5:21</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tiot/LuoWLWX0WLZ20</key><doi>10.1145/3375799</doi><ee>https://doi.org/10.1145/3375799</ee><url>https://dblp.org/rec/journals/tiot/LuoWLWX0WLZ20</url></info>
-<url>URL#661115</url>
+<url>URL#662105</url>
 </hit>
-<hit score="4" id="667431">
+<hit score="4" id="668421">
 <info><authors><author pid="71/11188-1">Yiran Shen 0001</author><author pid="94/4213-2">Bowen Du 0002</author><author pid="98/7731">Weitao Xu</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="15/3756">Bo Wei</author><author pid="82/5713">Lizhen Cui</author><author pid="55/7703">Hongkai Wen 0001</author></authors><title>Securing Cyber-Physical Social Interactions on Wrist-Worn Devices.</title><venue>ACM Trans. Sens. Networks</venue><volume>16</volume><number>2</number><pages>19:1-19:22</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tosn/ShenDXLWCW20</key><doi>10.1145/3378669</doi><ee>https://doi.org/10.1145/3378669</ee><url>https://dblp.org/rec/journals/tosn/ShenDXLWCW20</url></info>
-<url>URL#667431</url>
+<url>URL#668421</url>
 </hit>
-<hit score="4" id="753111">
+<hit score="4" id="754101">
 <info><authors><author pid="67/797">Yuan Mei</author><author pid="43/10334">Luwei Cheng</author><author pid="59/3510">Vanish Talwar</author><author pid="17/6092">Michael Y. Levin</author><author pid="j/GabrielaJacquesSilva">Gabriela Jacques-Silva</author><author pid="181/5701">Nikhil Simha</author><author pid="68/5005">Anirban Banerjee</author><author pid="98/5275">Brian Smith</author><author pid="181/5778">Tim Williamson</author><author pid="25/7428">Serhat Yilmaz</author><author pid="76/6121">Weitao Chen</author><author pid="116/2698">Guoqiang Jerry Chen</author></authors><title>Turbine - Facebook&apos;s Service Management Platform for Stream Processing.</title><venue>ICDE</venue><pages>1591-1602</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MeiCTLJSBSWYCC20</key><doi>10.1109/ICDE48307.2020.00141</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00141</ee><url>https://dblp.org/rec/conf/icde/MeiCTLJSBSWYCC20</url></info>
-<url>URL#753111</url>
+<url>URL#754101</url>
 </hit>
-<hit score="4" id="783226">
+<hit score="4" id="784235">
 <info><authors><author pid="15/3756">Bo Wei</author><author pid="98/7731">Weitao Xu</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="285/3179">Guillaume Zoppi</author><author pid="68/7912-1">Dong Ma 0001</author><author pid="69/6403">Sen Wang</author></authors><title>SolarSLAM - Battery-free Loop Closure for Indoor Localisation.</title><venue>IROS</venue><pages>4485-4490</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iros/WeiX0Z0W20</key><doi>10.1109/IROS45743.2020.9340962</doi><ee>https://doi.org/10.1109/IROS45743.2020.9340962</ee><url>https://dblp.org/rec/conf/iros/WeiX0Z0W20</url></info>
-<url>URL#783226</url>
+<url>URL#784235</url>
 </hit>
-<hit score="4" id="820213">
+<hit score="4" id="821222">
 <info><authors><author pid="98/7731">Weitao Xu</author><author pid="35/203">Zhenjiang Li</author><author pid="153/8037">Wanli Xue</author><author pid="241/2985">Xiaotong Yu</author><author pid="58/6299">Jia Wang</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="64/6025-58">Wei Li 0058</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author></authors><title>Inaudible acoustic signal based key agreement system for IoT devices - poster abstract.</title><venue>SenSys</venue><pages>689-690</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sensys/XuLXYWLLZ20</key><doi>10.1145/3384419.3430424</doi><ee>https://doi.org/10.1145/3384419.3430424</ee><url>https://dblp.org/rec/conf/sensys/XuLXYWLLZ20</url></info>
-<url>URL#820213</url>
+<url>URL#821222</url>
 </hit>
-<hit score="4" id="885259">
+<hit score="4" id="886330">
 <info><authors><author pid="98/7731">Weitao Xu</author><author pid="121/9031">Junqing Zhang</author><author pid="271/4436">Shunqi Huang</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="64/6025-58">Wei Li 0058</author></authors><title>Key Generation for Internet of Things - A Contemporary Survey.</title><venue>CoRR</venue><volume>abs/2007.15956</volume><year>2020</year><type>Informal Publications</type><access>open</access><key>journals/corr/abs-2007-15956</key><ee>https://arxiv.org/abs/2007.15956</ee><url>https://dblp.org/rec/journals/corr/abs-2007-15956</url></info>
-<url>URL#885259</url>
+<url>URL#886330</url>
 </hit>
-<hit score="4" id="935387">
+<hit score="4" id="936458">
 <info><authors><author pid="98/7731">Weitao Xu</author><author pid="242/7294">Xingyu Feng</author><author pid="58/6299">Jia Wang</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="08/2185-1">Jianqiang Li 0001</author><author pid="84/2082">Zhong Ming 0001</author></authors><title>Energy Harvesting-Based Smart Transportation Mode Detection System via Attention-Based LSTM.</title><venue>IEEE Access</venue><volume>7</volume><pages>66423-66434</pages><year>2019</year><type>Journal Articles</type><access>open</access><key>journals/access/XuFWLLM19</key><doi>10.1109/ACCESS.2019.2918555</doi><ee>https://doi.org/10.1109/ACCESS.2019.2918555</ee><url>https://dblp.org/rec/journals/access/XuFWLLM19</url></info>
-<url>URL#935387</url>
+<url>URL#936458</url>
 </hit>
-<hit score="4" id="937798">
+<hit score="4" id="938869">
 <info><authors><author pid="128/6801">Zhao Zhong</author><author pid="200/8872">Zichen Yang</author><author pid="230/2090">Weitao Feng</author><author pid="95/6985-21">Wei Wu 0021</author><author pid="121/9847">Yangyang Hu</author><author pid="24/3006">Cheng-Lin Liu</author></authors><title>Decision Controller for Object Tracking With Deep Reinforcement Learning.</title><venue>IEEE Access</venue><volume>7</volume><pages>28069-28079</pages><year>2019</year><type>Journal Articles</type><access>open</access><key>journals/access/ZhongYFWHL19</key><doi>10.1109/ACCESS.2019.2900476</doi><ee>https://doi.org/10.1109/ACCESS.2019.2900476</ee><url>https://dblp.org/rec/journals/access/ZhongYFWHL19</url></info>
-<url>URL#937798</url>
+<url>URL#938869</url>
 </hit>
-<hit score="4" id="1064272">
+<hit score="4" id="1065343">
 <info><authors><author pid="71/11188-1">Yiran Shen 0001</author><author pid="55/7703">Hongkai Wen 0001</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="98/7731">Weitao Xu</author><author pid="15/4777-1">Tao Zhang 0001</author><author pid="01/6410">Wen Hu</author><author pid="r/DanielaRus">Daniela Rus</author></authors><title>GaitLock - Protect Virtual and Augmented Reality Headsets Using Gait.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>16</volume><number>3</number><pages>484-497</pages><year>2019</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ShenWLXZHR19</key><doi>10.1109/TDSC.2018.2800048</doi><ee>https://doi.org/10.1109/TDSC.2018.2800048</ee><url>https://dblp.org/rec/journals/tdsc/ShenWLXZHR19</url></info>
-<url>URL#1064272</url>
+<url>URL#1065343</url>
 </hit>
-<hit score="4" id="1302102">
+<hit score="4" id="1303181">
 <info><authors><author pid="15/3756">Bo Wei</author><author pid="181/2853">Kai Li</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="98/7731">Weitao Xu</author><author pid="43/6657-13">Jin Zhang 0013</author></authors><title>No Need of Data Pre-processing - A General Framework for Radio-Based Device-Free Context Awareness.</title><venue>CoRR</venue><volume>abs/1908.03398</volume><year>2019</year><type>Informal Publications</type><access>open</access><key>journals/corr/abs-1908-03398</key><ee>http://arxiv.org/abs/1908.03398</ee><url>https://dblp.org/rec/journals/corr/abs-1908-03398</url></info>
-<url>URL#1302102</url>
+<url>URL#1303181</url>
 </hit>
-<hit score="4" id="1611488">
+<hit score="4" id="1612567">
 <info><authors><author pid="71/11188-1">Yiran Shen 0001</author><author pid="213/6711">Fengyuan Yang</author><author pid="94/4213">Bowen Du</author><author pid="98/7731">Weitao Xu</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="55/7703">Hongkai Wen 0001</author></authors><title>Shake-n-Shack - Enabling Secure Data Exchange Between Smart Wearables via Handshakes.</title><venue>PerCom</venue><pages>1-10</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/percom/ShenYDXLW18</key><doi>10.1109/PERCOM.2018.8444579</doi><ee>https://doi.org/10.1109/PERCOM.2018.8444579</ee><url>https://dblp.org/rec/conf/percom/ShenYDXLW18</url></info>
-<url>URL#1611488</url>
+<url>URL#1612567</url>
 </hit>
-<hit score="4" id="1654335">
+<hit score="4" id="1655414">
 <info><authors><author pid="71/11188-1">Yiran Shen 0001</author><author pid="213/6711">Fengyuan Yang</author><author pid="94/4213">Bowen Du</author><author pid="98/7731">Weitao Xu</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="55/7703">Hongkai Wen 0001</author></authors><title>Shake-n-Shack - Enabling Secure Data Exchange Between Smart Wearables via Handshakes.</title><venue>CoRR</venue><volume>abs/1801.07555</volume><year>2018</year><type>Informal Publications</type><access>open</access><key>journals/corr/abs-1801-07555</key><ee>http://arxiv.org/abs/1801.07555</ee><url>https://dblp.org/rec/journals/corr/abs-1801-07555</url></info>
-<url>URL#1654335</url>
+<url>URL#1655414</url>
 </hit>
-<hit score="4" id="1818055">
+<hit score="4" id="1819134">
 <info><authors><author pid="98/7731">Weitao Xu</author><author pid="154/0137">Chitra Javali</author><author pid="154/0154">Girish Revadigar</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="06/5402">Neil Bergmann</author><author pid="01/6410">Wen Hu</author></authors><title>Gait-Key - A Gait-Based Shared Secret Key Generation Protocol for Wearable Devices.</title><venue>ACM Trans. Sens. Networks</venue><volume>13</volume><number>1</number><pages>6:1-6:27</pages><year>2017</year><type>Journal Articles</type><access>closed</access><key>journals/tosn/XuJRLBH17</key><doi>10.1145/3023954</doi><ee>https://doi.org/10.1145/3023954</ee><url>https://dblp.org/rec/journals/tosn/XuJRLBH17</url></info>
-<url>URL#1818055</url>
+<url>URL#1819134</url>
 </hit>
-<hit score="4" id="2246298">
+<hit score="4" id="2247377">
 <info><authors><author pid="98/7731">Weitao Xu</author><author pid="154/0154">Girish Revadigar</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="06/5402">Neil W. Bergmann</author><author pid="01/6410">Wen Hu</author></authors><title>Walkie-Talkie - Motion-Assisted Automatic Key Generation for Secure On-Body Device Communication.</title><venue>IPSN</venue><pages>3:1-3:12</pages><year>2016</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/XuRLBH16</key><doi>10.1109/IPSN.2016.7460726</doi><ee>https://doi.org/10.1109/IPSN.2016.7460726</ee><url>https://dblp.org/rec/conf/ipsn/XuRLBH16</url></info>
-<url>URL#2246298</url>
+<url>URL#2247377</url>
 </hit>
-<hit score="4" id="2473815">
+<hit score="4" id="2474894">
 <info><authors><author pid="75/348">Fuu-Cheng Jiang</author><author pid="y/ChaoTungYang">Chao-Tung Yang</author><author pid="84/11353">Yung-Hsin Chen</author><author pid="191/7265">Wei-Tao Huang</author><author pid="46/8080">Hsin-Yu Chao</author></authors><title>Decision Support for Cloud Logistics by Optimizing the Quantities of Standby Servers in Cloud Environment.</title><venue>CCBD</venue><pages>169-172</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccbd/JiangYCHC15</key><doi>10.1109/CCBD.2015.26</doi><ee>https://doi.org/10.1109/CCBD.2015.26</ee><url>https://dblp.org/rec/conf/ccbd/JiangYCHC15</url></info>
-<url>URL#2473815</url>
+<url>URL#2474894</url>
 </hit>
-<hit score="4" id="2590769">
+<hit score="4" id="2592083">
 <info><authors><author pid="71/11188-1">Yiran Shen 0001</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="98/7731">Weitao Xu</author><author pid="01/6410">Wen Hu</author></authors><title>Poster - An Online Approach for Gait Recognition on Smart Glasses.</title><venue>SenSys</venue><pages>389-390</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sensys/ShenLXH15</key><doi>10.1145/2809695.2817878</doi><ee>https://doi.org/10.1145/2809695.2817878</ee><url>https://dblp.org/rec/conf/sensys/ShenLXH15</url></info>
-<url>URL#2590769</url>
+<url>URL#2592083</url>
 </hit>
-<hit score="3" id="31562">
+<hit score="3" id="31981">
 <info><authors><author pid="22/10826">Weitao Wang</author><author pid="78/5428-1">Qin Ma 0001</author><author pid="63/9626">Jianxi Huang</author><author pid="196/9835">Quanlong Feng</author><author pid="59/2568">Yuanyuan Zhao</author><author pid="97/3499-5">Hao Guo 0005</author><author pid="299/6727">Boan Chen</author><author pid="90/7767">Chenxi Li</author><author pid="03/7346">Yuxin Zhang</author></authors><title>Remote Sensing Monitoring of Grasslands Based on Adaptive Feature Fusion with Multi-Source Data.</title><venue>Remote. Sens.</venue><volume>14</volume><number>3</number><pages>750</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/remotesensing/WangMHFZGCLZ22</key><doi>10.3390/RS14030750</doi><ee>https://doi.org/10.3390/rs14030750</ee><url>https://dblp.org/rec/journals/remotesensing/WangMHFZGCLZ22</url></info>
-<url>URL#31562</url>
+<url>URL#31981</url>
 </hit>
-<hit score="3" id="333122">
+<hit score="3" id="333867">
 <info><authors><author pid="43/3340">Cheng Yu</author><author pid="87/274">Jiansheng Chen</author><author pid="258/6782">Youze Xue</author><author pid="75/6589">Yuyang Liu</author><author pid="211/5806">Weitao Wan</author><author pid="259/5098">Jiayu Bao</author><author pid="69/7694">Huimin Ma</author></authors><title>Defending against Universal Adversarial Patches by Clipping Feature Norms.</title><venue>ICCV</venue><pages>16414-16422</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iccv/YuCXLWBM21</key><doi>10.1109/ICCV48922.2021.01612</doi><ee>https://doi.org/10.1109/ICCV48922.2021.01612</ee><url>https://dblp.org/rec/conf/iccv/YuCXLWBM21</url></info>
-<url>URL#333122</url>
+<url>URL#333867</url>
 </hit>
-<hit score="3" id="514866">
+<hit score="3" id="515856">
 <info><authors><author pid="03/4702">Xu Yan</author><author pid="51/2181">Yijun Zhang</author><author pid="133/3525">Shaodong Chen</author><author pid="275/8704">Sai Du</author><author pid="245/5995">Weitao Lyu</author><author pid="275/8983">Lyuwen Chen</author></authors><title>Characteristics of Two Ground Grid Potentials After a Triggered Lightning Stroke.</title><venue>IEEE Access</venue><volume>8</volume><pages>171001-171008</pages><year>2020</year><type>Journal Articles</type><access>open</access><key>journals/access/YanZCDLC20</key><doi>10.1109/ACCESS.2020.3024599</doi><ee>https://doi.org/10.1109/ACCESS.2020.3024599</ee><url>https://dblp.org/rec/journals/access/YanZCDLC20</url></info>
-<url>URL#514866</url>
+<url>URL#515856</url>
 </hit>
-<hit score="3" id="907577">
+<hit score="3" id="908648">
 <info><authors><author pid="211/5806">Weitao Wan</author><author pid="87/274">Jiansheng Chen</author><author pid="43/3340">Cheng Yu</author><author pid="75/5056">Tong Wu</author><author pid="194/2743">Yuanyi Zhong</author><author pid="79/3711">Ming-Hsuan Yang 0001</author></authors><title>Shaping Deep Feature Space towards Gaussian Mixture for Visual Classification.</title><venue>CoRR</venue><volume>abs/2011.09066</volume><year>2020</year><type>Informal Publications</type><access>open</access><key>journals/corr/abs-2011-09066</key><ee>https://arxiv.org/abs/2011.09066</ee><url>https://dblp.org/rec/journals/corr/abs-2011-09066</url></info>
-<url>URL#907577</url>
+<url>URL#908648</url>
 </hit>
-<hit score="3" id="940168">
+<hit score="3" id="941239">
 <info><authors><author pid="09/2621">Jie Han</author><author pid="57/10190">Weitao Jiang</author><author pid="230/8646">Dong Niu</author><author pid="75/1948">Yiding Li</author><author pid="28/6898">Yajun Zhang</author><author pid="90/7499">Biao Lei</author><author pid="65/8518">Hongzhong Liu</author><author pid="03/2526">Yongsheng Shi</author><author pid="60/9687">Bangdao Chen</author><author pid="71/7711">Lei Yin</author><author pid="52/3645">Xiaokang Liu</author><author pid="170/7208">Donglin Peng</author><author pid="98/1934">Bingheng Lu</author></authors><title>Untethered Soft Actuators by Liquid-Vapor Phase Transition - Remote and Programmable Actuation.</title><venue>Adv. Intell. Syst.</venue><volume>1</volume><number>8</number><pages>1900109</pages><year>2019</year><type>Journal Articles</type><access>open</access><key>journals/aisy/HanJNLZLLSCYLPL19</key><doi>10.1002/AISY.201900109</doi><ee>https://doi.org/10.1002/aisy.201900109</ee><url>https://dblp.org/rec/journals/aisy/HanJNLZLLSCYLPL19</url></info>
-<url>URL#940168</url>
+<url>URL#941239</url>
 </hit>
-<hit score="3" id="940169">
+<hit score="3" id="941240">
 <info><authors><author pid="09/2621">Jie Han</author><author pid="57/10190">Weitao Jiang</author><author pid="230/8646">Dong Niu</author><author pid="75/1948">Yiding Li</author><author pid="28/6898">Yajun Zhang</author><author pid="90/7499">Biao Lei</author><author pid="65/8518">Hongzhong Liu</author><author pid="03/2526">Yongsheng Shi</author><author pid="60/9687">Bangdao Chen</author><author pid="71/7711">Lei Yin</author><author pid="52/3645">Xiaokang Liu</author><author pid="170/7208">Donglin Peng</author><author pid="98/1934">Bingheng Lu</author></authors><title>Untethered Soft Actuators by Liquid-Vapor Phase Transition - Remote and Programmable Actuation.</title><venue>Adv. Intell. Syst.</venue><volume>1</volume><number>8</number><pages>1970080</pages><year>2019</year><type>Journal Articles</type><access>open</access><key>journals/aisy/HanJNLZLLSCYLPL19a</key><doi>10.1002/AISY.201970080</doi><ee>https://doi.org/10.1002/aisy.201970080</ee><url>https://dblp.org/rec/journals/aisy/HanJNLZLLSCYLPL19a</url></info>
-<url>URL#940169</url>
+<url>URL#941240</url>
 </hit>
-<hit score="3" id="941297">
+<hit score="3" id="942368">
 <info><authors><author pid="247/1624">Jian-Guo Gao</author><author pid="12/877">Zhi-Hua Chen</author><author pid="247/1546">Zhen-Gui Huang</author><author pid="139/1907">Wei-Tao Wu</author><author pid="247/1629">Yu-Jie Xiao</author></authors><title>Numerical investigations on the oblique water entry of high-speed projectiles.</title><venue>Appl. Math. Comput.</venue><volume>362</volume><year>2019</year><type>Journal Articles</type><access>closed</access><key>journals/amc/GaoCHWX19</key><doi>10.1016/J.AMC.2019.06.061</doi><ee>https://doi.org/10.1016/j.amc.2019.06.061</ee><url>https://dblp.org/rec/journals/amc/GaoCHWX19</url></info>
-<url>URL#941297</url>
+<url>URL#942368</url>
 </hit>
-<hit score="3" id="1164925">
+<hit score="3" id="1165996">
 <info><authors><author pid="211/5806">Weitao Wan</author><author pid="87/274">Jiansheng Chen</author><author pid="43/2861">Tianpeng Li</author><author pid="39/6548">Yiqing Huang</author><author pid="259/5362">Jingqi Tian</author><author pid="43/3340">Cheng Yu</author><author pid="258/6782">Youze Xue</author></authors><title>Information Entropy Based Feature Pooling for Convolutional Neural Networks.</title><venue>ICCV</venue><pages>3404-3413</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iccv/WanCLHTYX19</key><doi>10.1109/ICCV.2019.00350</doi><ee>https://doi.org/10.1109/ICCV.2019.00350</ee><url>https://dblp.org/rec/conf/iccv/WanCLHTYX19</url></info>
-<url>URL#1164925</url>
+<url>URL#1165996</url>
 </hit>
-<hit score="3" id="1165028">
+<hit score="3" id="1166099">
 <info><authors><author pid="258/6782">Youze Xue</author><author pid="87/274">Jiansheng Chen</author><author pid="211/5806">Weitao Wan</author><author pid="39/6548">Yiqing Huang</author><author pid="43/3340">Cheng Yu</author><author pid="43/2861">Tianpeng Li</author><author pid="259/5098">Jiayu Bao</author></authors><title>MVSCRF - Learning Multi-View Stereo With Conditional Random Fields.</title><venue>ICCV</venue><pages>4311-4320</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iccv/XueCWHYLB19</key><doi>10.1109/ICCV.2019.00441</doi><ee>https://doi.org/10.1109/ICCV.2019.00441</ee><url>https://dblp.org/rec/conf/iccv/XueCWHYLB19</url></info>
-<url>URL#1165028</url>
+<url>URL#1166099</url>
 </hit>
-<hit score="3" id="1246293">
+<hit score="3" id="1247372">
 <info><authors><author pid="25/4656">Zhiyong Yu</author><author pid="35/7711">Linlin Liu</author><author pid="65/4423">Chen Chen</author><author pid="153/0171">Weitao Zhang</author><author pid="259/6160">Xianbin Ju</author><author pid="97/8704">Lei Zhang</author></authors><title>Research on Situational Perception of Power Grid Business Based on User Portrait.</title><venue>SmartIoT</venue><pages>350-355</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/smartiot/YuLCZJZ19</key><doi>10.1109/SMARTIOT.2019.00061</doi><ee>https://doi.org/10.1109/SmartIoT.2019.00061</ee><url>https://dblp.org/rec/conf/smartiot/YuLCZJZ19</url></info>
-<url>URL#1246293</url>
+<url>URL#1247372</url>
 </hit>
-<hit score="3" id="2119169">
+<hit score="3" id="2120248">
 <info><authors><author pid="196/9514">Xianju Li</author><author pid="76/6121">Weitao Chen</author><author pid="174/4652">Xinwen Cheng</author><author pid="w/LizheWang">Lizhe Wang 0001</author></authors><title>A Comparison of Machine Learning Algorithms for Mapping of Complex Surface-Mined and Agricultural Landscapes Using ZiYuan-3 Stereo Satellite Imagery.</title><venue>Remote. Sens.</venue><volume>8</volume><number>6</number><pages>514</pages><year>2016</year><type>Journal Articles</type><access>open</access><key>journals/remotesensing/LiCCW16</key><doi>10.3390/RS8060514</doi><ee>https://doi.org/10.3390/rs8060514</ee><url>https://dblp.org/rec/journals/remotesensing/LiCCW16</url></info>
-<url>URL#2119169</url>
+<url>URL#2120248</url>
 </hit>
-<hit score="3" id="3488316">
+<hit score="3" id="3489672">
 <info><authors><author pid="14/9453">Mingyuan Hu</author><author pid="l/HuiLin2">Hui Lin 0002</author><author pid="22/5523-1">Bin Chen 0001</author><author pid="50/6996-8">Min Chen 0008</author><author pid="42/10409">Weitao Che</author><author pid="71/9620">Fengru Huang</author></authors><title>A virtual learning environment of the Chinese University of Hong Kong.</title><venue>Int. J. Digit. Earth</venue><volume>4</volume><number>2</number><pages>171-182</pages><year>2011</year><type>Journal Articles</type><access>closed</access><key>journals/digearth/HuLCCCH11</key><doi>10.1080/17538947.2010.535028</doi><ee>https://doi.org/10.1080/17538947.2010.535028</ee><url>https://dblp.org/rec/journals/digearth/HuLCCCH11</url></info>
-<url>URL#3488316</url>
+<url>URL#3489672</url>
 </hit>
-<hit score="3" id="3819487">
+<hit score="3" id="3820843">
 <info><authors><author pid="27/7674">Weitao Ha</author><author pid="74/2760">Li-Ping Chen</author></authors><title>An Adaptive Evaluation Model of Web Service Based on Artificial Immune Network.</title><venue>CIS</venue><pages>461-464</pages><year>2010</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/cis/HaC10</key><doi>10.1109/CIS.2010.107</doi><ee>https://doi.org/10.1109/CIS.2010.107</ee><url>https://dblp.org/rec/conf/cis/HaC10</url></info>
-<url>URL#3819487</url>
+<url>URL#3820843</url>
 </hit>
-<hit score="2" id="30698">
+<hit score="2" id="31117">
 <info><authors><author pid="296/6949">Zefang Chen</author><author pid="06/6785">Yang Zhang</author><author pid="44/6676">Yanfeng Fan</author><author pid="90/9406">Jingxuan Wang</author><author pid="245/5995">Weitao Lyu</author><author pid="94/3077">Dong Zheng</author><author pid="283/2731">Wenjing Pang</author></authors><title>Close Observation of the Evolution Process during Initial Stage of Triggered Lightning Based on Continuous Interferometer.</title><venue>Remote. Sens.</venue><volume>14</volume><number>4</number><pages>863</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/remotesensing/ChenZFWLZP22</key><doi>10.3390/RS14040863</doi><ee>https://doi.org/10.3390/rs14040863</ee><url>https://dblp.org/rec/journals/remotesensing/ChenZFWLZP22</url></info>
-<url>URL#30698</url>
+<url>URL#31117</url>
 </hit>
-<hit score="2" id="36030">
+<hit score="2" id="36499">
 <info><authors><author pid="76/6121">Weitao Chen</author><author pid="312/6322">Shubing Ouyang</author><author pid="11/4740">Wei Tong</author><author pid="196/9514">Xianju Li</author><author pid="91/9946">Xiongwei Zheng</author><author pid="w/LizheWang">Lizhe Wang 0001</author></authors><title>GCSANet - A Global Context Spatial Attention Deep Learning Network for Remote Sensing Scene Classification.</title><venue>IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.</venue><volume>15</volume><pages>1150-1162</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/staeors/ChenOTLZW22</key><doi>10.1109/JSTARS.2022.3141826</doi><ee>https://doi.org/10.1109/JSTARS.2022.3141826</ee><url>https://dblp.org/rec/journals/staeors/ChenOTLZW22</url></info>
-<url>URL#36030</url>
+<url>URL#36499</url>
 </hit>
-<hit score="2" id="36031">
+<hit score="2" id="36500">
 <info><authors><author pid="76/6121">Weitao Chen</author><author pid="312/6322">Shubing Ouyang</author><author pid="96/2976">Jiawei Yang</author><author pid="196/9514">Xianju Li</author><author pid="314/1330">Gaodian Zhou</author><author pid="w/LizheWang">Lizhe Wang 0001</author></authors><title>JAGAN - A Framework for Complex Land Cover Classification Using Gaofen-5 AHSI Images.</title><venue>IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.</venue><volume>15</volume><pages>1591-1603</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/staeors/ChenOYLZW22</key><doi>10.1109/JSTARS.2022.3144339</doi><ee>https://doi.org/10.1109/JSTARS.2022.3144339</ee><url>https://dblp.org/rec/journals/staeors/ChenOYLZW22</url></info>
-<url>URL#36031</url>
+<url>URL#36500</url>
 </hit>
-<hit score="2" id="40516">
+<hit score="2" id="40998">
 <info><authors><author pid="248/0891">Mengjuan Wu</author><author pid="86/5728-5">Quan Wang 0005</author><author pid="04/4949">Jinlin Wang</author><author pid="03/8392">Kefa Zhou</author><author pid="78/10021">Zhixin Zhang</author><author pid="297/7222">Xiumei Ma</author><author pid="76/6121">Weitao Chen</author></authors><title>Quantifying the Abundances of Minerals of Granitic Composition Using the Hapke Model of Bidirectional Reflectance.</title><venue>IEEE Trans. Geosci. Remote. Sens.</venue><volume>60</volume><pages>1-11</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/tgrs/WuWWZZMC22</key><doi>10.1109/TGRS.2021.3111216</doi><ee>https://doi.org/10.1109/TGRS.2021.3111216</ee><url>https://dblp.org/rec/journals/tgrs/WuWWZZMC22</url></info>
-<url>URL#40516</url>
+<url>URL#40998</url>
 </hit>
-<hit score="2" id="40813">
+<hit score="2" id="41295">
 <info><authors><author pid="314/1330">Gaodian Zhou</author><author pid="76/6121">Weitao Chen</author><author pid="314/2227">Qianshan Gui</author><author pid="196/9514">Xianju Li</author><author pid="w/LizheWang">Lizhe Wang 0001</author></authors><title>Split Depth-Wise Separable Graph-Convolution Network for Road Extraction in Complex Environments From High-Resolution Remote-Sensing Images.</title><venue>IEEE Trans. Geosci. Remote. Sens.</venue><volume>60</volume><pages>1-15</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/tgrs/ZhouCGLW22</key><doi>10.1109/TGRS.2021.3128033</doi><ee>https://doi.org/10.1109/TGRS.2021.3128033</ee><url>https://dblp.org/rec/journals/tgrs/ZhouCGLW22</url></info>
-<url>URL#40813</url>
+<url>URL#41295</url>
 </hit>
-<hit score="2" id="201298">
+<hit score="2" id="202004">
 <info><authors><author pid="150/1266">Lue Chen</author><author pid="189/3560">Jinsong Ping</author><author pid="180/6816">Jianfeng Cao</author><author pid="31/5736">Xiang Liu</author><author pid="44/5770">Na Wang</author><author pid="78/6727">Zhen Wang</author><author pid="38/5398">Ping Zhu</author><author pid="65/3367">Mei Wang</author><author pid="298/1654">Haijun Man</author><author pid="61/7710">Fei Fan</author><author pid="12/10137">Weitao Lu</author><author pid="s/JingSun">Jing Sun</author><author pid="18/8995">Songtao Han</author></authors><title>Retrieving Doppler Frequency via Local Correlation Method of Segmented Modeling.</title><venue>Remote. Sens.</venue><volume>13</volume><number>14</number><pages>2846</pages><year>2021</year><type>Journal Articles</type><access>open</access><key>journals/remotesensing/ChenPCLWWZWMFLS21</key><doi>10.3390/RS13142846</doi><ee>https://doi.org/10.3390/rs13142846</ee><url>https://dblp.org/rec/journals/remotesensing/ChenPCLWWZWMFLS21</url></info>
-<url>URL#201298</url>
+<url>URL#202004</url>
 </hit>
-<hit score="2" id="213299">
+<hit score="2" id="214005">
 <info><authors><author pid="70/1726">Meng Li</author><author pid="253/5099">Zhuang Tang</author><author pid="11/4740">Wei Tong</author><author pid="196/9514">Xianju Li</author><author pid="76/6121">Weitao Chen</author><author pid="w/LizheWang">Lizhe Wang 0001</author></authors><title>A Multi-Level Output-Based DBN Model for Fine Classification of Complex Geo-Environments Area Using Ziyuan-3 TMS Imagery.</title><venue>Sensors</venue><volume>21</volume><number>6</number><pages>2089</pages><year>2021</year><type>Journal Articles</type><access>open</access><key>journals/sensors/LiTTLC021</key><doi>10.3390/S21062089</doi><ee>https://doi.org/10.3390/s21062089</ee><url>https://dblp.org/rec/journals/sensors/LiTTLC021</url></info>
-<url>URL#213299</url>
+<url>URL#214005</url>
 </hit>
-<hit score="2" id="219048">
+<hit score="2" id="219754">
 <info><authors><author pid="258/3562">Jolene Britton</author><author pid="150/7747">Yat Tin Chow</author><author pid="76/6121">Weitao Chen</author><author pid="19/3173">Yulong Xing</author></authors><title>Recovery of a Time-Dependent Bottom Topography Function from the Shallow Water Equations via an Adjoint Approach.</title><venue>SIAM J. Sci. Comput.</venue><volume>43</volume><number>4</number><pages>A2981-A3008</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/siamsc/BrittonCCX21</key><doi>10.1137/20M1341787</doi><ee>https://doi.org/10.1137/20M1341787</ee><url>https://dblp.org/rec/journals/siamsc/BrittonCCX21</url></info>
-<url>URL#219048</url>
+<url>URL#219754</url>
 </hit>
-<hit score="2" id="225566">
+<hit score="2" id="226277">
 <info><authors><author pid="62/5501">Tian Tian</author><author pid="42/1500">Lingling Li</author><author pid="76/6121">Weitao Chen</author><author pid="167/8080">Huabing Zhou</author></authors><title>SEMSDNet - A Multiscale Dense Network With Attention for Remote Sensing Scene Classification.</title><venue>IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.</venue><volume>14</volume><pages>5501-5514</pages><year>2021</year><type>Journal Articles</type><access>open</access><key>journals/staeors/TianLCZ21</key><doi>10.1109/JSTARS.2021.3074508</doi><ee>https://doi.org/10.1109/JSTARS.2021.3074508</ee><url>https://dblp.org/rec/journals/staeors/TianLCZ21</url></info>
-<url>URL#225566</url>
+<url>URL#226277</url>
 </hit>
-<hit score="2" id="240182">
+<hit score="2" id="240893">
 <info><authors><author pid="248/0891">Mengjuan Wu</author><author pid="04/4949">Jinlin Wang</author><author pid="86/5728-5">Quan Wang 0005</author><author pid="03/8392">Kefa Zhou</author><author pid="78/10021">Zhixin Zhang</author><author pid="297/7222">Xiumei Ma</author><author pid="76/6121">Weitao Chen</author></authors><title>Retrieval of Particle Size of Natural Granite From Multiangular Bidirectional Reflectance Spectra Using the Hapke Model (June 2020).</title><venue>IEEE Trans. Geosci. Remote. Sens.</venue><volume>59</volume><number>8</number><pages>6537-6548</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/tgrs/WuWWZZMC21</key><doi>10.1109/TGRS.2020.3030101</doi><ee>https://doi.org/10.1109/TGRS.2020.3030101</ee><url>https://dblp.org/rec/journals/tgrs/WuWWZZMC21</url></info>
-<url>URL#240182</url>
+<url>URL#240893</url>
 </hit>
-<hit score="2" id="319700">
+<hit score="2" id="320445">
 <info><authors><author pid="22/10826">Weitao Wang</author><author pid="190/3802">Sushovan Das</author><author pid="275/3638">Xinyu Crystal Wu</author><author pid="04/6982">Zhuang Wang</author><author pid="59/146">Ang Chen</author><author pid="35/2683">T. S. Eugene Ng</author></authors><title>MXDAG - A Hybrid Abstraction for Emerging Applications.</title><venue>HotNets</venue><pages>221-228</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/hotnets/WangDWWCN21</key><doi>10.1145/3484266.3487384</doi><ee>https://doi.org/10.1145/3484266.3487384</ee><url>https://dblp.org/rec/conf/hotnets/WangDWWCN21</url></info>
-<url>URL#319700</url>
+<url>URL#320445</url>
 </hit>
-<hit score="2" id="320412">
+<hit score="2" id="321157">
 <info><authors><author pid="22/10126">Wenbo Ding</author><author pid="28/10471">Chenshu Wu</author><author pid="98/7731">Weitao Xu</author></authors><title>CPD 2021 - The 4th International Workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing.</title><venue>UbiComp/ISWC Adjunct</venue><pages>586-588</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/huc/DingWX21</key><doi>10.1145/3460418.3479270</doi><ee>https://doi.org/10.1145/3460418.3479270</ee><url>https://dblp.org/rec/conf/huc/DingWX21</url></info>
-<url>URL#320412</url>
+<url>URL#321157</url>
 </hit>
-<hit score="2" id="320477">
+<hit score="2" id="321222">
 <info><authors><author pid="50/4043">Tao Ni</author><author pid="116/8651">Yongliang Chen</author><author pid="302/4014">Keqi Song</author><author pid="98/7731">Weitao Xu</author></authors><title>A Simple and Fast Human Activity Recognition System Using Radio Frequency Energy Harvesting.</title><venue>UbiComp/ISWC Adjunct</venue><pages>666-671</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/huc/NiCSX21</key><doi>10.1145/3460418.3480399</doi><ee>https://doi.org/10.1145/3460418.3480399</ee><url>https://dblp.org/rec/conf/huc/NiCSX21</url></info>
-<url>URL#320477</url>
+<url>URL#321222</url>
 </hit>
-<hit score="2" id="333362">
+<hit score="2" id="334107">
 <info><authors><author pid="76/6121">Weitao Chen</author><author pid="67/1237">Zhibin Wang</author><author pid="17/5705-30">Hao Li 0030</author></authors><title>Get better 1 pixel PCK - ladder scales correspondence flow networks for remote sensing image matching in higher resolution.</title><venue>ICCVW</venue><pages>742-751</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iccvw/ChenWL21</key><doi>10.1109/ICCVW54120.2021.00088</doi><ee>https://doi.org/10.1109/ICCVW54120.2021.00088</ee><url>https://dblp.org/rec/conf/iccvw/ChenWL21</url></info>
-<url>URL#333362</url>
+<url>URL#334107</url>
 </hit>
-<hit score="2" id="353517">
+<hit score="2" id="354262">
 <info><authors><author pid="99/76">Min Liu</author><author pid="55/7775">Qian Hu</author><author pid="18/2771">Cong Wang</author><author pid="62/5501">Tian Tian</author><author pid="76/6121">Weitao Chen</author></authors><title>Daff-Net - Dual Attention Feature Fusion Network for Aircraft Detection in Remote Sensing Images.</title><venue>IGARSS</venue><pages>4196-4199</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/igarss/LiuHWTC21</key><doi>10.1109/IGARSS47720.2021.9554880</doi><ee>https://doi.org/10.1109/IGARSS47720.2021.9554880</ee><url>https://dblp.org/rec/conf/igarss/LiuHWTC21</url></info>
-<url>URL#353517</url>
+<url>URL#354262</url>
 </hit>
-<hit score="2" id="364496">
+<hit score="2" id="365286">
 <info><authors><author pid="179/5142">Yujia Lu</author><author pid="216/7211">Wei-tao You</author><author pid="216/7120">Changyuan Yang</author><author pid="24/2311">Shi Chen</author><author pid="29/8340">Yuxi Wang</author><author pid="55/4732">Lingyun Sun</author></authors><title>An Explainable XGBoost-based Approach for Assessing Product Presentation Video.</title><venue>ISCID</venue><pages>111-116</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iscid/LuYYCWS21</key><doi>10.1109/ISCID52796.2021.00034</doi><ee>https://doi.org/10.1109/ISCID52796.2021.00034</ee><url>https://dblp.org/rec/conf/iscid/LuYYCWS21</url></info>
-<url>URL#364496</url>
+<url>URL#365286</url>
 </hit>
-<hit score="2" id="428738">
+<hit score="2" id="429728">
 <info><authors><author pid="81/6685">Wei Huang</author><author pid="187/5915">Yayong Li</author><author pid="17/10015">Weitao Du</author><author pid="38/3064">Richard Yi Da Xu</author><author pid="97/3358">Jie Yin</author><author pid="17/1237">Ling Chen</author></authors><title>Wide Graph Neural Networks - Aggregation Provably Leads to Exponentially Trainability Loss.</title><venue>CoRR</venue><volume>abs/2103.03113</volume><year>2021</year><type>Informal Publications</type><access>open</access><key>journals/corr/abs-2103-03113</key><ee>https://arxiv.org/abs/2103.03113</ee><url>https://dblp.org/rec/journals/corr/abs-2103-03113</url></info>
-<url>URL#428738</url>
+<url>URL#429728</url>
 </hit>
-<hit score="2" id="439206">
+<hit score="2" id="440196">
 <info><authors><author pid="190/3802">Sushovan Das</author><author pid="52/7127">Afsaneh Rahbar</author><author pid="275/3638">Xinyu Crystal Wu</author><author pid="04/6982">Zhuang Wang</author><author pid="22/10826">Weitao Wang</author><author pid="59/146">Ang Chen</author><author pid="35/2683">T. S. Eugene Ng</author></authors><title>Shufflecast - An Optical, Data-rate Agnostic and Low-Power Multicast Architecture for Next-Generation Compute Clusters.</title><venue>CoRR</venue><volume>abs/2104.09680</volume><year>2021</year><type>Informal Publications</type><access>open</access><key>journals/corr/abs-2104-09680</key><ee>https://arxiv.org/abs/2104.09680</ee><url>https://dblp.org/rec/journals/corr/abs-2104-09680</url></info>
-<url>URL#439206</url>
+<url>URL#440196</url>
 </hit>
-<hit score="2" id="458727">
+<hit score="2" id="459717">
 <info><authors><author pid="22/10826">Weitao Wang</author><author pid="190/3802">Sushovan Das</author><author pid="275/3638">Xinyu Crystal Wu</author><author pid="04/6982">Zhuang Wang</author><author pid="59/146">Ang Chen</author><author pid="35/2683">T. S. Eugene Ng</author></authors><title>MXDAG - A Hybrid Abstraction for Cluster Applications.</title><venue>CoRR</venue><volume>abs/2107.07442</volume><year>2021</year><type>Informal Publications</type><access>open</access><key>journals/corr/abs-2107-07442</key><ee>https://arxiv.org/abs/2107.07442</ee><url>https://dblp.org/rec/journals/corr/abs-2107-07442</url></info>
-<url>URL#458727</url>
+<url>URL#459717</url>
 </hit>
-<hit score="2" id="480651">
+<hit score="2" id="481641">
 <info><authors><author pid="17/10015">Weitao Du</author><author pid="24/2058">He Zhang</author><author pid="266/2837">Yuanqi Du</author><author pid="126/3067">Qi Meng</author><author pid="c/WeiChen34">Wei Chen 0034</author><author pid="53/2446">Bin Shao</author><author pid="l/TieYanLiu">Tie-Yan Liu</author></authors><title>Equivariant vector field network for many-body system modeling.</title><venue>CoRR</venue><volume>abs/2110.14811</volume><year>2021</year><type>Informal Publications</type><access>open</access><key>journals/corr/abs-2110-14811</key><ee>https://arxiv.org/abs/2110.14811</ee><url>https://dblp.org/rec/journals/corr/abs-2110-14811</url></info>
-<url>URL#480651</url>
+<url>URL#481641</url>
 </hit>
-<hit score="2" id="503065">
+<hit score="2" id="504055">
 <info><authors><author pid="269/7667">Xiangpeng Fan</author><author pid="85/4040">Wen Yao</author><author pid="06/6785">Yang Zhang</author><author pid="245/5987">Liangtao Xu</author><author pid="51/2181">Yijun Zhang</author><author pid="269/7082">Paul R. Krehbiel</author><author pid="94/3077">Dong Zheng</author><author pid="255/0769">Hengyi Liu</author><author pid="245/5995">Weitao Lyu</author><author pid="133/3525">Shaodong Chen</author><author pid="269/7559">Zhengshuai Xie</author></authors><title>Parametric Reconstruction Method for the Long Time-Series Return-Stroke Current of Triggered Lightning Based on the Particle Swarm Optimization Algorithm.</title><venue>IEEE Access</venue><volume>8</volume><pages>115133-115147</pages><year>2020</year><type>Journal Articles</type><access>open</access><key>journals/access/FanYZXZKZLLCX20</key><doi>10.1109/ACCESS.2020.3004202</doi><ee>https://doi.org/10.1109/ACCESS.2020.3004202</ee><url>https://dblp.org/rec/journals/access/FanYZXZKZLLCX20</url></info>
-<url>URL#503065</url>
+<url>URL#504055</url>
 </hit>
-<hit score="2" id="576650">
+<hit score="2" id="577640">
 <info><authors><author pid="88/1450">Liping Chen</author><author pid="95/3736">Jun Liu</author><author pid="27/7674">Weitao Ha</author></authors><title>Cloud service security evaluation of smart grid using deep belief network.</title><venue>Int. J. Sens. Networks</venue><volume>33</volume><number>2</number><pages>109-121</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/ijsnet/ChenLH20</key><doi>10.1504/IJSNET.2020.107875</doi><ee>https://doi.org/10.1504/IJSNET.2020.107875</ee><url>https://dblp.org/rec/journals/ijsnet/ChenLH20</url></info>
-<url>URL#576650</url>
+<url>URL#577640</url>
 </hit>
-<hit score="2" id="590535">
+<hit score="2" id="591525">
 <info><authors><author pid="97/8329-2">Chunming Wu 0002</author><author pid="66/2069">Xiao Li</author><author pid="76/6121">Weitao Chen</author><author pid="196/9514">Xianju Li</author></authors><title>A Review of Geological Applications of High-Spatial-Resolution Remote Sensing Data.</title><venue>J. Circuits Syst. Comput.</venue><volume>29</volume><number>6</number><pages>2030006:1-2030006:23</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/jcsc/WuLCL20</key><doi>10.1142/S0218126620300068</doi><ee>https://doi.org/10.1142/S0218126620300068</ee><url>https://dblp.org/rec/journals/jcsc/WuLCL20</url></info>
-<url>URL#590535</url>
+<url>URL#591525</url>
 </hit>
-<hit score="2" id="610638">
+<hit score="2" id="611628">
 <info><authors><author pid="95/4442-82">Peng Wang 0082</author><author pid="09/1365">Xin Li</author><author pid="33/3099">Yue Gao</author><author pid="236/0837">Qiuyan Guo</author><author pid="145/8546">Shangwei Ning</author><author pid="48/2294">Yunpeng Zhang</author><author pid="174/8052">Shipeng Shang</author><author pid="81/4816">Junwei Wang</author><author pid="90/4357">Yanxia Wang</author><author pid="46/1382">Hui Zhi</author><author pid="60/4388">Ying Fang</author><author pid="213/6729">Weitao Shen</author><author pid="84/3127">Guangmei Zhang</author><author pid="290/7130">Steven Xi Chen</author><author pid="97/30-4">Xia Li 0004</author></authors><title>LnCeVar - a comprehensive database of genomic variations that disturb ceRNA network regulation.</title><venue>Nucleic Acids Res.</venue><volume>48</volume><number>Database-Issue</number><pages>D111-D117</pages><year>2020</year><type>Journal Articles</type><access>open</access><key>journals/nar/0082LGGNZSWWZFS20</key><doi>10.1093/NAR/GKZ887</doi><ee>https://doi.org/10.1093/nar/gkz887</ee><url>https://dblp.org/rec/journals/nar/0082LGGNZSWWZFS20</url></info>
-<url>URL#610638</url>
+<url>URL#611628</url>
 </hit>
-<hit score="2" id="618248">
+<hit score="2" id="619238">
 <info><authors><author pid="215/7976">Ali Nematbakhsh</author><author pid="311/9075">Megan Levis</author><author pid="311/9028">Nilay Kumar</author><author pid="76/6121">Weitao Chen</author><author pid="174/8877">Jeremiah J. Zartman</author><author pid="311/7349">Mark Alber</author></authors><title>Epithelial organ shape is generated by patterned actomyosin contractility and maintained by the extracellular matrix.</title><venue>PLoS Comput. Biol.</venue><volume>16</volume><number>8</number><year>2020</year><type>Journal Articles</type><access>open</access><key>journals/ploscb/NematbakhshLKCZ20</key><doi>10.1371/JOURNAL.PCBI.1008105</doi><ee>https://doi.org/10.1371/journal.pcbi.1008105</ee><url>https://dblp.org/rec/journals/ploscb/NematbakhshLKCZ20</url></info>
-<url>URL#618248</url>
+<url>URL#619238</url>
 </hit>
-<hit score="2" id="623806">
+<hit score="2" id="624796">
 <info><authors><author pid="76/6121">Weitao Chen</author><author pid="196/9514">Xianju Li</author><author pid="w/LizheWang">Lizhe Wang 0001</author></authors><title>Fine Land Cover Classification in an Open Pit Mining Area Using Optimized Support Vector Machine and WorldView-3 Imagery.</title><venue>Remote. Sens.</venue><volume>12</volume><number>1</number><pages>82</pages><year>2020</year><type>Journal Articles</type><access>open</access><key>journals/remotesensing/ChenLW20</key><doi>10.3390/RS12010082</doi><ee>https://doi.org/10.3390/rs12010082</ee><url>https://dblp.org/rec/journals/remotesensing/ChenLW20</url></info>
-<url>URL#623806</url>
+<url>URL#624796</url>
 </hit>
-<hit score="2" id="644818">
+<hit score="2" id="645808">
 <info><authors><author pid="11/4740">Wei Tong</author><author pid="76/6121">Weitao Chen</author><author pid="82/1911-6">Wei Han 0006</author><author pid="196/9514">Xianju Li</author><author pid="w/LizheWang">Lizhe Wang 0001</author></authors><title>Channel-Attention-Based DenseNet Network for Remote Sensing Image Scene Classification.</title><venue>IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.</venue><volume>13</volume><pages>4121-4132</pages><year>2020</year><type>Journal Articles</type><access>open</access><key>journals/staeors/TongCHLW20</key><doi>10.1109/JSTARS.2020.3009352</doi><ee>https://doi.org/10.1109/JSTARS.2020.3009352</ee><url>https://dblp.org/rec/journals/staeors/TongCHLW20</url></info>
-<url>URL#644818</url>
+<url>URL#645808</url>
 </hit>
-<hit score="2" id="661323">
+<hit score="2" id="662313">
 <info><authors><author pid="39/6548">Yiqing Huang</author><author pid="87/274">Jiansheng Chen</author><author pid="17/7992">Wanli Ouyang</author><author pid="211/5806">Weitao Wan</author><author pid="258/6782">Youze Xue</author></authors><title>Image Captioning With End-to-End Attribute Detection and Subsequent Attributes Prediction.</title><venue>IEEE Trans. Image Process.</venue><volume>29</volume><pages>4013-4026</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tip/HuangCOWX20</key><doi>10.1109/TIP.2020.2969330</doi><ee>https://doi.org/10.1109/TIP.2020.2969330</ee><url>https://dblp.org/rec/journals/tip/HuangCOWX20</url></info>
-<url>URL#661323</url>
+<url>URL#662313</url>
 </hit>
-<hit score="2" id="679078">
+<hit score="2" id="680068">
 <info><authors><author pid="22/10826">Weitao Wang</author><author pid="93/6765-9">Meng Wang 0009</author><author pid="69/6403-1">Sen Wang 0001</author><author pid="34/10089">Guodong Long</author><author pid="56/6651">Lina Yao</author><author pid="71/5935">Guilin Qi</author><author pid="48/4792">Yang Chen</author></authors><title>One-Shot Learning for Long-Tail Visual Relation Detection.</title><venue>AAAI</venue><pages>12225-12232</pages><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/aaai/WangWWLYQC20</key><ee>https://ojs.aaai.org/index.php/AAAI/article/view/6904</ee><url>https://dblp.org/rec/conf/aaai/WangWWLYQC20</url></info>
-<url>URL#679078</url>
+<url>URL#680068</url>
 </hit>
-<hit score="2" id="720460">
+<hit score="2" id="721450">
 <info><authors><author pid="211/5806">Weitao Wan</author><author pid="87/274">Jiansheng Chen</author><author pid="79/3711">Ming-Hsuan Yang 0001</author></authors><title>Adversarial Training with Bi-directional Likelihood Regularization for Visual Classification.</title><venue>ECCV</venue><pages>785-800</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/eccv/WanCY20</key><doi>10.1007/978-3-030-58586-0_46</doi><ee>https://doi.org/10.1007/978-3-030-58586-0_46</ee><url>https://dblp.org/rec/conf/eccv/WanCY20</url></info>
-<url>URL#720460</url>
+<url>URL#721450</url>
 </hit>
-<hit score="2" id="735652">
+<hit score="2" id="736642">
 <info><authors><author pid="58/2821">Meng Dong</author><author pid="62/3265">Zhiliang Qiu</author><author pid="181/4789">Weitao Pan</author><author pid="57/1843">Hongbin Zhang</author><author pid="274/0586">Chenglei Kong</author><author pid="93/4929">Hui Jin</author><author pid="99/9547-1">Jianlei Yang 0001</author></authors><title>Dual-Plane Switch Architecture for Time-Triggered Ethernet.</title><venue>ACM Great Lakes Symposium on VLSI</venue><pages>375-379</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/glvlsi/DongQPZKJ020</key><doi>10.1145/3386263.3407597</doi><ee>https://doi.org/10.1145/3386263.3407597</ee><url>https://dblp.org/rec/conf/glvlsi/DongQPZKJ020</url></info>
-<url>URL#735652</url>
+<url>URL#736642</url>
 </hit>
-<hit score="2" id="791094">
+<hit score="2" id="792103">
 <info><authors><author pid="76/6121">Weitao Chen</author><author pid="00/1125">Rick Salay</author><author pid="26/5698">Sean Sedwards</author><author pid="159/3608">Vahdat Abdelzad</author><author pid="72/6806">Krzysztof Czarnecki</author></authors><title>Accelerating the Training of Convolutional Neural Networks for Image Segmentation with Deep Active Learning.</title><venue>ITSC</venue><pages>1-7</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/itsc/ChenSSAC20</key><doi>10.1109/ITSC45102.2020.9294260</doi><ee>https://doi.org/10.1109/ITSC45102.2020.9294260</ee><url>https://dblp.org/rec/conf/itsc/ChenSSAC20</url></info>
-<url>URL#791094</url>
+<url>URL#792103</url>
 </hit>
-<hit score="2" id="803309">
+<hit score="2" id="804318">
 <info><authors><author pid="22/10826">Weitao Wang</author><author pid="276/3202">Ruyang Liu</author><author pid="93/6765-9">Meng Wang 0009</author><author pid="69/6403-1">Sen Wang 0001</author><author pid="116/8412">Xiaojun Chang</author><author pid="48/4792-8">Yang Chen 0008</author></authors><title>Memory-Based Network for Scene Graph with Unbalanced Relations.</title><venue>ACM Multimedia</venue><pages>2400-2408</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mm/WangLW0CC20</key><doi>10.1145/3394171.3413507</doi><ee>https://doi.org/10.1145/3394171.3413507</ee><url>https://dblp.org/rec/conf/mm/WangLW0CC20</url></info>
-<url>URL#803309</url>
+<url>URL#804318</url>
 </hit>
-<hit score="2" id="826403">
+<hit score="2" id="827412">
 <info><authors><author pid="22/10826">Weitao Wang</author><author pid="174/9515">Praveen Tammana</author><author pid="59/146">Ang Chen</author><author pid="35/2683">T. S. Eugene Ng</author></authors><title>Grasp the Root Causes in the Data Plane - Diagnosing Latency Problems with SpiderMon.</title><venue>SOSR</venue><pages>55-61</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosr/WangTCN20</key><doi>10.1145/3373360.3380835</doi><ee>https://doi.org/10.1145/3373360.3380835</ee><url>https://dblp.org/rec/conf/sosr/WangTCN20</url></info>
-<url>URL#826403</url>
+<url>URL#827412</url>
 </hit>
-<hit score="2" id="871837">
+<hit score="2" id="872908">
 <info><authors><author pid="258/3562">Jolene Britton</author><author pid="150/7747">Yat Tin Chow</author><author pid="76/6121">Weitao Chen</author><author pid="19/3173">Yulong Xing</author></authors><title>Recovery of a Time-Dependent Bottom Topography Function from the Shallow Water Equations via an Adjoint Approach.</title><venue>CoRR</venue><volume>abs/2006.00117</volume><year>2020</year><type>Informal Publications</type><access>open</access><key>journals/corr/abs-2006-00117</key><ee>https://arxiv.org/abs/2006.00117</ee><url>https://dblp.org/rec/journals/corr/abs-2006-00117</url></info>
-<url>URL#871837</url>
+<url>URL#872908</url>
 </hit>
-<hit score="2" id="885409">
+<hit score="2" id="886480">
 <info><authors><author pid="92/4638-5">Jing Shi 0005</author><author pid="89/6935">Zhiheng Li</author><author pid="171/0919">Haitian Zheng</author><author pid="271/8364">Yihang Xu</author><author pid="230/3670">Tianyou Xiao</author><author pid="271/8002">Weitao Tan</author><author pid="66/7308">Xiaoning Guo</author><author pid="157/2891">Sizhe Li</author><author pid="77/377">Bin Yang</author><author pid="119/3421">Zhexin Xu</author><author pid="185/3310">Ruitao Lin</author><author pid="271/7999">Zhongkai Shangguan</author><author pid="48/76">Yue Zhao</author><author pid="48/5512">Jingwen Wang</author><author pid="82/9299">Rohan Sharma</author><author pid="271/8063">Surya Iyer</author><author pid="166/4693">Ajinkya Deshmukh</author><author pid="271/8210">Raunak Mahalik</author><author pid="168/6634">Srishti Singh</author><author pid="251/5346">Jayant G. Rohra</author><author pid="155/6855">Yipeng Zhang</author><author pid="195/9719">Tongyu Yang</author><author pid="231/8850">Xuan Wen</author><author pid="245/7452">Ethan Fahnestock</author><author pid="271/8511">Bryce Ikeda</author><author pid="271/2368">Ian Lawson</author><author pid="271/8513">Alan Finkelstein</author><author pid="271/8098">Kehao Guo</author><author pid="271/8048">Richard Magnotti</author><author pid="87/10956">Andrew Sexton</author><author pid="271/8061">Jeet Ketan Thaker</author><author pid="271/8192">Yiyang Su</author><author pid="117/4770">Chenliang Xu</author></authors><title>Actor-Action Video Classification CSC 249/449 Spring 2020 Challenge Report.</title><venue>CoRR</venue><volume>abs/2008.00141</volume><year>2020</year><type>Informal Publications</type><access>open</access><key>journals/corr/abs-2008-00141</key><ee>https://arxiv.org/abs/2008.00141</ee><url>https://dblp.org/rec/journals/corr/abs-2008-00141</url></info>
-<url>URL#885409</url>
+<url>URL#886480</url>
 </hit>
-<hit score="2" id="938157">
+<hit score="2" id="939228">
 <info><authors><author pid="239/7842">Weitao Zou</author><author pid="163/8496">Weipeng Jing</author><author pid="37/820">Guangsheng Chen</author><author pid="16/6317">Yang Lu</author><author pid="49/594">Houbing Song</author></authors><title>A Survey of Big Data Analytics for Smart Forestry.</title><venue>IEEE Access</venue><volume>7</volume><pages>46621-46636</pages><year>2019</year><type>Journal Articles</type><access>open</access><key>journals/access/ZouJCLS19</key><doi>10.1109/ACCESS.2019.2907999</doi><ee>https://doi.org/10.1109/ACCESS.2019.2907999</ee><url>https://dblp.org/rec/journals/access/ZouJCLS19</url></info>
-<url>URL#938157</url>
+<url>URL#939228</url>
 </hit>
-<hit score="2" id="999713">
+<hit score="2" id="1000784">
 <info><authors><author pid="69/8130">Weitao Li</author><author pid="25/1710">Hai Tao</author><author pid="80/6898">Hua Li</author><author pid="173/0951">Keqiong Chen</author><author pid="21/1550">Jianping Wang</author></authors><title>Greengage grading using stochastic configuration networks and a semi-supervised feedback mechanism.</title><venue>Inf. Sci.</venue><volume>488</volume><pages>1-12</pages><year>2019</year><type>Journal Articles</type><access>closed</access><key>journals/isci/LiTLCW19</key><doi>10.1016/J.INS.2019.02.041</doi><ee>https://doi.org/10.1016/j.ins.2019.02.041</ee><url>https://dblp.org/rec/journals/isci/LiTLCW19</url></info>
-<url>URL#999713</url>
+<url>URL#1000784</url>
 </hit>
-<hit score="2" id="1009009">
+<hit score="2" id="1010080">
 <info><authors><author pid="203/5191">Wei-Tao Li</author><author pid="06/9183">Yen-Chen Liu</author></authors><title>Human-swarm collaboration with coverage control under nonidentical and limited sensory ranges.</title><venue>J. Frankl. Inst.</venue><volume>356</volume><number>16</number><pages>9122-9151</pages><year>2019</year><type>Journal Articles</type><access>closed</access><key>journals/jfi/LiL19</key><doi>10.1016/J.JFRANKLIN.2019.07.030</doi><ee>https://doi.org/10.1016/j.jfranklin.2019.07.030</ee><url>https://dblp.org/rec/journals/jfi/LiL19</url></info>
-<url>URL#1009009</url>
+<url>URL#1010080</url>
 </hit>
-<hit score="2" id="1039643">
+<hit score="2" id="1040714">
 <info><authors><author pid="196/9514">Xianju Li</author><author pid="253/5099">Zhuang Tang</author><author pid="76/6121">Weitao Chen</author><author pid="w/LizheWang">Lizhe Wang 0001</author></authors><title>Multimodal and Multi-Model Deep Fusion for Fine Classification of Regional Complex Landscape Areas Using ZiYuan-3 Imagery.</title><venue>Remote. Sens.</venue><volume>11</volume><number>22</number><pages>2716</pages><year>2019</year><type>Journal Articles</type><access>open</access><key>journals/remotesensing/LiTCW19</key><doi>10.3390/RS11222716</doi><ee>https://doi.org/10.3390/rs11222716</ee><url>https://dblp.org/rec/journals/remotesensing/LiTCW19</url></info>
-<url>URL#1039643</url>
+<url>URL#1040714</url>
 </hit>
-<hit score="2" id="1153831">
+<hit score="2" id="1154902">
 <info><authors><author pid="239/7842">Weitao Zou</author><author pid="163/8496">Weipeng Jing</author><author pid="37/820">Guangsheng Chen</author><author pid="16/6317">Yang Lu</author></authors><title>Strark-H - A Strategy for Spatial Data Storage to Improve Query Efficiency Based on Spark.</title><venue>ICA3PP</venue><pages>285-299</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ica3pp/ZouJCL19</key><doi>10.1007/978-3-030-38991-8_19</doi><ee>https://doi.org/10.1007/978-3-030-38991-8_19</ee><url>https://dblp.org/rec/conf/ica3pp/ZouJCL19</url></info>
-<url>URL#1153831</url>
+<url>URL#1154902</url>
 </hit>
-<hit score="2" id="1171161">
+<hit score="2" id="1172232">
 <info><authors><author pid="39/6548">Yiqing Huang</author><author pid="74/3487">Cong Li</author><author pid="43/2861">Tianpeng Li</author><author pid="211/5806">Weitao Wan</author><author pid="87/274">Jiansheng Chen</author></authors><title>Image Captioning with Attribute Refinement.</title><venue>ICIP</venue><pages>1820-1824</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icip/HuangLLWC19</key><doi>10.1109/ICIP.2019.8803108</doi><ee>https://doi.org/10.1109/ICIP.2019.8803108</ee><url>https://dblp.org/rec/conf/icip/HuangLLWC19</url></info>
-<url>URL#1171161</url>
+<url>URL#1172232</url>
 </hit>
-<hit score="2" id="1171281">
+<hit score="2" id="1172352">
 <info><authors><author pid="43/2861">Tianpeng Li</author><author pid="211/5806">Weitao Wan</author><author pid="39/6548">Yiqing Huang</author><author pid="87/274">Jiansheng Chen</author><author pid="54/1022">Chunhua Hu</author><author pid="83/4950">Yu Ma</author></authors><title>Improving Human Parsing by Extracting Global Information Using the Non-Local Operation.</title><venue>ICIP</venue><pages>2961-2965</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icip/LiWHCHM19</key><doi>10.1109/ICIP.2019.8804412</doi><ee>https://doi.org/10.1109/ICIP.2019.8804412</ee><url>https://dblp.org/rec/conf/icip/LiWHCHM19</url></info>
-<url>URL#1171281</url>
+<url>URL#1172352</url>
 </hit>
-<hit score="2" id="1222845">
+<hit score="2" id="1223924">
 <info><authors><author pid="76/6121">Weitao Chen</author><author pid="48/10187">Shenhai Ran</author><author pid="122/3560">Bengt Jacobson</author></authors><title>Integration and Analysis of EPAS and Chassis System in FMI-based co-simulation.</title><venue>Modelica</venue><pages>157:074</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/modelica/ChenRJ19</key><doi>10.3384/ECP19157717</doi><ee>https://doi.org/10.3384/ecp19157717</ee><url>https://dblp.org/rec/conf/modelica/ChenRJ19</url></info>
-<url>URL#1222845</url>
+<url>URL#1223924</url>
 </hit>
-<hit score="2" id="1223395">
+<hit score="2" id="1224474">
 <info><authors><author pid="43/6657-13">Jin Zhang 0013</author><author pid="178/7264">Fuxiang Wu</author><author pid="01/6410">Wen Hu</author><author pid="24/70">Qieshi Zhang</author><author pid="98/7731">Weitao Xu</author><author pid="78/5816-2">Jun Cheng 0002</author></authors><title>WiEnhance - Towards Data Augmentation in Human Activity Recognition Using WiFi Signal.</title><venue>MSN</venue><pages>309-314</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/msn/0013WHZX019</key><doi>10.1109/MSN48538.2019.00065</doi><ee>https://doi.org/10.1109/MSN48538.2019.00065</ee><url>https://dblp.org/rec/conf/msn/0013WHZX019</url></info>
-<url>URL#1223395</url>
+<url>URL#1224474</url>
 </hit>
-<hit score="2" id="1248379">
+<hit score="2" id="1249458">
 <info><authors><author pid="81/6181-2">Dingming Wu 0002</author><author pid="22/10826">Weitao Wang</author><author pid="59/146">Ang Chen</author><author pid="35/2683">T. S. Eugene Ng</author></authors><title>Say No to Rack Boundaries - Towards A Reconfigurable Pod-Centric DCN Architecture.</title><venue>SOSR</venue><pages>112-118</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosr/0002WCN19</key><doi>10.1145/3314148.3314350</doi><ee>https://doi.org/10.1145/3314148.3314350</ee><url>https://dblp.org/rec/conf/sosr/0002WCN19</url></info>
-<url>URL#1248379</url>
+<url>URL#1249458</url>
 </hit>
-<hit score="2" id="1334011">
+<hit score="2" id="1335090">
 <info><authors><author pid="222/6719">Weitao Fang</author><author pid="82/5445">Tingting Zhang</author><author pid="187/1639">Chenqiu Zhao</author><author pid="222/6776">Danyal Badar Soomro</author><author pid="222/6671">Rizwan Taj</author><author pid="90/5236-2">Haibo Hu 0002</author></authors><title>Background Subtraction Based on Random Superpixels Under Multiple Scales for Video Analytics.</title><venue>IEEE Access</venue><volume>6</volume><pages>33376-33386</pages><year>2018</year><type>Journal Articles</type><access>open</access><key>journals/access/FangZZSTH18</key><doi>10.1109/ACCESS.2018.2846678</doi><ee>https://doi.org/10.1109/ACCESS.2018.2846678</ee><url>https://dblp.org/rec/journals/access/FangZZSTH18</url></info>
-<url>URL#1334011</url>
+<url>URL#1335090</url>
 </hit>
-<hit score="2" id="1354635">
+<hit score="2" id="1355714">
 <info><authors><author pid="64/9060">Kai Lei</author><author pid="35/6478">Lizhu Zhang</author><author pid="91/112-21">Ying Liu 0021</author><author pid="01/8558-1">Ying Shen 0001</author><author pid="183/1853">Chenwei Liu</author><author pid="16/3790">Qian Yu</author><author pid="157/4422">WeiTao Weng</author></authors><title>An event summarizing algorithm based on the timeline relevance model in Sina Weibo.</title><venue>Sci. China Inf. Sci.</venue><volume>61</volume><number>12</number><pages>129101:1-129101:3</pages><year>2018</year><type>Journal Articles</type><access>closed</access><key>journals/chinaf/LeiZLSLYW18</key><doi>10.1007/S11432-016-9333-4</doi><ee>https://doi.org/10.1007/s11432-016-9333-4</ee><url>https://dblp.org/rec/journals/chinaf/LeiZLSLYW18</url></info>
-<url>URL#1354635</url>
+<url>URL#1355714</url>
 </hit>
-<hit score="2" id="1384109">
+<hit score="2" id="1385188">
 <info><authors><author pid="88/1450">Liping Chen</author><author pid="27/7674">Weitao Ha</author></authors><title>Reliability prediction and QoS selection for web service composition.</title><venue>Int. J. Comput. Sci. Eng.</venue><volume>16</volume><number>2</number><pages>202-211</pages><year>2018</year><type>Journal Articles</type><access>closed</access><key>journals/ijcse/ChenH18</key><doi>10.1504/IJCSE.2018.10011518</doi><ee>https://doi.org/10.1504/IJCSE.2018.10011518</ee><url>https://dblp.org/rec/journals/ijcse/ChenH18</url></info>
-<url>URL#1384109</url>
+<url>URL#1385188</url>
 </hit>
-<hit score="2" id="1433497">
+<hit score="2" id="1434576">
 <info><authors><author pid="76/6121">Weitao Chen</author><author pid="196/9514">Xianju Li</author><author pid="92/8960">Haixia He</author><author pid="w/LizheWang">Lizhe Wang 0001</author></authors><title>A Review of Fine-Scale Land Use and Land Cover Classification in Open-Pit Mining Areas by Remote Sensing Techniques.</title><venue>Remote. Sens.</venue><volume>10</volume><number>1</number><pages>15</pages><year>2018</year><type>Journal Articles</type><access>open</access><key>journals/remotesensing/ChenLHW18</key><doi>10.3390/RS10010015</doi><ee>https://doi.org/10.3390/rs10010015</ee><url>https://dblp.org/rec/journals/remotesensing/ChenLHW18</url></info>
-<url>URL#1433497</url>
+<url>URL#1434576</url>
 </hit>
-<hit score="2" id="1433498">
+<hit score="2" id="1434577">
 <info><authors><author pid="76/6121">Weitao Chen</author><author pid="196/9514">Xianju Li</author><author pid="92/8960">Haixia He</author><author pid="w/LizheWang">Lizhe Wang 0001</author></authors><title>Assessing Different Feature Sets&apos; Effects on Land Cover Classification in Complex Surface-Mined Landscapes by ZiYuan-3 Satellite Imagery.</title><venue>Remote. Sens.</venue><volume>10</volume><number>1</number><pages>23</pages><year>2018</year><type>Journal Articles</type><access>open</access><key>journals/remotesensing/ChenLHW18a</key><doi>10.3390/RS10010023</doi><ee>https://doi.org/10.3390/rs10010023</ee><url>https://dblp.org/rec/journals/remotesensing/ChenLHW18a</url></info>
-<url>URL#1433498</url>
+<url>URL#1434577</url>
 </hit>
-<hit score="2" id="1434153">
+<hit score="2" id="1435232">
 <info><authors><author pid="216/1444">Jianmin Lin</author><author pid="57/8668">Yating Wang</author><author pid="22/10826">Weitao Wang</author><author pid="49/6408-1">Xiaofeng Li 0001</author><author pid="216/0753">Sunke Fang</author><author pid="66/3019">Chao Chen</author><author pid="45/4474">Hong Zheng</author></authors><title>Seismic Remote Sensing of Super Typhoon Lupit (2009) with Seismological Array Observation in NE China.</title><venue>Remote. Sens.</venue><volume>10</volume><number>2</number><pages>235</pages><year>2018</year><type>Journal Articles</type><access>open</access><key>journals/remotesensing/LinWWLFCZ18</key><doi>10.3390/RS10020235</doi><ee>https://doi.org/10.3390/rs10020235</ee><url>https://dblp.org/rec/journals/remotesensing/LinWWLFCZ18</url></info>
-<url>URL#1434153</url>
+<url>URL#1435232</url>
 </hit>
-<hit score="2" id="1501592">
+<hit score="2" id="1502671">
 <info><authors><author pid="88/1450">Liping Chen</author><author pid="95/3736">Jun Liu</author><author pid="27/7674">Weitao Ha</author></authors><title>Cloud Service Risk in the Smart Grid.</title><venue>CIS</venue><pages>242-244</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/cis/ChenLH18</key><doi>10.1109/CIS2018.2018.00060</doi><ee>https://doi.org/10.1109/CIS2018.2018.00060</ee><url>https://dblp.org/rec/conf/cis/ChenLH18</url></info>
-<url>URL#1501592</url>
+<url>URL#1502671</url>
 </hit>
-<hit score="2" id="1502172">
+<hit score="2" id="1503251">
 <info><authors><author pid="58/2821">Meng Dong</author><author pid="62/3265">Zhiliang Qiu</author><author pid="181/4789">Weitao Pan</author><author pid="42/736">Can Chen</author><author pid="73/3262">Junxiang Zhang</author><author pid="68/3245">Dong Zhang</author></authors><title>The Design and Implementation of IEEE 1588v2 Clock Synchronization System by Generating Hardware Timestamps in MAC Layer.</title><venue>CITS</venue><pages>1-5</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/cits/DongQPCZZ18</key><doi>10.1109/CITS.2018.8440195</doi><ee>https://doi.org/10.1109/CITS.2018.8440195</ee><url>https://dblp.org/rec/conf/cits/DongQPCZZ18</url></info>
-<url>URL#1502172</url>
+<url>URL#1503251</url>
 </hit>
-<hit score="2" id="1505758">
+<hit score="2" id="1506837">
 <info><authors><author pid="224/9602">Guangqiang Luan</author><author pid="22/2375">Yuebin Bai</author><author pid="194/1484">Libin Xu</author><author pid="36/6789-1">Chao Yu 0001</author><author pid="69/1950">Chunyang Wang</author><author pid="65/3210">Junfang Zeng</author><author pid="224/9562">Qingbin Chen</author><author pid="22/10826">Weitao Wang</author></authors><title>Towards Fault-Tolerant Task Backup and Recovery in the seL4 Microkernel.</title><venue>COMPSAC</venue><pages>721-726</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/compsac/LuanBXYWZCW18</key><doi>10.1109/COMPSAC.2018.00107</doi><ee>https://doi.org/10.1109/COMPSAC.2018.00107</ee><url>https://dblp.org/rec/conf/compsac/LuanBXYWZCW18</url></info>
-<url>URL#1505758</url>
+<url>URL#1506837</url>
 </hit>
-<hit score="2" id="1505885">
+<hit score="2" id="1506964">
 <info><authors><author pid="w/RuiWang14">Rui Wang 0014</author><author pid="194/1484">Libin Xu</author><author pid="22/2375">Yuebin Bai</author><author pid="48/7895">Kun Cheng</author><author pid="119/1197">Zhongzhao Wang</author><author pid="224/9602">Guangqiang Luan</author><author pid="94/8072">Hailong Yang</author><author pid="22/10826">Weitao Wang</author></authors><title>Research on Asynchronous Inter-VM Communication Mechanism Based on Embedded Hypervisor.</title><venue>COMPSAC</venue><pages>695-700</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/compsac/WangXBCWLYW18</key><doi>10.1109/COMPSAC.2018.00104</doi><ee>https://doi.org/10.1109/COMPSAC.2018.00104</ee><url>https://dblp.org/rec/conf/compsac/WangXBCWLYW18</url></info>
-<url>URL#1505885</url>
+<url>URL#1506964</url>
 </hit>
-<hit score="2" id="1510257">
+<hit score="2" id="1511336">
 <info><authors><author pid="211/5806">Weitao Wan</author><author pid="194/2743">Yuanyi Zhong</author><author pid="43/2861">Tianpeng Li</author><author pid="87/274">Jiansheng Chen</author></authors><title>Rethinking Feature Distribution for Loss Functions in Image Classification.</title><venue>CVPR</venue><pages>9117-9126</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/cvpr/WanZLC18</key><doi>10.1109/CVPR.2018.00950</doi><ee>http://openaccess.thecvf.com/content_cvpr_2018/html/Wan_Rethinking_Feature_Distribution_CVPR_2018_paper.html</ee><url>https://dblp.org/rec/conf/cvpr/WanZLC18</url></info>
-<url>URL#1510257</url>
+<url>URL#1511336</url>
 </hit>
-<hit score="2" id="1547007">
+<hit score="2" id="1548086">
 <info><authors><author pid="218/2004">Fuli Chen</author><author pid="03/1805">Rui Fan</author><author pid="226/7752">Bifeng Guo</author><author pid="116/1470">Fuyu Ma</author><author pid="226/7485">Weitao He</author></authors><title>Research into Effects of Shrimp Aquaculture by Extensible Mind Mapping.</title><venue>ICCCS</venue><pages>45-58</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icccsec/ChenFGMH18</key><doi>10.1007/978-3-030-00009-7_5</doi><ee>https://doi.org/10.1007/978-3-030-00009-7_5</ee><url>https://dblp.org/rec/conf/icccsec/ChenFGMH18</url></info>
-<url>URL#1547007</url>
+<url>URL#1548086</url>
 </hit>
-<hit score="2" id="1567637">
+<hit score="2" id="1568716">
 <info><authors><author pid="153/0171">Weitao Zhang</author><author pid="42/5786">Tianlong Gu</author><author pid="223/8405">Wenping Sun</author><author pid="227/6717">Phatpicha Yochum</author><author pid="72/6746-3">Liang Chang 0003</author><author pid="210/0267">Chenzhong Bin</author></authors><title>Travel Attractions Recommendation with Travel Spatial-Temporal Knowledge Graphs.</title><venue>ICPCSEE</venue><pages>213-226</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icycsee/ZhangGSPCB18</key><doi>10.1007/978-981-13-2206-8_19</doi><ee>https://doi.org/10.1007/978-981-13-2206-8_19</ee><url>https://dblp.org/rec/conf/icycsee/ZhangGSPCB18</url></info>
-<url>URL#1567637</url>
+<url>URL#1568716</url>
 </hit>
-<hit score="2" id="1613420">
+<hit score="2" id="1614499">
 <info><authors><author pid="43/6657">Jin Zhang</author><author pid="87/274">Jiansheng Chen</author><author pid="39/6548">Yiqing Huang</author><author pid="22/10826">Weitao Wang</author><author pid="43/2861">Tianpeng Li</author></authors><title>Applying Online Expert Supervision in Deep Actor-Critic Reinforcement Learning.</title><venue>PRCV</venue><pages>469-478</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/prcv/ZhangCHWL18</key><doi>10.1007/978-3-030-03335-4_41</doi><ee>https://doi.org/10.1007/978-3-030-03335-4_41</ee><url>https://dblp.org/rec/conf/prcv/ZhangCHWL18</url></info>
-<url>URL#1613420</url>
+<url>URL#1614499</url>
 </hit>
-<hit score="2" id="1658984">
+<hit score="2" id="1660063">
 <info><authors><author pid="211/5806">Weitao Wan</author><author pid="194/2743">Yuanyi Zhong</author><author pid="43/2861">Tianpeng Li</author><author pid="87/274">Jiansheng Chen</author></authors><title>Rethinking Feature Distribution for Loss Functions in Image Classification.</title><venue>CoRR</venue><volume>abs/1803.02988</volume><year>2018</year><type>Informal Publications</type><access>open</access><key>journals/corr/abs-1803-02988</key><ee>http://arxiv.org/abs/1803.02988</ee><url>https://dblp.org/rec/journals/corr/abs-1803-02988</url></info>
-<url>URL#1658984</url>
+<url>URL#1660063</url>
 </hit>
-<hit score="2" id="1701273">
+<hit score="2" id="1702352">
 <info><authors><author pid="173/0951">Keqiong Chen</author><author pid="21/1550">Jianping Wang</author><author pid="69/8130">Weitao Li</author><author pid="64/6025">Wei Li</author><author pid="51/4138">Yi Zhao</author></authors><title>Simulated Feedback Mechanism-Based Rotary Kiln Burning State Cognition Intelligence Method.</title><venue>IEEE Access</venue><volume>5</volume><pages>4458-4469</pages><year>2017</year><type>Journal Articles</type><access>open</access><key>journals/access/ChenWLLZ17</key><doi>10.1109/ACCESS.2017.2683480</doi><ee>https://doi.org/10.1109/ACCESS.2017.2683480</ee><url>https://dblp.org/rec/journals/access/ChenWLLZ17</url></info>
-<url>URL#1701273</url>
+<url>URL#1702352</url>
 </hit>
-<hit score="2" id="1701959">
+<hit score="2" id="1703038">
 <info><authors><author pid="69/8130">Weitao Li</author><author pid="21/1550">Jianping Wang</author><author pid="173/0951">Keqiong Chen</author><author pid="64/6025">Wei Li</author></authors><title>An Intelligent Cognition Method of Human Health States Based on a Variant Knowledge Granularity Feedback Mechanism.</title><venue>IEEE Access</venue><volume>5</volume><pages>19570-19580</pages><year>2017</year><type>Journal Articles</type><access>open</access><key>journals/access/LiWCL17</key><doi>10.1109/ACCESS.2017.2754283</doi><ee>https://doi.org/10.1109/ACCESS.2017.2754283</ee><url>https://dblp.org/rec/journals/access/LiWCL17</url></info>
-<url>URL#1701959</url>
+<url>URL#1703038</url>
 </hit>
-<hit score="2" id="1772671">
+<hit score="2" id="1773750">
 <info><authors><author pid="72/6746-3">Liang Chang 0003</author><author pid="180/6757">Yuting Cao</author><author pid="223/8405">Wenping Sun</author><author pid="153/0171">Weitao Zhang</author><author pid="171/3887">Juntong Chen</author></authors><title>旅游推荐系统研究综述 (Review on Tourism Recommendation System).</title><venue>计算机科学</venue><volume>44</volume><number>10</number><pages>1-6</pages><year>2017</year><type>Journal Articles</type><access>open</access><key>journals/jsjkx/ChangCSZC18</key><doi>10.11896/J.ISSN.1002-137X.2017.10.001</doi><ee>https://doi.org/10.11896/j.issn.1002-137X.2017.10.001</ee><url>https://dblp.org/rec/journals/jsjkx/ChangCSZC18</url></info>
-<url>URL#1772671</url>
+<url>URL#1773750</url>
 </hit>
-<hit score="2" id="1797878">
+<hit score="2" id="1798957">
 <info><authors><author pid="120/0091">Boxin Zuo</author><author pid="w/LizheWang">Lizhe Wang 0001</author><author pid="76/6121">Weitao Chen</author></authors><title>Full Tensor Eigenvector Analysis on Air-Borne Magnetic Gradiometer Data for the Detection of Dipole-Like Magnetic Sources.</title><venue>Sensors</venue><volume>17</volume><number>9</number><pages>1976</pages><year>2017</year><type>Journal Articles</type><access>open</access><key>journals/sensors/ZuoWC17</key><doi>10.3390/S17091976</doi><ee>https://doi.org/10.3390/s17091976</ee><url>https://dblp.org/rec/journals/sensors/ZuoWC17</url></info>
-<url>URL#1797878</url>
+<url>URL#1798957</url>
 </hit>
-<hit score="2" id="1854335">
+<hit score="2" id="1855414">
 <info><authors><author pid="88/1450">Liping Chen</author><author pid="27/7674">Weitao Ha</author></authors><title>Conformance Checking and QoS Selection Based on CPN for Web Service Composition.</title><venue>CIS</venue><pages>273-276</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/cis/ChenH17</key><doi>10.1109/CIS.2017.00066</doi><ee>https://doi.org/10.1109/CIS.2017.00066</ee><url>https://dblp.org/rec/conf/cis/ChenH17</url></info>
-<url>URL#1854335</url>
+<url>URL#1855414</url>
 </hit>
-<hit score="2" id="1903213">
+<hit score="2" id="1904292">
 <info><authors><author pid="74/3487">Cong Li</author><author pid="87/274">Jiansheng Chen</author><author pid="211/5806">Weitao Wan</author><author pid="43/2861">Tianpeng Li</author></authors><title>Combining Object-Based Attention and Attributes for Image Captioning.</title><venue>ICIG</venue><pages>614-625</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icig/LiCWL17</key><doi>10.1007/978-3-319-71607-7_54</doi><ee>https://doi.org/10.1007/978-3-319-71607-7_54</ee><url>https://dblp.org/rec/conf/icig/LiCWL17</url></info>
-<url>URL#1903213</url>
+<url>URL#1904292</url>
 </hit>
-<hit score="2" id="1904829">
+<hit score="2" id="1905908">
 <info><authors><author pid="211/5806">Weitao Wan</author><author pid="87/274">Jiansheng Chen</author></authors><title>Occlusion robust face recognition based on mask learning.</title><venue>ICIP</venue><pages>3795-3799</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icip/WanC17</key><doi>10.1109/ICIP.2017.8296992</doi><ee>https://doi.org/10.1109/ICIP.2017.8296992</ee><url>https://dblp.org/rec/conf/icip/WanC17</url></info>
-<url>URL#1904829</url>
+<url>URL#1905908</url>
 </hit>
-<hit score="2" id="1911509">
+<hit score="2" id="1912588">
 <info><authors><author pid="203/5191">Wei-Tao Li</author><author pid="06/9183">Yen-Chen Liu</author></authors><title>Dynamic coverage control for mobile robot network with limited and nonidentical sensory ranges.</title><venue>ICRA</venue><pages>775-780</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icra/LiL17</key><doi>10.1109/ICRA.2017.7989095</doi><ee>https://doi.org/10.1109/ICRA.2017.7989095</ee><url>https://dblp.org/rec/conf/icra/LiL17</url></info>
-<url>URL#1911509</url>
+<url>URL#1912588</url>
 </hit>
-<hit score="2" id="2080132">
+<hit score="2" id="2081211">
 <info><authors><author pid="69/8130">Weitao Li</author><author pid="173/0951">Keqiong Chen</author><author pid="04/6192">Dianhui Wang</author></authors><title>Industrial image classification using a randomized neural-net ensemble and feedback mechanism.</title><venue>Neurocomputing</venue><volume>173</volume><pages>708-714</pages><year>2016</year><type>Journal Articles</type><access>closed</access><key>journals/ijon/LiCW16</key><doi>10.1016/J.NEUCOM.2015.08.019</doi><ee>https://doi.org/10.1016/j.neucom.2015.08.019</ee><url>https://dblp.org/rec/journals/ijon/LiCW16</url></info>
-<url>URL#2080132</url>
+<url>URL#2081211</url>
 </hit>
-<hit score="2" id="2101092">
+<hit score="2" id="2102171">
 <info><authors><author pid="76/6121">Weitao Chen</author><author pid="122/4898">Ching-Shan Chou</author><author pid="13/2338">Chiu-Yen Kao</author></authors><title>Minimizing Eigenvalues for Inhomogeneous Rods and Plates.</title><venue>J. Sci. Comput.</venue><volume>69</volume><number>3</number><pages>983-1013</pages><year>2016</year><type>Journal Articles</type><access>closed</access><key>journals/jscic/ChenCK16</key><doi>10.1007/S10915-016-0222-9</doi><ee>https://doi.org/10.1007/s10915-016-0222-9</ee><url>https://dblp.org/rec/journals/jscic/ChenCK16</url></info>
-<url>URL#2101092</url>
+<url>URL#2102171</url>
 </hit>
-<hit score="2" id="2115125">
+<hit score="2" id="2116204">
 <info><authors><author pid="76/6121">Weitao Chen</author><author pid="55/6873">Qing Nie</author><author pid="92/1931">Tau-Mu Yi</author><author pid="122/4898">Ching-Shan Chou</author></authors><title>Modelling of Yeast Mating Reveals Robustness Strategies for Cell-Cell Interactions.</title><venue>PLoS Comput. Biol.</venue><volume>12</volume><number>7</number><year>2016</year><type>Journal Articles</type><access>open</access><key>journals/ploscb/ChenNYC16</key><doi>10.1371/JOURNAL.PCBI.1004988</doi><ee>https://doi.org/10.1371/journal.pcbi.1004988</ee><url>https://dblp.org/rec/journals/ploscb/ChenNYC16</url></info>
-<url>URL#2115125</url>
+<url>URL#2116204</url>
 </hit>
-<hit score="2" id="2389345">
+<hit score="2" id="2390424">
 <info><authors><author pid="27/7674">Weitao Ha</author><author pid="56/4451">Guojun Zhang</author><author pid="88/1450">Liping Chen</author></authors><title>Conformance Checking and QoS Selection Based on CPN for Web Service Composition.</title><venue>Int. J. Pattern Recognit. Artif. Intell.</venue><volume>29</volume><number>2</number><pages>1559002:1-1559002:16</pages><year>2015</year><type>Journal Articles</type><access>closed</access><key>journals/ijprai/HaZC15</key><doi>10.1142/S0218001415590028</doi><ee>https://doi.org/10.1142/S0218001415590028</ee><url>https://dblp.org/rec/journals/ijprai/HaZC15</url></info>
-<url>URL#2389345</url>
+<url>URL#2390424</url>
 </hit>
-<hit score="2" id="2399982">
+<hit score="2" id="2401061">
 <info><authors><author pid="141/4787">Dongyong Wang</author><author pid="76/6121">Weitao Chen</author><author pid="55/6873">Qing Nie</author></authors><title>Semi-implicit integration factor methods on sparse grids for high-dimensional systems.</title><venue>J. Comput. Phys.</venue><volume>292</volume><pages>43-55</pages><year>2015</year><type>Journal Articles</type><access>closed</access><key>journals/jcphy/WangCN15</key><doi>10.1016/J.JCP.2015.03.033</doi><ee>https://doi.org/10.1016/j.jcp.2015.03.033</ee><url>https://dblp.org/rec/journals/jcphy/WangCN15</url></info>
-<url>URL#2399982</url>
+<url>URL#2401061</url>
 </hit>
-<hit score="2" id="2407920">
+<hit score="2" id="2408999">
 <info><authors><author pid="76/6121">Weitao Chen</author><author pid="122/4898">Ching-Shan Chou</author><author pid="13/2338">Chiu-Yen Kao</author></authors><title>Lax-Friedrichs Multigrid Fast Sweeping Methods for Steady State Problems for Hyperbolic Conservation Laws.</title><venue>J. Sci. Comput.</venue><volume>64</volume><number>3</number><pages>591-618</pages><year>2015</year><type>Journal Articles</type><access>closed</access><key>journals/jscic/ChenCK15</key><doi>10.1007/S10915-015-0006-7</doi><ee>https://doi.org/10.1007/s10915-015-0006-7</ee><url>https://dblp.org/rec/journals/jscic/ChenCK15</url></info>
-<url>URL#2407920</url>
+<url>URL#2408999</url>
 </hit>
-<hit score="2" id="2407921">
+<hit score="2" id="2409000">
 <info><authors><author pid="76/6121">Weitao Chen</author><author pid="122/4898">Ching-Shan Chou</author><author pid="13/2338">Chiu-Yen Kao</author></authors><title>Erratum to - Lax-Friedrichs Multigrid Fast Sweeping Methods for Steady State Problems for Hyperbolic Conservation Laws.</title><venue>J. Sci. Comput.</venue><volume>64</volume><number>3</number><pages>619</pages><year>2015</year><type>Journal Articles</type><access>open</access><key>journals/jscic/ChenCK15a</key><doi>10.1007/S10915-015-0025-4</doi><ee>https://doi.org/10.1007/s10915-015-0025-4</ee><url>https://dblp.org/rec/journals/jscic/ChenCK15a</url></info>
-<url>URL#2407921</url>
+<url>URL#2409000</url>
 </hit>
-<hit score="2" id="2469041">
+<hit score="2" id="2470120">
 <info><authors><author pid="97/1483">WeiTao Yuan</author><author pid="95/328">Na Lin</author><author pid="96/989">Hanning Chen</author><author pid="136/0900">Xiaodan Liang</author><author pid="144/0852">Maowei He</author></authors><title>A NSGA-II with ADMM Mutation for Solving Multi-objective Robust PCA Problem.</title><venue>BIC-TA</venue><pages>583-597</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/bic-ta/YuanLCLH15</key><doi>10.1007/978-3-662-49014-3_52</doi><ee>https://doi.org/10.1007/978-3-662-49014-3_52</ee><url>https://dblp.org/rec/conf/bic-ta/YuanLCLH15</url></info>
-<url>URL#2469041</url>
+<url>URL#2470120</url>
 </hit>
-<hit score="2" id="2480170">
+<hit score="2" id="2481249">
 <info><authors><author pid="88/1450">Liping Chen</author><author pid="27/7674">Weitao Ha</author><author pid="56/4451">Guojun Zhang</author></authors><title>Evaluation Model of Web Service Health Level on End-to-End Network Based on Artificial Immune.</title><venue>CIS</venue><pages>18-21</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/cis/ChenHZ15</key><doi>10.1109/CIS.2015.13</doi><ee>https://doi.org/10.1109/CIS.2015.13</ee><url>https://dblp.org/rec/conf/cis/ChenHZ15</url></info>
-<url>URL#2480170</url>
+<url>URL#2481249</url>
 </hit>
-<hit score="2" id="2529962">
+<hit score="2" id="2531041">
 <info><authors><author pid="96/989">Hanning Chen</author><author pid="136/0900">Xiaodan Liang</author><author pid="97/1483">WeiTao Yuan</author><author pid="167/1292">Liling Sun</author><author pid="144/0852">Maowei He</author><author pid="256/4198">Nuo Ji</author></authors><title>Root system growth for global optimization.</title><venue>ICIA</venue><pages>2098-2103</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icinfa/ChenLYSHJ15</key><doi>10.1109/ICINFA.2015.7279634</doi><ee>https://doi.org/10.1109/ICInfA.2015.7279634</ee><url>https://dblp.org/rec/conf/icinfa/ChenLYSHJ15</url></info>
-<url>URL#2529962</url>
+<url>URL#2531041</url>
 </hit>
-<hit score="2" id="2544121">
+<hit score="2" id="2545200">
 <info><authors><author pid="126/2386">Kunya Fu</author><author pid="71/3417">Hongxin Cao</author><author pid="12/53">Wenyu Zhang</author><author pid="85/10900">Weixin Zhang</author><author pid="15/1045">Daokuo Ge</author><author pid="150/4295-48">Yan Liu 0048</author><author pid="168/6057">Chunhuan Feng</author><author pid="76/6121">Weitao Chen</author></authors><title>Analysis of Changes in Agronomic Parameters and Disease Index of Rapeseed Leaf Leukoplakia Based on Spectra.</title><venue>CCTA</venue><pages>637-653</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ifip12/FuCZZGLFC15</key><doi>10.1007/978-3-319-48357-3_61</doi><ee>https://doi.org/10.1007/978-3-319-48357-3_61</ee><url>https://dblp.org/rec/conf/ifip12/FuCZZGLFC15</url></info>
-<url>URL#2544121</url>
+<url>URL#2545200</url>
 </hit>
-<hit score="2" id="2544246">
+<hit score="2" id="2545325">
 <info><authors><author pid="85/10900">Weixin Zhang</author><author pid="71/3417">Hongxin Cao</author><author pid="12/53">Wenyu Zhang</author><author pid="150/4295-48">Yan Liu 0048</author><author pid="15/1045">Daokuo Ge</author><author pid="168/6057">Chunhuan Feng</author><author pid="76/6121">Weitao Chen</author><author pid="189/6814">Chuwei Song</author></authors><title>Rapeseed (Brassica napus L.) Primary Ramification Morphological Structural Model Based on Biomass.</title><venue>CCTA</venue><pages>502-518</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ifip12/ZhangCZLGFCS15</key><doi>10.1007/978-3-319-48357-3_47</doi><ee>https://doi.org/10.1007/978-3-319-48357-3_47</ee><url>https://dblp.org/rec/conf/ifip12/ZhangCZLGFCS15</url></info>
-<url>URL#2544246</url>
+<url>URL#2545325</url>
 </hit>
-<hit score="2" id="2544251">
+<hit score="2" id="2545330">
 <info><authors><author pid="12/53">Wenyu Zhang</author><author pid="85/10900">Weixin Zhang</author><author pid="15/1045">Daokuo Ge</author><author pid="71/3417">Hongxin Cao</author><author pid="150/4295-48">Yan Liu 0048</author><author pid="126/2386">Kunya Fu</author><author pid="168/6057">Chunhuan Feng</author><author pid="76/6121">Weitao Chen</author><author pid="189/6814">Chuwei Song</author></authors><title>Biomass-Based Leaf Curvilinear Model for Rapeseed (Brassica napus L.).</title><venue>CCTA</venue><pages>459-472</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ifip12/ZhangZGCLFFCS15</key><doi>10.1007/978-3-319-48357-3_44</doi><ee>https://doi.org/10.1007/978-3-319-48357-3_44</ee><url>https://dblp.org/rec/conf/ifip12/ZhangZGCLFFCS15</url></info>
-<url>URL#2544251</url>
+<url>URL#2545330</url>
 </hit>
-<hit score="2" id="2663653">
+<hit score="2" id="2664968">
 <info><authors><author pid="44/185-1">Yanwen Guo 0001</author><author pid="14/3310">Ye Chen</author><author pid="06/5966">Feng Tang</author><author pid="33/2805">Ang Li</author><author pid="65/8349">Weitao Luo</author><author pid="18/5977">Mingming Liu</author></authors><title>Object tracking using learned feature manifolds.</title><venue>Comput. Vis. Image Underst.</venue><volume>118</volume><pages>128-139</pages><year>2014</year><type>Journal Articles</type><access>closed</access><key>journals/cviu/GuoCTLLL14</key><doi>10.1016/J.CVIU.2013.09.007</doi><ee>https://doi.org/10.1016/j.cviu.2013.09.007</ee><url>https://dblp.org/rec/journals/cviu/GuoCTLLL14</url></info>
-<url>URL#2663653</url>
+<url>URL#2664968</url>
 </hit>
-<hit score="2" id="2686877">
+<hit score="2" id="2688192">
 <info><authors><author pid="88/1450">Liping Chen</author><author pid="56/4451">Guojun Zhang</author><author pid="27/7674">Weitao Ha</author></authors><title>Conformance checking for interaction of web service composition with temporal logic.</title><venue>Int. J. Sens. Networks</venue><volume>16</volume><number>4</number><pages>217-228</pages><year>2014</year><type>Journal Articles</type><access>closed</access><key>journals/ijsnet/ChenZH14</key><doi>10.1504/IJSNET.2014.067095</doi><ee>https://doi.org/10.1504/IJSNET.2014.067095</ee><url>https://dblp.org/rec/journals/ijsnet/ChenZH14</url></info>
-<url>URL#2686877</url>
+<url>URL#2688192</url>
 </hit>
-<hit score="2" id="2983412">
+<hit score="2" id="2984756">
 <info><authors><author pid="76/6121">Weitao Chen</author><author pid="122/4898">Ching-Shan Chou</author><author pid="13/2338">Chiu-Yen Kao</author></authors><title>Lax-Friedrichs fast sweeping methods for steady state problems for hyperbolic conservation laws.</title><venue>J. Comput. Phys.</venue><volume>234</volume><pages>452-471</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/jcphy/ChenCK13</key><doi>10.1016/J.JCP.2012.10.008</doi><ee>https://doi.org/10.1016/j.jcp.2012.10.008</ee><url>https://dblp.org/rec/journals/jcphy/ChenCK13</url></info>
-<url>URL#2983412</url>
+<url>URL#2984756</url>
 </hit>
-<hit score="2" id="3579678">
+<hit score="2" id="3581034">
 <info><authors><author pid="56/4451">Guojun Zhang</author><author pid="88/1450">Liping Chen</author><author pid="27/7674">Weitao Ha</author></authors><title>The Design of Cooperative Intrusion Detection System.</title><venue>CIS</venue><pages>764-766</pages><year>2011</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/cis/ZhangCH11</key><doi>10.1109/CIS.2011.173</doi><ee>https://doi.org/10.1109/CIS.2011.173</ee><url>https://dblp.org/rec/conf/cis/ZhangCH11</url></info>
-<url>URL#3579678</url>
+<url>URL#3581034</url>
 </hit>
-<hit score="2" id="3819471">
+<hit score="2" id="3820827">
 <info><authors><author pid="88/1450">Liping Chen</author><author pid="56/4451">Guojun Zhang</author><author pid="27/7674">Weitao Ha</author></authors><title>A Reliable Service Quality Evaluation Model in the Web Services Community.</title><venue>CIS</venue><pages>457-460</pages><year>2010</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/cis/ChenZH10</key><doi>10.1109/CIS.2010.106</doi><ee>https://doi.org/10.1109/CIS.2010.106</ee><url>https://dblp.org/rec/conf/cis/ChenZH10</url></info>
-<url>URL#3819471</url>
+<url>URL#3820827</url>
 </hit>
-<hit score="2" id="3919666">
+<hit score="2" id="3921022">
 <info><authors><author pid="22/10014">Qunchao Feng</author><author pid="58/10013">Yuanzhi Chen</author><author pid="17/10015">Weitao Du</author></authors><title>An improved feedback cancelling method for on-channel repeater.</title><venue>WCNIS</venue><pages>158-161</pages><year>2010</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wcnis/FengCD10</key><doi>10.1109/WCINS.2010.5541911</doi><ee>https://doi.org/10.1109/WCINS.2010.5541911</ee><url>https://dblp.org/rec/conf/wcnis/FengCD10</url></info>
-<url>URL#3919666</url>
+<url>URL#3921022</url>
 </hit>
-<hit score="2" id="4042283">
+<hit score="2" id="4043639">
 <info><authors><author pid="88/1450">Liping Chen</author><author pid="27/7674">Weitao Ha</author><author pid="56/4451">Guojun Zhang</author></authors><title>A New Web Service Evaluation Model with Fuzzy C-Means Artificial Immune Network Memory Classifier.</title><venue>CIS</venue><pages>25-29</pages><year>2009</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/cis/ChenHZ09</key><doi>10.1109/CIS.2009.112</doi><ee>https://doi.org/10.1109/CIS.2009.112</ee><url>https://dblp.org/rec/conf/cis/ChenHZ09</url></info>
-<url>URL#4042283</url>
+<url>URL#4043639</url>
 </hit>
-<hit score="2" id="4107825">
+<hit score="2" id="4109181">
 <info><authors><author pid="21/3616">Xianzhang Feng</author><author pid="05/7657">Liangji Chen</author><author pid="72/7894">Weitao Niu</author><author pid="42/5009">Cai Liu</author><author pid="08/500">Junhui Li</author></authors><title>Research and Application of Set-Top Box Based on IP.</title><venue>JCAI</venue><pages>723-726</pages><year>2009</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/jcai/FengCNLL09</key><doi>10.1109/JCAI.2009.85</doi><ee>https://doi.org/10.1109/JCAI.2009.85</ee><url>https://dblp.org/rec/conf/jcai/FengCNLL09</url></info>
-<url>URL#4107825</url>
+<url>URL#4109181</url>
 </hit>
-<hit score="2" id="4209322">
+<hit score="2" id="4210678">
 <info><authors><author pid="130/9474">Qing-Ding Wei</author><author pid="26/2604">Jian-Ming Wang</author><author pid="09/4891">Guang Chen</author><author pid="67/9681">Zhan-Bin Lu</author><author pid="55/9682">Wei-Tao Bi</author></authors><title>Modification of junction flows by altering the section shapes of the cylinders.</title><venue>J. Vis.</venue><volume>11</volume><number>2</number><pages>115-124</pages><year>2008</year><type>Journal Articles</type><access>closed</access><key>journals/jvis/WeiWCLB08</key><doi>10.1007/BF03181926</doi><ee>https://doi.org/10.1007/BF03181926</ee><url>https://dblp.org/rec/journals/jvis/WeiWCLB08</url></info>
-<url>URL#4209322</url>
+<url>URL#4210678</url>
 </hit>
-<hit score="2" id="4284583">
+<hit score="2" id="4285939">
 <info><authors><author pid="46/2094">Wei-tao Shaw</author><author pid="59/1329">Shing-Wa Wong</author><author pid="86/797">Ning Cheng</author><author pid="69/7046">Koussalya Balasubramanian</author><author pid="60/6865">Chunming Qiao</author><author pid="16/3526">She-Hwa Yen</author><author pid="k/LeonidGKazovsky">Leonid G. Kazovsky</author></authors><title>Reconfigurable Optical Backhaul and Integrated Routing Algorithm for Load Balancing in Hybrid Optical-Wireless Access Networks.</title><venue>ICC</venue><pages>5697-5701</pages><year>2008</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icc/ShawWCBQYK08</key><doi>10.1109/ICC.2008.1067</doi><ee>https://doi.org/10.1109/ICC.2008.1067</ee><url>https://dblp.org/rec/conf/icc/ShawWCBQYK08</url></info>
-<url>URL#4284583</url>
+<url>URL#4285939</url>
 </hit>
-<hit score="2" id="4470252">
+<hit score="2" id="4471608">
 <info><authors><author pid="59/1329">Shing-Wa Wong</author><author pid="46/2094">Wei-tao Shaw</author><author pid="69/7046">Koussalya Balasubramanian</author><author pid="86/797">Ning Cheng</author><author pid="k/LeonidGKazovsky">Leonid Kazovsky</author></authors><title>MARIN - Demonstration of a Flexible and Dynamic Metro-Access Integrated Architecture.</title><venue>GLOBECOM</venue><pages>2173-2177</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/globecom/WongSBCK07</key><doi>10.1109/GLOCOM.2007.415</doi><ee>https://doi.org/10.1109/GLOCOM.2007.415</ee><url>https://dblp.org/rec/conf/globecom/WongSBCK07</url></info>
-<url>URL#4470252</url>
+<url>URL#4471608</url>
 </hit>
-<hit score="2" id="4478259">
+<hit score="2" id="4479615">
 <info><authors><author pid="89/2407">Xiao Yu</author><author pid="76/6121">Weitao Chen</author><author pid="85/6470">Pengfei Huang</author><author pid="08/1088">Sizhe Lv</author><author pid="49/3086">Lixu Gu</author></authors><title>New Tetrahedral Mesh Generation Method based on Delaunay Criteria and Space Disassembling.</title><venue>ICAT</venue><pages>228-233</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icat/YuCHLG07</key><doi>10.1109/ICAT.2007.32</doi><ee>https://doi.org/10.1109/ICAT.2007.32</ee><url>https://dblp.org/rec/conf/icat/YuCHLG07</url></info>
-<url>URL#4478259</url>
+<url>URL#4479615</url>
 </hit>
-<hit score="2" id="4627814">
+<hit score="2" id="4629170">
 <info><authors><author pid="46/2094">Wei-tao Shaw</author><author pid="59/1329">Shing-Wa Wong</author><author pid="74/522">Yu-Li Hsueh</author><author pid="86/797">Ning Cheng</author><author pid="k/LeonidGKazovsky">Leonid G. Kazovsky</author></authors><title>Burst Switching Metro-Access Ring Integrated Network.</title><venue>BROADNETS</venue><year>2006</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/broadnets/ShawWHCK06</key><doi>10.1109/BROADNETS.2006.4374327</doi><ee>https://doi.org/10.1109/BROADNETS.2006.4374327</ee><url>https://dblp.org/rec/conf/broadnets/ShawWHCK06</url></info>
-<url>URL#4627814</url>
+<url>URL#4629170</url>
 </hit>
-<hit score="2" id="4652478">
+<hit score="2" id="4653834">
 <info><authors><author pid="46/2094">Wei-tao Shaw</author><author pid="49/689">G. Kalogerakis</author><author pid="59/1329">Shing-Wa Wong</author><author pid="74/522">Yu-Li Hsueh</author><author pid="86/797">Ning Cheng</author><author pid="83/1690">Shing-Hwa Yen</author><author pid="79/3081">Michel E. Marhic</author><author pid="k/LeonidGKazovsky">Leonid G. Kazovsky</author></authors><title>MARIN - Metro-Access Ring Integrated Network.</title><venue>GLOBECOM</venue><year>2006</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/globecom/ShawKWHCYMK06</key><doi>10.1109/GLOCOM.2006.371</doi><ee>https://doi.org/10.1109/GLOCOM.2006.371</ee><url>https://dblp.org/rec/conf/globecom/ShawKWHCYMK06</url></info>
-<url>URL#4652478</url>
+<url>URL#4653834</url>
 </hit>
-<hit score="2" id="4690002">
+<hit score="2" id="4691358">
 <info><authors><author pid="46/2094">Wei-tao Shaw</author><author pid="61/2920">David Gutierrez</author><author pid="28/4098">Kyeong Soo Kim</author><author pid="86/797">Ning Cheng</author><author pid="16/4209">Shing-Hwa Wong</author><author pid="83/1690">Shing-Hwa Yen</author></authors><title>Grid Reconfigurable Optical Wireless Network (GROW-Net) - A New Hybrid Optical Wireless Access Network Architecture.</title><venue>JCIS</venue><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/jcis/ShawGKCWY06</key><doi>10.2991/JCIS.2006.316</doi><ee>https://doi.org/10.2991/jcis.2006.316</ee><url>https://dblp.org/rec/conf/jcis/ShawGKCWY06</url></info>
-<url>URL#4690002</url>
+<url>URL#4691358</url>
 </hit>
 </hits>
 </result>

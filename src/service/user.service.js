@@ -1,6 +1,14 @@
 const connection = require('../app/database')
+const axios = require('axios')
 
 class userService {
+    // //0:获取用户名对应列表
+    async getNameInfo(username) {
+        const res = await axios.get(`https://dblp.org/search/author/api?q=${username}%3D&h=1000&format=json`)
+        return res
+    }
+
+
     // //1:插入数据到user中
     async create(user) {
         //执行SQL语句,返回结果
@@ -86,7 +94,7 @@ class userService {
     async getArticleInfo(username) {
         const statement = `select * from dblp where author = ?;`;
         let res = await connection.execute(statement, [username]);
-        // console.log(res);
+        // console.log('a');
         return res[0]
     }
 }

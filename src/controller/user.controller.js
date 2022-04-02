@@ -15,6 +15,32 @@ const {
 
 
 class userController {
+
+    //// 0:获取用户名对应列表
+    async getNameInfo(ctx, next) {
+        // 获取用户请求传递的参数
+        const {
+            username
+        } = ctx.query
+        const res = await userService.getNameInfo(username)
+        // const res = await axios.get(`https://dblp.org/search/author/api?q=${username}%3D&h=1000&format=json`)
+
+        // 获取SQL语句执行结果,设置到ctx.body中
+        // 无法直接返回JSON数据
+        if (res.status === 200) {
+            ctx.body = {
+                status: 200,
+                message: '获取用户信息成功',
+                info: JSON.stringify(res.data)
+            }
+        } else {
+            ctx.body = {
+                status: 400,
+                message: '获取用户信息失败',
+            }
+        }
+    }
+
     //1:创建用户
     async register(ctx, next) {
         // 获取用户请求传递的参数
@@ -134,15 +160,16 @@ class userController {
 
         //2:将信息存储到dblp表中
         let res = await userService.getArticleInfo(username)
+        // console.log(res.length);
         // 返回的数组为空，即用户信息还没有插入到mysql
         if (!res.length) {
             axios.get(`https://dblp.org/search/publ/api?q=${username}&h=1000&format=xml`)
                 .then(async re => {
+                    let filename = path.resolve('src/py/data', `${username}.xml`)
                     let options = {
                         mode: 'text',
-                        args: [path.resolve('src/py/data', `${username}.xml`), username]
+                        args: [filename, username]
                     }
-                    let filename = path.resolve('src/py/data', `${username}.xml`)
                     fs.writeFile(filename, re.data, {
                         flag: 'w'
                     }, (err) => {
@@ -150,18 +177,27 @@ class userController {
                             console.log(err)
                         }
                     })
-                    PythonShell.run('./src/py/main.py', options, function (err) {
+                    PythonShell.run('./src/py/api/getArticleInfo.py', options, async function (err) {
                         if (err) throw err;
                         console.log('finished');
+                        // 3:获取dblp表中该作者的论文数据
+                        const articleInfo = await userService.getArticleInfo(username)
+                        // console.log(articleInfo);
+                        ctx.body = {
+                            status: 200,
+                            message: '获取论文信息成功',
+                            info: articleInfo
+                        }
                     });
 
-                    // 3:获取dblp表中该作者的论文数据
-                    const articleInfo = await userService.getArticleInfo(username)
-                    ctx.body = {
-                        status: 200,
-                        message: '获取论文信息成功',
-                        info: articleInfo
-                    }
+                    // // 3:获取dblp表中该作者的论文数据
+                    // const articleInfo = await userService.getArticleInfo(username)
+                    // console.log(articleInfo);
+                    // ctx.body = {
+                    //     status: 200,
+                    //     message: '获取论文信息成功',
+                    //     info: articleInfo
+                    // }
                 }).catch(err => {
                     ctx.body = {
                         status: 500,

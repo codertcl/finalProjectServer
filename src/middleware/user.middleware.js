@@ -3,11 +3,11 @@ const userService = require('../service/user.service')
 const md5password = require('../utils/password-handle')
 //验证用户信息
 const verifyUser = async (ctx, next) => {
-    //1:获取用户信息
+    //1:获取用户信息 可能有get或者post请求
     const {
         username,
         password
-    } = ctx.request.body
+    } = Object.keys(ctx.query).length ? ctx.query : ctx.request.body
 
     //2:用户信息不能为空  空字符串==null false  !''为TRUE
     if (!username || !password) {

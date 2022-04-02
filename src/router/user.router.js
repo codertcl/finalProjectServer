@@ -17,9 +17,13 @@ const {
     updateUserInfo,
     updatePassword,
     updateProfileEducation,
-    getArticleInfo
+    getArticleInfo,
+    getNameInfo
 } = require('../controller/user.controller')
 
+
+// 0:获取用户名对应列表
+userRouter.get('/getNameInfo', verifyUser, getNameInfo)
 // 1:用户注册
 userRouter.post('/register', verifyUser, handlePassword, register)
 // 2:用户登录
