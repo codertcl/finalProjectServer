@@ -94,7 +94,6 @@ class userService {
     async getArticleInfo(username) {
         const statement = `select * from dblp where author = ?;`;
         let res = await connection.execute(statement, [username]);
-        // console.log('a');
         return res[0]
     }
 }

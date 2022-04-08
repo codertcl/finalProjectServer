@@ -35,5 +35,5 @@ userRouter.patch('/:id/updatePassword', verifyAuth, handlePassword, updatePasswo
 //:5更新用户学术信息
 userRouter.patch('/:id/updateProfileEducation', verifyAuth, updateProfileEducation)
 //:6获取用户论文信息
-userRouter.get('/:username/getArticleInfo', verifyAuth, getArticleInfo)
+// userRouter.get('/:username/getArticleInfo', verifyAuth, getArticleInfo)
 module.exports = userRouter
