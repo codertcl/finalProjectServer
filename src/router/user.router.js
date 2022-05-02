@@ -8,7 +8,6 @@ const {
 
 const {
     verifyAuth,
-    // verifyPermission,
     verifyLogin
 } = require('../middleware/auth.middleware')
 const {

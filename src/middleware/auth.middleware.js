@@ -62,61 +62,8 @@ const verifyAuth = async (ctx, next) => {
     }
 }
 
-/**
- * 1.很多的内容都需要验证权限: 修改/删除动态, 修改/删除评论
- * 2.接口: 业务接口系统/后端管理系统
- *  一对一: user -> role
- *  多对多: role -> menu(删除动态/修改动态)
- *
- * 3.传入表名方式
- *  3.1:使用闭包，verifyPermission函数参数为tableName，在router文件中传入
- *      将校验函数作为返回值返回，并在router文件中调用
- *  3.2: 通过Object.keys(ctx.params)获取到在url中传入的参数{commentId:}或者{moemntId:}
- *      通过replace方法获取到要操作的表名tableName
- */
-//
-const verifyPermission = async (ctx, next) => {
-    const {
-        id
-    } = ctx.user;
-    //获取当前操作的表名
-    const [resourceKey] = Object.keys(ctx.params)
-    let tableName = resourceKey.replace('Id', '')
-    let resourceId = ctx.params[resourceKey]
-    //2:查询要修改/删除的信息对应的用户 判断是否是本人的
-    const isPremit = await authService.checkResource(tableName, resourceId, id)
-    if (isPremit) {
-        await next()
-    } else {
-        const error = new Error(errorType.UNPERMISSION)
-        ctx.app.emit('error', error, ctx)
-    }
-}
-
-
-// 判断用户在查看自己关注的人的所有动态列表时是否有权限
-const verifyGetPermission = async (ctx, next) => {
-    //1:获取要查看的所有关注者动态列表的用户id
-    const {
-        userId
-    } = ctx.params;
-    // 当前登录的用户id
-    const {
-        id
-    } = ctx.user;
-
-    //2:判断请求路径中的用户id 判断是否是本人的
-    if (id == userId) {
-        await next()
-    } else {
-        const error = new Error(errorType.UNPERMISSION)
-        ctx.app.emit('error', error, ctx)
-    }
-}
 
 module.exports = {
     verifyLogin,
     verifyAuth,
-    verifyPermission,
-    verifyGetPermission
 }
