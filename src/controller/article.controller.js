@@ -41,32 +41,22 @@ class articleController {
         } = ctx.params
         // 先删除用户论文数据
         await articleService.deleteArticleInfo(username)
-        // 2:判断数据库内是否已经存储了该用户的数据
-        const info = await articleService.getArticleInfo(username)
-        // 已经存在于mysql中
-        if (info.length) {
+       
+        // 重新获取用户数据
+        const res = await articleService.insertArticle(username)
+        console.log(res.length);
+        if (res) {
             ctx.body = {
                 status: 200,
                 message: '获取论文信息成功',
-                info
+                info: res
             }
         } else {
-            const res = await articleService.insertArticle(username)
-            console.log(res.length);
-            if (res) {
-                ctx.body = {
-                    status: 200,
-                    message: '获取论文信息成功',
-                    info: res
-                }
-            } else {
-                ctx.body = {
-                    status: 500,
-                    message: '获取论文信息失败',
-                }
+            ctx.body = {
+                status: 500,
+                message: '获取论文信息失败',
             }
         }
     }
-
 }
 module.exports = new articleController()
