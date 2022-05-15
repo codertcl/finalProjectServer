@@ -1,8 +1,7 @@
 const Router = require('koa-router');
 const articleRouter = new Router()
 
-const {
-} = require('../middleware/user.middleware')
+const {} = require('../middleware/user.middleware')
 
 const {
     verifyAuth,

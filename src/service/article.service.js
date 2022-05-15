@@ -17,14 +17,15 @@ class articleService {
 
                 if (authors.toLocaleLowerCase().includes(username.toLocaleLowerCase()) && item.info.type === 'Journal Articles') {
                     // 构造where查询条件
-                    let name = "replace(replace(replace(replace(replace(replace(replace(replace(replace(lower(name),' on ',' '),' and ',' '),' a ',' '),' of ',' '),' the ',' '),' & ', ' '),'japan', 'jpn'),'-',' '),' in ',' ')"
+                    let name = "replace(replace(replace(replace(replace(replace(replace(replace(replace(lower(name),' on ',' ')," +
+                        "' and ',' '),' a ',' '),' of ',' '),' the ',' '),' & ', ' '),'japan', 'jpn'),'-',' '),' in ',' ')"
                     let venue = `replace(replace(lower("${'^' + item.info.venue + '$'}"),'.','.*'),'-',' ')`
                     // 查询journals表中的数据
                     let statement = `select * from journals where ${name} REGEXP ${venue}`
                     let res = await connection.execute(statement);
                     res = res[0]?.[0]
                     authors = authors.substring(0, authors.length - 1);
-                    sql = sql + "'" + authors + "', '" + username + "', '" + item.info.title + "', '" + item.info.venue + "', '" +
+                    sql = sql + "'" + authors + "', '" + username.toLowerCase() + "', '" + item.info.title + "', '" + item.info.venue + "', '" +
                         item.info.volunme + "', '" + item.info.number + "', '" + item.info.pages + "', '" + item.info.year + "', '" +
                         item.info.type + "', '" + item.info.key + "', '" + item.info.doi + "', '" + item.info.ee + "', '" +
                         item.info.url + "', '" + res?.name + "', '" + res?.IF + "', '" + res?.ISSN + "', '" +

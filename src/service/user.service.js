@@ -75,7 +75,6 @@ class userService {
             academic_duties,
             prize,
             education_experience,
-            //  articles,
         } = info
 
         const statement = `update user set self_introduction=?,research_fields=?,academic_duties=?,

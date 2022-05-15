@@ -11,9 +11,6 @@ const {
 } = require("../app/config");
 
 
-// const fileService = require('../service/file.service')
-
-
 class userController {
 
     //// 0:获取用户名对应列表

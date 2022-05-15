@@ -41,10 +41,9 @@ class articleController {
         } = ctx.params
         // 先删除用户论文数据
         await articleService.deleteArticleInfo(username)
-       
+
         // 重新获取用户数据
         const res = await articleService.insertArticle(username)
-        console.log(res.length);
         if (res) {
             ctx.body = {
                 status: 200,
