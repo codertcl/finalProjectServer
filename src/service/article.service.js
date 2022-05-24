@@ -12,7 +12,7 @@ class articleService {
                 let authors = "",
                     sql = "INSERT INTO `dblp` (`authors`,`author`,`title`,`venue`,`volume`,`number`,`pages`,`year`,`type`,`key`,`doi`,`ee`,`url`,`name`,`IF`,`ISSN`,`kind`,`level`) VALUES ("
                 for (let i = 0; i < item.info.authors.author.length;i++) {
-                      authors += item.info.authors.author[i].text + ' ,'
+                      authors += item.info.authors.author[i].text.replace(/[0-9]*$/, "") + ' ,'
                 }
 
                 if (authors.toLocaleLowerCase().includes(username.toLocaleLowerCase()) && item.info.type === 'Journal Articles') {
