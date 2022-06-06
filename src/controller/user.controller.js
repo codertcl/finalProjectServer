@@ -20,7 +20,7 @@ class userController {
             username
         } = ctx.query
         const res = await userService.getNameInfo(username)
-        // const res = await axios.get(`https://dblp.org/search/author/api?q=${username}%3D&h=1000&format=json`)
+        // const res = await axios.get(`https://.org/search/author/api?q=${username}%3D&h=1000&format=json`)
 
         // 获取SQL语句执行结果,设置到ctx.body中
         // 无法直接返回JSON数据
