@@ -10,7 +10,7 @@ class articleService {
         if (res.data.result.status['@code'] === "200") {
             for (const item of res.data.result.hits.hit) {
                 let authors = "",
-                    sql = "INSERT INTO `dblp` (`authors`,`author`,`title`,`venue`,`volume`,`number`,`pages`,`year`,`type`,`key`,`doi`,`ee`,`url`,`name`,`IF`,`ISSN`,`kind`,`level`) VALUES ("
+                    sql = "INSERT INTO `dblp` (`authors`,`author`,`title`,`index`,`venue`,`volume`,`number`,`pages`,`year`,`type`,`key`,`doi`,`ee`,`url`,`name`,`IF`,`ISSN`,`kind`,`level`) VALUES ("
                 for (let i = 0; i < item.info.authors.author.length;i++) {
                     authors += item.info.authors.author[i].text.replace(/[0-9]*$/, "").trim() 
                     if (i < item.info.authors.author.length-1) {
@@ -27,9 +27,9 @@ class articleService {
                     let statement = `select * from journals where ${name} REGEXP ${venue}`
                     let res = await connection.execute(statement);
                     res = res[0]?.[0]
-                    authors = authors.substring(0, authors.length - 1);
-                    sql = sql + "'" + authors + "', '" + username.toLowerCase() + "', '" + item.info.title + "', '" + item.info.venue + "', '" +
-                        item.info.volume + "', '" + item.info.number + "', '" + item.info.pages + "', '" + item.info.year + "', '" +
+                    authors = authors.substring(0, authors.length)
+                    sql = sql + "'" + authors + "', '" + username.toLowerCase() + "', '" + item.info.title + "', '" + (authors.split(',').map(ite => ite.toLocaleLowerCase().trim()).indexOf(username.toLowerCase().trim()) + 1) + "', '" +
+                       item.info.venue + "', '" + item.info.volume + "', '" + item.info.number + "', '" + item.info.pages + "', '" + item.info.year + "', '" +
                         item.info.type + "', '" + item.info.key + "', '" + item.info.doi + "', '" + item.info.ee + "', '" +
                         item.info.url + "', '" + res?.name + "', '" + res?.IF + "', '" + res?.ISSN + "', '" +
                         res?.kind + "', '" + res?.level + "') "

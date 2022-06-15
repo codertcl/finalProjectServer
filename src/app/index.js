@@ -16,10 +16,10 @@ app.use(async (ctx, next) => {
     ctx.set('Access-Control-Allow-Methods', "OPTIONS, GET, PUT, POST, DELETE")
     await next();
 });
-// // 捕获错误
-// app.on('error', function (err, ctx) {
-//     console.log('server error', err, ctx);
-// });
+// 捕获错误
+app.on('error', function (err, ctx) {
+    console.log('server error', err, ctx);
+});
 //错误处理
 app.on('error', errorHandler)
 module.exports = app
